@@ -1,0 +1,251 @@
+{
+  "workspaces": {
+    "Start Here": {
+      "main": {
+        "id": "46282f834e264563",
+        "type": "split",
+        "children": [
+          {
+            "id": "f3fafbca8f43793a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "05c1ef47f4cefc6f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "🎓 Obsidian University MOC.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "8e5d4e77dfdc27b4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "eb2b125d42a2eae5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "🎓 Obsidian University MOC.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "f52e06fafa421038",
+        "type": "split",
+        "children": [
+          {
+            "id": "93f00f080efb3236",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "80aa61feafcb5f55",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "7cce1e741e13fe08",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "03195c1cb51b65ce",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "66db21eab2fcb693",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "d2a414d0abc19c36",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "d27ec8b508b004a3",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "2ad0a5f6e9f09c33",
+        "type": "split",
+        "children": [
+          {
+            "id": "06c586803a98bedb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4df392febc2841c2",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "🎓 Obsidian University MOC.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "2719584e5c745b9a",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "🎓 Obsidian University MOC.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": true
+                    }
+                  }
+                }
+              },
+              {
+                "id": "eb1f8ee5fcda3294",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "🎓 Obsidian University MOC.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "08a7bc88dccf0207",
+                "type": "leaf",
+                "state": {
+                  "type": "Strange New Worlds",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "e2182da6534c8d08",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d23c6a3eb53862b5",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "50db4f4e28e80db5",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "🎓 Obsidian University MOC.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "templates:Insert template": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "command-palette:Open command palette": false,
+          "templater-obsidian:Templater": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "completed-task-display:Task Hider": false,
+          "open-vscode:VSCode": false,
+          "smart-random-note:Open Random Note from Search": false,
+          "obsidian-spaced-repetition:Review flashcards": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "66db21eab2fcb693"
+    }
+  },
+  "active": "Start Here"
+}

@@ -1,0 +1,288 @@
+{
+  "choices": [
+    {
+      "id": "b1c4ea22-ac80-4596-9966-fcd36cd1217c",
+      "name": "Create",
+      "type": "Multi",
+      "command": false,
+      "choices": [
+        {
+          "id": "705e564a-be8b-4ee5-bec6-8a70c5d5e8ce",
+          "name": "Create Note",
+          "type": "Macro",
+          "command": true,
+          "macroId": "8800c3e7-8567-47af-a36c-0575884f3330"
+        },
+        {
+          "id": "d1ee8661-a972-40f0-b9dc-6224c7f587e7",
+          "name": "Create Project (with Kanban)",
+          "type": "Macro",
+          "command": false,
+          "macroId": "a7e42d86-e9d6-49c3-8e62-3c5318d9b616"
+        },
+        {
+          "id": "85bfdd90-42b5-444c-8c8e-abf5945c4170",
+          "name": "Create Kanban",
+          "type": "Macro",
+          "command": false,
+          "macroId": "16cb3c2f-bcbe-4e42-871f-bf134ffcffdf"
+        }
+      ]
+    },
+    {
+      "id": "0ffdbc95-21f3-4fc4-8b36-915cfe73a573",
+      "name": "Input",
+      "type": "Multi",
+      "command": false,
+      "choices": [
+        {
+          "id": "6fdd7c75-67b9-4460-978f-e7d79e2ad075",
+          "name": "Add General Input",
+          "type": "Macro",
+          "command": false,
+          "macroId": "6775afcd-c77e-4e48-8c15-e123196626e6"
+        },
+        {
+          "id": "d0ee86ee-642a-4b08-b498-7395e4725a39",
+          "name": "Add Book",
+          "type": "Macro",
+          "command": false,
+          "macroId": "e9b4fb88-8700-4671-b122-49f616f50fc8"
+        }
+      ],
+      "collapsed": false
+    }
+  ],
+  "macros": [
+    {
+      "name": "Create Project",
+      "id": "a7e42d86-e9d6-49c3-8e62-3c5318d9b616",
+      "commands": [
+        {
+          "name": "Insert Project Name",
+          "type": "NestedChoice",
+          "id": "ff1a8d34-9e17-45a0-8eab-78a32da4abd7",
+          "choice": {
+            "id": "264cdab0-fd8e-44eb-9495-23b7c80df750",
+            "name": "Insert Project Name",
+            "type": "Template",
+            "command": false,
+            "templatePath": "templates/projects/Project Template",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "~ {{NAME}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "1. Projects"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": false,
+            "incrementFileName": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default"
+          }
+        },
+        {
+          "name": "Create Kanban",
+          "type": "Choice",
+          "id": "0b4e1e61-a8da-403f-b770-3a6f3ebaf150",
+          "choiceId": "85bfdd90-42b5-444c-8c8e-abf5945c4170"
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Create Note",
+      "id": "8800c3e7-8567-47af-a36c-0575884f3330",
+      "commands": [
+        {
+          "name": "Insert Note Title",
+          "type": "NestedChoice",
+          "id": "8d1d784d-aa78-4f8d-a2af-6046e853071e",
+          "choice": {
+            "id": "17c37002-3a4f-4053-a9bb-bb33e4abf99d",
+            "name": "Insert Note Title",
+            "type": "Template",
+            "command": false,
+            "templatePath": "templates/notes/Note Template",
+            "fileNameFormat": {
+              "enabled": false,
+              "format": ""
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [],
+              "chooseWhenCreatingNote": true,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": false,
+            "incrementFileName": true,
+            "openFileInNewTab": {
+              "enabled": true,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Create Kanban",
+      "id": "16cb3c2f-bcbe-4e42-871f-bf134ffcffdf",
+      "commands": [
+        {
+          "name": "Insert Kanban Title",
+          "type": "NestedChoice",
+          "id": "dd520de7-29c0-44c6-bd35-e1fa9997e602",
+          "choice": {
+            "id": "57291af4-4036-425c-a91c-2ec47d55c139",
+            "name": "Insert Kanban Title",
+            "type": "Template",
+            "command": false,
+            "templatePath": "templates/projects/Kanban Template",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "!K {{NAME}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": false,
+            "incrementFileName": true,
+            "openFileInNewTab": {
+              "enabled": true,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Create Book Note",
+      "id": "e9b4fb88-8700-4671-b122-49f616f50fc8",
+      "commands": [
+        {
+          "name": "Insert Book Title",
+          "type": "NestedChoice",
+          "id": "b9fb1afe-7049-4b31-9cca-fe4ff5ad651e",
+          "choice": {
+            "id": "bc0b3eb5-b859-4be2-898b-dd02085428bf",
+            "name": "Insert Book Title",
+            "type": "Template",
+            "command": false,
+            "templatePath": "templates/inputs/Book Notes Template",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "📚 {{NAME}}"
+            },
+            "folder": {
+              "enabled": false,
+              "folders": [],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": false,
+            "incrementFileName": false,
+            "openFileInNewTab": {
+              "enabled": true,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default"
+          }
+        },
+        {
+          "name": "Insert Application Note Title (preferrably same as book)",
+          "type": "NestedChoice",
+          "id": "0c387216-1ceb-4ee4-b42c-087c737b9773",
+          "choice": {
+            "id": "03f096bd-6493-4341-ae2e-90b8e28d3fca",
+            "name": "Insert Application Note Title (preferrably same as book)",
+            "type": "Template",
+            "command": false,
+            "templatePath": "templates/inputs/Book Application Template",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "📚 {{NAME}} Application"
+            },
+            "folder": {
+              "enabled": false,
+              "folders": [],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": false,
+            "incrementFileName": false,
+            "openFileInNewTab": {
+              "enabled": true,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Create Input Note",
+      "id": "6775afcd-c77e-4e48-8c15-e123196626e6",
+      "commands": [
+        {
+          "name": "Insert Input Title",
+          "type": "NestedChoice",
+          "id": "4b9b7d39-5120-4534-b60d-bf9ce07f9b54",
+          "choice": {
+            "id": "1ea8040e-a8aa-4009-be34-06ee6e603d50",
+            "name": "Insert Input Title",
+            "type": "Template",
+            "command": false,
+            "templatePath": "templates/inputs/Input Template",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "📥 {{NAME}}"
+            },
+            "folder": {
+              "enabled": false,
+              "folders": [],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": false,
+            "incrementFileName": false,
+            "openFileInNewTab": {
+              "enabled": true,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line"
+}

@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "46282f834e264563",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ec04a4a3b72f471",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_start_here.md",
+            "mode": "source",
+            "source": false
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "6df95421dead5042",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Managing daily and periodic notes.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f52e06fafa421038",
+    "type": "split",
+    "children": [
+      {
+        "id": "93f00f080efb3236",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa5400a13a1695ce",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "7cce1e741e13fe08",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "03195c1cb51b65ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66db21eab2fcb693",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d2a414d0abc19c36",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7c35657150677bf5",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "d27ec8b508b004a3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2ad0a5f6e9f09c33",
+    "type": "split",
+    "children": [
+      {
+        "id": "06c586803a98bedb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4df392febc2841c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Managing daily and periodic notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eb1f8ee5fcda3294",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Managing daily and periodic notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e2182da6534c8d08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d23c6a3eb53862b5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "50db4f4e28e80db5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Managing daily and periodic notes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "6df95421dead5042",
+  "lastOpenFiles": [
+    "templates/periodic/periodic-reviews/Monthly Review Template.md",
+    "1. Projects/🚧 Obsidian Starter Vault Creation/📌 Version 0.2.x.md",
+    "templates/periodic/Weekly Review Template.md",
+    "📆 My Periodic Reviews.md",
+    "_start_here.md",
+    "dailyNotes/2022-08-06.md",
+    "dailyNotes/2022-08-03.md",
+    "dailyNotes/2022-08-04.md",
+    "1. Projects/🚧 Vault Onboarding/🚧 Vault Onboarding.md",
+    "1. Projects/🚧 My Projects.md"
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "46282f834e264563",
+    "type": "split",
+    "children": [
+      {
+        "id": "99242ab275add8ca",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault Features.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "74367500a8f2ca5a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "PKM Code Framework.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "d888c1f02317ad80",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "templates/ideation/Brainstorming Template.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f52e06fafa421038",
+    "type": "split",
+    "children": [
+      {
+        "id": "93f00f080efb3236",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa5400a13a1695ce",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "7cce1e741e13fe08",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "03195c1cb51b65ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66db21eab2fcb693",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#🔍",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d2a414d0abc19c36",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7c35657150677bf5",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "d27ec8b508b004a3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2ad0a5f6e9f09c33",
+    "type": "split",
+    "children": [
+      {
+        "id": "06c586803a98bedb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4df392febc2841c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PKM Code Framework.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eb1f8ee5fcda3294",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PKM Code Framework.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "50db4f4e28e80db5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PKM Code Framework.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e2182da6534c8d08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d23c6a3eb53862b5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "bc6e50d3f8483716",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f2b6ca7d6373b69",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "74367500a8f2ca5a",
+  "lastOpenFiles": [
+    "PKM Code Framework.md",
+    "templates/ideation/Brainstorming Template.md",
+    "My Thoughts.md",
+    "My Inputs.md",
+    "Vault Features.md",
+    "Managing inputs.md",
+    "📥 How to turn your notes into published articles and books using the Obsidian app with Eleanor Konik.md",
+    "📚 Books.md",
+    "Vault Overview.md",
+    "My Workflows.md"
+  ]
+}

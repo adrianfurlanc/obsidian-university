@@ -1,0 +1,6 @@
+{
+  "folder": "Calendar/DailyNotes",
+  "template": "Extras/Templates/Periodic/Daily Note Template",
+  "autorun": false,
+  "format": "YYYY-MM-DD"
+}

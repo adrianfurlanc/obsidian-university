@@ -1,0 +1,3 @@
+- [ ] The information in this note isn't USE, Unimportant, Self Explanatory, or Easy enough to memorize on the spot.
+- [ ] The note is titled as a statement or question with the proof or answer inside of the note
+- [ ] The note *focuses* on one key idea but can include others

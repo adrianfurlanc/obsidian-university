@@ -1,0 +1,22 @@
+{
+  "presetFields": [],
+  "fileClassQueries": [],
+  "displayFieldsInContextMenu": true,
+  "globallyIgnoredFields": [],
+  "classFilesPath": "Extras/FileClass/",
+  "isAutosuggestEnabled": true,
+  "fileClassAlias": "fileClass",
+  "settingsVersion": 3,
+  "globalFileClass": "all",
+  "firstDayOfWeek": 1,
+  "enableLinks": true,
+  "enableTabHeader": true,
+  "enableEditor": true,
+  "enableBacklinks": true,
+  "enableStarred": true,
+  "enableFileExplorer": true,
+  "enableSearch": true,
+  "buttonIcon": "clipboard-list",
+  "tableViewMaxRecords": 100,
+  "frontmatterListDisplay": "asArray"
+}

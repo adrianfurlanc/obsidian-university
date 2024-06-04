@@ -1,0 +1,554 @@
+[
+  {
+    "tag": "🗺️",
+    "tagCount": 6,
+    "relativePaths": [
+      "🎓 Obsidian University MOC.md",
+      "My Atlas/MOCs/🗺 Studying MOC.md",
+      "My Atlas/MOCs/🗺 Biology MOC.md",
+      "My Atlas/MOCs/🗺 Psychology MOC.md",
+      "Extras/Templates/Notes/MOC Template.md",
+      "Atlas/MOCs/🗺 Obsidian MOC.md"
+    ]
+  },
+  {
+    "tag": "unit",
+    "tagCount": 4,
+    "relativePaths": [
+      "Spaces/My School/My Units/Esquema Tema 3 - HM.md",
+      "Spaces/My School/My Units/Esquema Tema 2 - HM.md",
+      "Spaces/My School/My Units/Beginning of Psychology.md",
+      "Extras/Templates/School/Unit Template.md"
+    ]
+  },
+  {
+    "tag": "esquema",
+    "tagCount": 1,
+    "relativePaths": [
+      "Spaces/My School/My Units/Esquema Tema 2 - HM.md"
+    ]
+  },
+  {
+    "tag": "🔍",
+    "tagCount": 9,
+    "relativePaths": [
+      "Spaces/My School/My Units/My Units.md",
+      "Spaces/My School/My Lectures/My Lectures.md",
+      "Spaces/My School/My Inputs/My Inputs.md",
+      "Spaces/My School/My Courses/My Courses.md",
+      "Spaces/My School/My Concepts/My Concepts.md",
+      "Spaces/My School/My Assignments/My Assignments.md",
+      "My Atlas/Atlas.md"
+    ]
+  },
+  {
+    "tag": "lecture",
+    "tagCount": 121,
+    "relativePaths": [
+      "Spaces/My School/My Lectures/Ópera cómica versus ópera seria -L.md",
+      "Spaces/My School/My Lectures/Primer período del Renacimiento y escuela Franco-Flamenca - L.md",
+      "Spaces/My School/My Lectures/Silencio, sonido y ruido - L.md",
+      "Spaces/My School/My Lectures/Presupuesto de gastos - L.md",
+      "Spaces/My School/My Lectures/Notación prefranconiana - L.md",
+      "Spaces/My School/My Lectures/Organología Musical - generalidades - L.md",
+      "Spaces/My School/My Lectures/Notación neumática monódica - L.md",
+      "Spaces/My School/My Lectures/Notación italiana y mixta - L.md",
+      "Spaces/My School/My Lectures/Notación mixta y manierista - L.md",
+      "Spaces/My School/My Lectures/Notación de transición - L.md",
+      "Spaces/My School/My Lectures/Notación franconiana y petroniana - L.md",
+      "Spaces/My School/My Lectures/Notación francesa del siglo XIV - L.md",
+      "Spaces/My School/My Lectures/Notación cuadrada - L.md",
+      "Spaces/My School/My Lectures/Notación cuadrada (continuación) - L.md",
+      "Spaces/My School/My Lectures/Música y tecnología - L.md",
+      "Spaces/My School/My Lectures/Música instrumental de la Edad Media - L.md",
+      "Spaces/My School/My Lectures/Monodia religiosa y primeras polifonías - L.md",
+      "Spaces/My School/My Lectures/Nociones Armónicas - L.md",
+      "Spaces/My School/My Lectures/Marketing, clave en todo proyecto cultural - L.md",
+      "Spaces/My School/My Lectures/La ópera en la segunda mitad del siglo XIX - L.md",
+      "Spaces/My School/My Lectures/La ópera del barroco - L.md",
+      "Spaces/My School/My Lectures/La onda sonora y las leyes sonoras generales - L.md",
+      "Spaces/My School/My Lectures/La transición del Clasicismo al Romanticismo -  Ludwig van Beethoven - L.md",
+      "Spaces/My School/My Lectures/La práctica histórica del contrapunto modal y tonal 1 - L.md",
+      "Spaces/My School/My Lectures/La percepción humana del sonido - L.md",
+      "Spaces/My School/My Lectures/La notación neumática polifónica - L.md",
+      "Spaces/My School/My Lectures/La música a finales del siglo XIX y los inicios del siglo XX -L.md",
+      "Spaces/My School/My Lectures/La música instrumental del primer Romanticismo - L.md",
+      "Spaces/My School/My Lectures/La estrategia, base de toda dirección empresarial - L.md",
+      "Spaces/My School/My Lectures/La música entre las dos guerras mundiales - L.md",
+      "Spaces/My School/My Lectures/La música instrumental en el período clásico - L.md",
+      "Spaces/My School/My Lectures/La música después de la Segunda Guerra Mundial hasta 1960/La música después de la Segunda Guerra Mundial hasta 1960-1970 (parte II).md",
+      "Spaces/My School/My Lectures/La música después de la Segunda Guerra Mundial hasta 1960/La música después de la Segunda Guerra Mundial hasta 1960-1970 (parte I) - L.md",
+      "Spaces/My School/My Lectures/La empresa y el ámbito jurídico - L.md",
+      "Spaces/My School/My Lectures/J. S. Bach, música instrumental.md",
+      "Spaces/My School/My Lectures/El presupuesto. Estimación de ingresos - L.md",
+      "Spaces/My School/My Lectures/J. S. Bach, la música vocal - L.md",
+      "Spaces/My School/My Lectures/Inicios de la notación occidental - L.md",
+      "Spaces/My School/My Lectures/Influencias populares y extraoccidentales - L.md",
+      "Spaces/My School/My Lectures/Generalidades de la composición II - L.md",
+      "Spaces/My School/My Lectures/Imitación a la cuarta y a la quinta - L.md",
+      "Spaces/My School/My Lectures/Generalidades de la composición I - L.md",
+      "Spaces/My School/My Lectures/Formas instrumentales del Barroco (III) - L .md",
+      "Spaces/My School/My Lectures/Formas instrumentales del Barroco (continuación) - L.md",
+      "Spaces/My School/My Lectures/Formas instrumentales del Barroco (II) - L.md",
+      "Spaces/My School/My Lectures/El proyecto gestionado - L.md",
+      "Spaces/My School/My Lectures/Fenómenos sonoros generales - la no percepción del sonido - L.md",
+      "Spaces/My School/My Lectures/El proyecto - punto de partida -L.md",
+      "Spaces/My School/My Lectures/El lied y la ópera romántica hasta la primera mitad del siglo XIX - L.md",
+      "Spaces/My School/My Lectures/El imprescindible papel de la Fundación - L.md",
+      "Spaces/My School/My Lectures/El análisis de la música del preclasicismo - L.md",
+      "Spaces/My School/My Lectures/El estilo galante - L.md",
+      "Spaces/My School/My Lectures/Contrapunto riguroso III - Segunda especie - L.md",
+      "Spaces/My School/My Lectures/El análisis de los tres estilos de Beethoven. - L.md",
+      "Spaces/My School/My Lectures/El análisis de la música romántica - L.md",
+      "Spaces/My School/My Lectures/El análisis de la música del preclasicismo II - L.md",
+      "Spaces/My School/My Lectures/El análisis de la música de Fin de siècle I - L.md",
+      "Spaces/My School/My Lectures/El análisis de la música del clasicismo - L.md",
+      "Spaces/My School/My Lectures/El análisis de la música a partir de 1850 - Brahms y Wagner - L.md",
+      "Spaces/My School/My Lectures/El análisis de la forma sonata en Haydn - L.md",
+      "Spaces/My School/My Lectures/El análisis de la forma sonata en Mozart - L.md",
+      "Spaces/My School/My Lectures/El análisis de la forma sonata en Beethoven - L.md",
+      "Spaces/My School/My Lectures/El Romanticismo musical - L.md",
+      "Spaces/My School/My Lectures/El Stile Antico - L.md",
+      "Spaces/My School/My Lectures/El Clasicismo vienés - L.md",
+      "Spaces/My School/My Lectures/Diseño de sonido - la electroacústica - L.md",
+      "Spaces/My School/My Lectures/El Análisis Musical - L.md",
+      "Spaces/My School/My Lectures/Del Stil Antico al Stil Nuovo - L.md",
+      "Spaces/My School/My Lectures/Composicion de un minuetto - L.md",
+      "Spaces/My School/My Lectures/Contrapunto riguroso II - generalidades y normas (continuación) - L.md",
+      "Spaces/My School/My Lectures/De 1960/De 1960 -1970 a principios del siglo XXI - L.md",
+      "Spaces/My School/My Lectures/Contrapunto riguroso IV - Tercera especie - L.md",
+      "Spaces/My School/My Lectures/Contrapunto riguroso I - generalidades y normas - L.md",
+      "Spaces/My School/My Lectures/Constituyentes del sonido y serie armónica - L.md",
+      "Spaces/My School/My Lectures/Composición de un lied - L.md",
+      "Spaces/My School/My Lectures/Composición de una forma sonata - L.md",
+      "Spaces/My School/My Lectures/Composición de una forma sonata (continuación) - L.md",
+      "Spaces/My School/My Lectures/Composición de un rondó - L.md",
+      "Spaces/My School/My Lectures/Composición de tema y variaciones - L.md",
+      "Spaces/My School/My Lectures/Composición de tema y variaciones (continuacion) - L.md",
+      "Spaces/My School/My Lectures/Clase de resolución de la actividad análisis de frase - L.md",
+      "Spaces/My School/My Lectures/Captura y registro de sonido - L.md",
+      "Spaces/My School/My Lectures/ El análisis de la música programática - L.md",
+      "Spaces/My School/My Lectures/Acústica del espacio musical - L.md",
+      "Spaces/My School/My Lectures/ Formas instrumentales del Barroco - L.md",
+      "Extras/Templates/School/Lecture Template.md"
+    ]
+  },
+  {
+    "tag": "🟨",
+    "tagCount": 19,
+    "relativePaths": [
+      "Spaces/My School/My Lectures/Ópera cómica versus ópera seria -L.md",
+      "Spaces/My School/My Lectures/Primer período del Renacimiento y escuela Franco-Flamenca - L.md",
+      "Spaces/My School/My Lectures/Notación neumática monódica - L.md",
+      "Spaces/My School/My Lectures/Notación cuadrada - L.md",
+      "Spaces/My School/My Lectures/Monodia religiosa y primeras polifonías - L.md",
+      "Spaces/My School/My Lectures/La ópera del barroco - L.md",
+      "Spaces/My School/My Lectures/La notación neumática polifónica - L.md",
+      "Spaces/My School/My Lectures/La música instrumental en el período clásico - L.md",
+      "Spaces/My School/My Lectures/Inicios de la notación occidental - L.md",
+      "Spaces/My School/My Lectures/Generalidades de la composición II - L.md",
+      "Spaces/My School/My Lectures/Generalidades de la composición I - L.md",
+      "Spaces/My School/My Lectures/El estilo galante - L.md",
+      "Spaces/My School/My Lectures/El Stile Antico - L.md",
+      "Spaces/My School/My Lectures/El Clasicismo vienés - L.md",
+      "Spaces/My School/My Lectures/El Análisis Musical - L.md",
+      "Spaces/My School/My Lectures/Del Stil Antico al Stil Nuovo - L.md",
+      "Spaces/My School/My Inputs/Ópera cómica versus ópera seria.md",
+      "Spaces/My School/My Inputs/La transición del Clasicismo al Romanticismo.md",
+      "Spaces/My School/My Assignments/Research paper on an important figure.md"
+    ]
+  },
+  {
+    "tag": "acustica",
+    "tagCount": 16,
+    "relativePaths": [
+      "Spaces/My School/My Lectures/Silencio, sonido y ruido - L.md",
+      "Spaces/My School/My Lectures/Organología Musical - generalidades - L.md",
+      "Spaces/My School/My Lectures/La onda sonora y las leyes sonoras generales - L.md",
+      "Spaces/My School/My Lectures/La percepción humana del sonido - L.md",
+      "Spaces/My School/My Lectures/Fenómenos sonoros generales - la no percepción del sonido - L.md",
+      "Spaces/My School/My Lectures/Diseño de sonido - la electroacústica - L.md",
+      "Spaces/My School/My Lectures/Constituyentes del sonido y serie armónica - L.md",
+      "Spaces/My School/My Lectures/Captura y registro de sonido - L.md",
+      "Spaces/My School/My Lectures/Acústica del espacio musical - L.md",
+      "Spaces/My School/My Inputs/Silencio, sonido y ruido.md",
+      "Spaces/My School/My Inputs/La percepción humana del sonido.md",
+      "Spaces/My School/My Inputs/La onda sonora y las leyes sonoras generales.md",
+      "Spaces/My School/My Inputs/Fenómenos sonoros generales - la no percepción del sonido.md",
+      "Spaces/My School/My Inputs/Diseño de sonido - la electroacústica.md",
+      "Spaces/My School/My Inputs/Constituyentes del sonido y serie armónica.md",
+      "Spaces/My School/My Inputs/Captura y registro de sonido.md"
+    ]
+  },
+  {
+    "tag": "empresa",
+    "tagCount": 11,
+    "relativePaths": [
+      "Spaces/My School/My Lectures/Presupuesto de gastos - L.md",
+      "Spaces/My School/My Lectures/Marketing, clave en todo proyecto cultural - L.md",
+      "Spaces/My School/My Lectures/La estrategia, base de toda dirección empresarial - L.md",
+      "Spaces/My School/My Lectures/La empresa y el ámbito jurídico - L.md",
+      "Spaces/My School/My Lectures/El presupuesto. Estimación de ingresos - L.md",
+      "Spaces/My School/My Lectures/El proyecto gestionado - L.md",
+      "Spaces/My School/My Lectures/El proyecto - punto de partida -L.md",
+      "Spaces/My School/My Lectures/El imprescindible papel de la Fundación - L.md",
+      "Spaces/My School/My Inputs/Presupuesto de gastos.md",
+      "Spaces/My School/My Inputs/Modelo Examen Gestión de Empresas.md",
+      "Spaces/My School/My Inputs/La estrategia, base de toda dirección empresarial.md"
+    ]
+  },
+  {
+    "tag": "historia3",
+    "tagCount": 15,
+    "relativePaths": [
+      "Spaces/My School/My Lectures/Música y tecnología - L.md",
+      "Spaces/My School/My Lectures/La música a finales del siglo XIX y los inicios del siglo XX -L.md",
+      "Spaces/My School/My Lectures/La música entre las dos guerras mundiales - L.md",
+      "Spaces/My School/My Lectures/La música después de la Segunda Guerra Mundial hasta 1960/La música después de la Segunda Guerra Mundial hasta 1960-1970 (parte II).md",
+      "Spaces/My School/My Lectures/La música después de la Segunda Guerra Mundial hasta 1960/La música después de la Segunda Guerra Mundial hasta 1960-1970 (parte I) - L.md",
+      "Spaces/My School/My Lectures/Influencias populares y extraoccidentales - L.md",
+      "Spaces/My School/My Lectures/De 1960/De 1960 -1970 a principios del siglo XXI - L.md",
+      "Spaces/My School/My Inputs/Música y tecnología.md",
+      "Spaces/My School/My Inputs/Modelo Examen Historia de la Música.md",
+      "Spaces/My School/My Inputs/La música entre las dos guerras mundiales.md",
+      "Spaces/My School/My Inputs/La música después de la Segunda Guerra Mundial hasta 1960/La música después de la Segunda Guerra Mundial hasta 1960-1970 (parte II).md",
+      "Spaces/My School/My Inputs/La música después de la Segunda Guerra Mundial hasta 1960/La música después de la Segunda Guerra Mundial hasta 1960-1970 (parte I).md",
+      "Spaces/My School/My Inputs/La música a finales del siglo XIX y los inicios del siglo XX.md",
+      "Spaces/My School/My Inputs/De 1960 - 1970 a principios del siglo XXI.md",
+      "Spaces/My School/My Courses/Historia de la Música siglo XX y XXI.md"
+    ]
+  },
+  {
+    "tag": "contrapunto",
+    "tagCount": 21,
+    "relativePaths": [
+      "Spaces/My School/My Lectures/La práctica histórica del contrapunto modal y tonal 1 - L.md",
+      "Spaces/My School/My Lectures/Imitación a la cuarta y a la quinta - L.md",
+      "Spaces/My School/My Lectures/Contrapunto riguroso III - Segunda especie - L.md",
+      "Spaces/My School/My Lectures/Contrapunto riguroso II - generalidades y normas (continuación) - L.md",
+      "Spaces/My School/My Lectures/Contrapunto riguroso IV - Tercera especie - L.md",
+      "Spaces/My School/My Lectures/Contrapunto riguroso I - generalidades y normas - L.md",
+      "Spaces/My School/My Inputs/Capítulo I y II - Técnica de Contrapunto.md",
+      "Spaces/My School/My Inputs/Contrapunto riguroso IV - Tercera especie.md",
+      "Spaces/My School/My Inputs/Capítulo VIII - Técnica de Contrapunto pp.51-52.md",
+      "Spaces/My School/My Inputs/Contrapunto riguroso III - Segunda especie.md",
+      "Spaces/My School/My Inputs/Contrapunto riguroso II - generalidades y normas (continuación).md",
+      "Spaces/My School/My Inputs/Contrapunto riguroso I -  generalidades y normas.md",
+      "Spaces/My School/My Inputs/Capítulo VIII - Técnica de Contrapunto pp. 53.md",
+      "Spaces/My School/My Inputs/Capítulo VII - Técnica de Contrapunto pp.47-48.md",
+      "Spaces/My School/My Inputs/Capítulo VII - Técnica de Contrapunto pp.45.md",
+      "Spaces/My School/My Inputs/Capítulo VII - Técnica de Contrapunto pp. 45-47.md",
+      "Spaces/My School/My Inputs/Capítulo IV - Técnica de Contrapunto pp.37-40.md",
+      "Spaces/My School/My Inputs/Capítulo IV - Técnica de Contrapunto pp. 24-33.md",
+      "Spaces/My School/My Inputs/Capítulo III - Técnica de Contrapunto.md",
+      "Spaces/My School/My Inputs/Capítulo III - Técnica de Contrapunto pp.19.md",
+      "Spaces/My School/My Concepts/Capítulo VIII  - Técnica de Contrapunto pp.54.md"
+    ]
+  },
+  {
+    "tag": "analisis2",
+    "tagCount": 32,
+    "relativePaths": [
+      "Spaces/My School/My Lectures/El análisis de la música del preclasicismo - L.md",
+      "Spaces/My School/My Lectures/El análisis de los tres estilos de Beethoven. - L.md",
+      "Spaces/My School/My Lectures/El análisis de la música romántica - L.md",
+      "Spaces/My School/My Lectures/El análisis de la música de Fin de siècle I - L.md",
+      "Spaces/My School/My Lectures/El análisis de la música del clasicismo - L.md",
+      "Spaces/My School/My Lectures/El análisis de la música a partir de 1850 - Brahms y Wagner - L.md",
+      "Spaces/My School/My Lectures/El análisis de la forma sonata en Haydn - L.md",
+      "Spaces/My School/My Lectures/El análisis de la forma sonata en Mozart - L.md",
+      "Spaces/My School/My Lectures/El análisis de la forma sonata en Beethoven - L.md",
+      "Spaces/My School/My Lectures/Clase de resolución de la actividad análisis de frase - L.md",
+      "Spaces/My School/My Lectures/ El análisis de la música programática - L.md",
+      "Spaces/My School/My Inputs/El análisis de la música del preclasicismo.md",
+      "Spaces/My School/My Inputs/El análisis de la música romántica.md",
+      "Spaces/My School/My Inputs/El análisis de la música del clasicismo.md",
+      "Spaces/My School/My Inputs/El análisis de la música a partir de 1850 - Brahms y Wagner..md",
+      "Spaces/My School/My Inputs/El análisis de la forma sonata en Mozart.md",
+      "Spaces/My School/My Inputs/El análisis de la forma sonata en Beethoven.md",
+      "Spaces/My School/My Inputs/El análisis de la forma sonata en Haydn.md",
+      "Spaces/My School/My Concepts/Mozart - Sonata KV 545, III.md",
+      "Spaces/My School/My Concepts/Mozart - Sonata KV 545, I.md",
+      "Spaces/My School/My Concepts/Haydn - Sonata para teclado n o 1 Hob. XVI - 8, I.md",
+      "Spaces/My School/My Concepts/Haydn - Sinfonía n o 82 Hob. I - 82, IV.md",
+      "Spaces/My School/My Concepts/Haydn - Sinfonía n o 49 Hob. I - 49, I.md",
+      "Spaces/My School/My Concepts/Haydn - Sinfonía n o 1 Hob. I - 1, I.md",
+      "Spaces/My School/My Concepts/Haydn - Cuarteto Op. 33 n o 3, I.md",
+      "Spaces/My School/My Concepts/Haydn - Cuarteto Op. 33 n o 2 «La broma», IV.md",
+      "Spaces/My School/My Concepts/Haydn - Cuarteto Op. 20 n o 4, IV.md",
+      "Spaces/My School/My Concepts/Haydn - Cuarteto Op. 20 n o 4, III.md",
+      "Spaces/My School/My Concepts/Haydn - Cuarteto Op. 20 n o 3, I.md",
+      "Spaces/My School/My Concepts/Beethoven - Sonata Op. 26, I.md",
+      "Spaces/My School/My Concepts/Beethoven -  Sonatina en Fa mayor Ahn 5, II.md",
+      "Beethoven - Sonata Op.27/Beethoven  Sonata Op. 27, quasi una fantasia, II.md"
+    ]
+  },
+  {
+    "tag": "historia",
+    "tagCount": 9,
+    "relativePaths": [
+      "Spaces/My School/My Lectures/El estilo galante - L.md",
+      "Spaces/My School/My Inputs/El lied y la ópera romántica hasta la primera mitad del siglo XIX.md",
+      "Spaces/My School/My Inputs/Ópera cómica versus ópera seria.md",
+      "Spaces/My School/My Inputs/La música instrumental en el período clásico.md",
+      "Spaces/My School/My Inputs/La transición del Clasicismo al Romanticismo.md",
+      "Spaces/My School/My Inputs/El estilo galante.md",
+      "Spaces/My School/My Inputs/El Clasicismo vienés.md",
+      "Spaces/My School/My Courses/Historia de la Música II.md"
+    ]
+  },
+  {
+    "tag": "i/unir",
+    "tagCount": 55,
+    "relativePaths": [
+      "Spaces/My School/My Inputs/El lied y la ópera romántica hasta la primera mitad del siglo XIX.md",
+      "Spaces/My School/My Inputs/Ópera cómica versus ópera seria.md",
+      "Spaces/My School/My Inputs/Silencio, sonido y ruido.md",
+      "Spaces/My School/My Inputs/Semana de Repaso.md",
+      "Spaces/My School/My Inputs/Música y tecnología.md",
+      "Spaces/My School/My Inputs/Presupuesto de gastos.md",
+      "Spaces/My School/My Inputs/Origen de la escritura musical.md",
+      "Spaces/My School/My Inputs/Modelo Examen Historia de la Música.md",
+      "Spaces/My School/My Inputs/Monodia religiosa y primeras polifonías.md",
+      "Spaces/My School/My Inputs/Modelo Examen Gestión de Empresas.md",
+      "Spaces/My School/My Inputs/La música instrumental en el período clásico.md",
+      "Spaces/My School/My Inputs/La transición del Clasicismo al Romanticismo.md",
+      "Spaces/My School/My Inputs/La percepción humana del sonido.md",
+      "Spaces/My School/My Inputs/La onda sonora y las leyes sonoras generales.md",
+      "Spaces/My School/My Inputs/La música entre las dos guerras mundiales.md",
+      "Spaces/My School/My Inputs/La música después de la Segunda Guerra Mundial hasta 1960/La música después de la Segunda Guerra Mundial hasta 1960-1970 (parte II).md",
+      "Spaces/My School/My Inputs/La música después de la Segunda Guerra Mundial hasta 1960/La música después de la Segunda Guerra Mundial hasta 1960-1970 (parte I).md",
+      "Spaces/My School/My Inputs/La música a finales del siglo XIX y los inicios del siglo XX.md",
+      "Spaces/My School/My Inputs/La estrategia, base de toda dirección empresarial.md",
+      "Spaces/My School/My Inputs/Inicios de la notación occidental.md",
+      "Spaces/My School/My Inputs/El análisis de la música del preclasicismo.md",
+      "Spaces/My School/My Inputs/Fenómenos sonoros generales - la no percepción del sonido.md",
+      "Spaces/My School/My Inputs/El estilo galante.md",
+      "Spaces/My School/My Inputs/El análisis de la música romántica.md",
+      "Spaces/My School/My Inputs/El análisis de la música del clasicismo.md",
+      "Spaces/My School/My Inputs/El análisis de la música a partir de 1850 - Brahms y Wagner..md",
+      "Spaces/My School/My Inputs/El análisis de la forma sonata en Mozart.md",
+      "Spaces/My School/My Inputs/El análisis de la forma sonata en Beethoven.md",
+      "Spaces/My School/My Inputs/El análisis de la forma sonata en Haydn.md",
+      "Spaces/My School/My Inputs/El Stile Antico.md",
+      "Spaces/My School/My Inputs/El Análisis Musical.md",
+      "Spaces/My School/My Inputs/El Romanticismo musical .md",
+      "Spaces/My School/My Inputs/El Clasicismo vienés.md",
+      "Spaces/My School/My Inputs/Diseño de sonido - la electroacústica.md",
+      "Spaces/My School/My Inputs/De 1960 - 1970 a principios del siglo XXI.md",
+      "Spaces/My School/My Inputs/Contrapunto riguroso IV - Tercera especie.md",
+      "Spaces/My School/My Inputs/Contrapunto riguroso III - Segunda especie.md",
+      "Spaces/My School/My Inputs/Contrapunto riguroso II - generalidades y normas (continuación).md",
+      "Spaces/My School/My Inputs/Contrapunto riguroso I -  generalidades y normas.md",
+      "Spaces/My School/My Inputs/Constituyentes del sonido y serie armónica.md",
+      "Spaces/My School/My Inputs/Captura y registro de sonido.md",
+      "Extras/Templates/Notes/Input Template.md"
+    ]
+  },
+  {
+    "tag": "i/book",
+    "tagCount": 11,
+    "relativePaths": [
+      "Spaces/My School/My Inputs/Capítulo I y II - Técnica de Contrapunto.md",
+      "Spaces/My School/My Inputs/Capítulo VIII - Técnica de Contrapunto pp.51-52.md",
+      "Spaces/My School/My Inputs/Capítulo VIII - Técnica de Contrapunto pp. 53.md",
+      "Spaces/My School/My Inputs/Capítulo VII - Técnica de Contrapunto pp.47-48.md",
+      "Spaces/My School/My Inputs/Capítulo VII - Técnica de Contrapunto pp.45.md",
+      "Spaces/My School/My Inputs/Capítulo VII - Técnica de Contrapunto pp. 45-47.md",
+      "Spaces/My School/My Inputs/Capítulo IV - Técnica de Contrapunto pp.37-40.md",
+      "Spaces/My School/My Inputs/Capítulo IV - Técnica de Contrapunto pp. 24-33.md",
+      "Spaces/My School/My Inputs/Capítulo III - Técnica de Contrapunto.md",
+      "Spaces/My School/My Inputs/Capítulo III - Técnica de Contrapunto pp.19.md",
+      "Spaces/My School/My Concepts/Capítulo VIII  - Técnica de Contrapunto pp.54.md"
+    ]
+  },
+  {
+    "tag": "analisis",
+    "tagCount": 4,
+    "relativePaths": [
+      "Spaces/My School/My Inputs/Semana de Repaso.md",
+      "Spaces/My School/My Inputs/El Stile Antico.md",
+      "Spaces/My School/My Inputs/El Análisis Musical.md"
+    ]
+  },
+  {
+    "tag": "🟥",
+    "tagCount": 5,
+    "relativePaths": [
+      "Spaces/My School/My Inputs/Origen de la escritura musical.md",
+      "Spaces/My School/My Inputs/Monodia religiosa y primeras polifonías.md",
+      "Spaces/My School/My Inputs/Inicios de la notación occidental.md",
+      "Spaces/My School/My Inputs/El Clasicismo vienés.md",
+      "Extras/Templates/Notes/Concept Note Template.md"
+    ]
+  },
+  {
+    "tag": "examen",
+    "tagCount": 2,
+    "relativePaths": [
+      "Spaces/My School/My Inputs/Modelo Examen Historia de la Música.md",
+      "Spaces/My School/My Concepts/Examen Contrapunto.md"
+    ]
+  },
+  {
+    "tag": "🟧",
+    "tagCount": 1,
+    "relativePaths": [
+      "Spaces/My School/My Inputs/La música instrumental en el período clásico.md"
+    ]
+  },
+  {
+    "tag": "course",
+    "tagCount": 24,
+    "relativePaths": [
+      "Spaces/My School/My Courses/Acústica Musical y Organología.md",
+      "Spaces/My School/My Courses/Notación y Transcripción.md",
+      "Spaces/My School/My Courses/Historia de la Música siglo XX y XXI.md",
+      "Spaces/My School/My Courses/Historia de la Música II.md",
+      "Spaces/My School/My Courses/Análisis I.md",
+      "Spaces/My School/My Courses/Gestión de Empresas.md",
+      "Spaces/My School/My Courses/Fundamentos de Composición.md",
+      "Spaces/My School/My Courses/Filosofía.md",
+      "Spaces/My School/My Courses/Contrapunto.md",
+      "Spaces/My School/My Courses/Armonía II.md",
+      "Spaces/My School/My Courses/Armonía I.md",
+      "Spaces/My School/My Courses/Análisis II.md",
+      "Extras/Templates/School/Course Template.md"
+    ]
+  },
+  {
+    "tag": "tutorial",
+    "tagCount": 2,
+    "relativePaths": [
+      "Spaces/My School/My Concepts/Weekly Questions for Time Tracking.md",
+      "Notes/Cubase 10 Explained.md"
+    ]
+  },
+  {
+    "tag": "concept",
+    "tagCount": 36,
+    "relativePaths": [
+      "Spaces/My School/My Concepts/Weekly Questions for Time Tracking.md",
+      "Spaces/My School/My Concepts/Repaso Análisis.md",
+      "Spaces/My School/My Concepts/Psychology concept.md",
+      "Spaces/My School/My Concepts/Project.md",
+      "Spaces/My School/My Concepts/Mozart - Sonata KV 545, III.md",
+      "Spaces/My School/My Concepts/Mozart - Sonata KV 545, I.md",
+      "Spaces/My School/My Concepts/Haydn - Sonata para teclado n o 1 Hob. XVI - 8, I.md",
+      "Spaces/My School/My Concepts/Haydn - Sinfonía n o 82 Hob. I - 82, IV.md",
+      "Spaces/My School/My Concepts/Haydn - Sinfonía n o 49 Hob. I - 49, I.md",
+      "Spaces/My School/My Concepts/Haydn - Sinfonía n o 1 Hob. I - 1, I.md",
+      "Spaces/My School/My Concepts/Haydn - Cuarteto Op. 33 n o 3, I.md",
+      "Spaces/My School/My Concepts/Haydn - Cuarteto Op. 33 n o 2 «La broma», IV.md",
+      "Spaces/My School/My Concepts/Haydn - Cuarteto Op. 20 n o 4, IV.md",
+      "Spaces/My School/My Concepts/Haydn - Cuarteto Op. 20 n o 4, III.md",
+      "Spaces/My School/My Concepts/Haydn - Cuarteto Op. 20 n o 3, I.md",
+      "Spaces/My School/My Concepts/Focus Course 2.md",
+      "Spaces/My School/My Concepts/Focus Course 1.md",
+      "Spaces/My School/My Concepts/Examenes online UNIR.md",
+      "Spaces/My School/My Concepts/Examen Contrapunto.md",
+      "Spaces/My School/My Concepts/Examen (notación).md",
+      "Spaces/My School/My Concepts/El fin del mecenazgo musical.md",
+      "Spaces/My School/My Concepts/El Estilo Galante.md",
+      "Spaces/My School/My Concepts/Dataview.md",
+      "Spaces/My School/My Concepts/Build Your Knowledge Portfolio.md",
+      "Spaces/My School/My Concepts/Beethoven - Sonata Op. 26, I.md",
+      "Spaces/My School/My Concepts/Beethoven -  Sonatina en Fa mayor Ahn 5, II.md",
+      "Spaces/My School/My Concepts/Backlinks.md",
+      "Spaces/My School/My Concepts/Arc Recovery Code.md",
+      "Spaces/My School/My Concepts/Actividad 3 HM II.md",
+      "Notes/Spaced Repetition.md",
+      "Notes/Psychology concept.md",
+      "Notes/Obsidian Canvas.md",
+      "Notes/Active Recall.md",
+      "Extras/Templates/Notes/Note Template.md",
+      "Extras/Templates/Notes/Concept Note Template.md",
+      "Beethoven - Sonata Op.27/Beethoven  Sonata Op. 27, quasi una fantasia, II.md"
+    ]
+  },
+  {
+    "tag": "status/🟩",
+    "tagCount": 4,
+    "relativePaths": [
+      "Spaces/My School/My Concepts/Psychology concept.md",
+      "Notes/Spaced Repetition.md",
+      "Notes/Psychology concept.md",
+      "Notes/Active Recall.md"
+    ]
+  },
+  {
+    "tag": "yamaha",
+    "tagCount": 5,
+    "relativePaths": [
+      "Notes/Video Handling Basics - Cubase.md",
+      "Notes/Técnicas al usar melodías.md",
+      "Notes/Cubase- Working to film explained.md",
+      "Notes/Cubase 10 Explained.md",
+      "Notes/Composición.md"
+    ]
+  },
+  {
+    "tag": "teoria",
+    "tagCount": 2,
+    "relativePaths": [
+      "Notes/Técnicas al usar melodías.md",
+      "Notes/Composición.md"
+    ]
+  },
+  {
+    "tag": "plugin",
+    "tagCount": 8,
+    "relativePaths": [
+      "Notes/Templater Plugin.md",
+      "Notes/Strange New Worlds Plugin.md",
+      "Notes/Spaced Repetition Plugin.md",
+      "Notes/QuickAdd Plugin.md",
+      "Notes/Metadata Menu Plugin.md",
+      "Notes/Dataview Plugin.md",
+      "Notes/Cmenu Community Plugin.md",
+      "Notes/Calendar Plugin.md"
+    ]
+  },
+  {
+    "tag": "flashcards",
+    "tagCount": 1,
+    "relativePaths": [
+      "Notes/Spaced Repetition Plugin.md"
+    ]
+  },
+  {
+    "tag": "⚡section1-course-chat",
+    "tagCount": 1,
+    "relativePaths": [
+      "Notes/Responses to Lesson Action Items.md"
+    ]
+  },
+  {
+    "tag": "chapter3",
+    "tagCount": 1,
+    "relativePaths": [
+      "Notes/My Step By Step Process For Taking Conceptual Lecture Notes In Obsidian.md"
+    ]
+  },
+  {
+    "tag": "assignment",
+    "tagCount": 2,
+    "relativePaths": [
+      "Extras/Templates/School/Assignment Template.md"
+    ]
+  },
+  {
+    "tag": "dailynote",
+    "tagCount": 1,
+    "relativePaths": [
+      "Extras/Templates/Periodic/Daily Note Template.md"
+    ]
+  },
+  {
+    "tag": "reviews/weekly",
+    "tagCount": 1,
+    "relativePaths": [
+      "Extras/Templates/Periodic/Weekly Review Template.md"
+    ]
+  }
+]
