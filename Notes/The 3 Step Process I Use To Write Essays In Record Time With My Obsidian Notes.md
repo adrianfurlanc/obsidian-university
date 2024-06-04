@@ -1,3 +1,6 @@
+---
+modified: 2024-06-04T19:40:29+02:00
+---
 Status::
 Tags:: 
 Links:: [[Module - Create]]
@@ -41,7 +44,7 @@ The essay prompt:
 *Take your greatest insights from Daniele Gilbert's book Stumbling on Happiness and analyze how they have changed your life in some way.*
 
 ### Dump:
-First I dump every idea, quote, or note I think would be relevant to the essay inside of a new assignment note for the class (remember you can find your assignments in [[My Assignments]]). 
+First I dump every idea, quote, or note I think would be relevant to the essay inside of a new assignment note for the class 
 
 **Everything.** 
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/My School/My Lectures/My Lectures.md",
+                "file": "🏠 My Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "El análisis d",
+                "query": "assignment",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/My School/My Lectures/My Lectures.md",
+                "file": "🏠 My Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/My School/My Lectures/My Lectures.md",
+                "file": "🏠 My Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Spaces/My School/My Lectures/My Lectures.md"
+                "file": "🏠 My Home.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/My School/My Lectures/My Lectures.md"
+                "file": "🏠 My Home.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/My School/My Lectures/My Lectures.md",
+                "file": "🏠 My Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -252,33 +252,33 @@
   },
   "active": "e2fcef9a862aa8d2",
   "lastOpenFiles": [
-    "Notes/My Hotkeys.md",
-    "Notes/Obsidian Core Features.md",
-    "Notes/Module - Learning Obsidian Core Features.md",
-    "Spaces/My School/My Lectures/My Lectures.md",
-    "Spaces/My School/My Lectures/Imitación a la cuarta y a la quinta - L.md",
-    "Spaces/My School/My Lectures/ El análisis de la música programática - L.md",
-    "Spaces/My School/My Inputs/My Inputs.md",
-    "Spaces/My School/My Courses/My Courses.md",
-    "Spaces/My School/My Courses/Historia de la Música siglo XX y XXI.md",
-    "Spaces/My School/My Assignments/My Assignments.md",
-    "Spaces/My School/My Courses/Historia de la Música II.md",
-    "Spaces/My School/My Courses/Gestión de Empresas.md",
-    "Spaces/My School/My Courses/Fundamentos de Composición.md",
-    "Spaces/My School/My Concepts/Focus Course 2.md",
-    "Spaces/My School/My Courses/Filosofía.md",
-    "Spaces/My School/My Courses/Contrapunto.md",
-    "Extras/Templates/School/Course Template.md",
-    "Spaces/My School/My Courses/Armonía II.md",
-    "Extras/Templates/School/Assignment Template.md",
-    "Spaces/My School/My Courses/Armonía I.md",
-    "Spaces/My School/My Courses/Análisis II.md",
-    "Spaces/My School/My Courses/Análisis I.md",
-    "Spaces/My School/My Courses/Acústica Musical y Organología.md",
-    "Spaces/My School/My School.md",
+    "Notes/Dataview Plugin.md",
     "🏠 My Home.md",
-    "Note-Making Station.canvas",
+    "Notes/How To Identify Note Type And Status.md",
+    "Notes/Managing the different note types.md",
+    "Notes/Metadata Menu Plugin.md",
+    "Notes/Note Explanations.md",
+    "Notes/Module - The Seven Obsidian Plug Ins That Will Explode Your Notetaking.md",
+    "Notes/Why Student’s Waste Their Semesters.md",
+    "Notes/The Cookie Cutter Student Mindset.md",
+    "Notes/The 3 Step Process I Use To Write Essays In Record Time With My Obsidian Notes.md",
+    "Notes/Templater Plugin.md",
+    "Notes/Obsidian Core Features.md",
+    "Notes/QuickAdd Plugin.md",
+    "Extras/Templates/Periodic/Weekly Review Template.md",
+    "Notes/Module - How To Easily Personalize Obsidian For School.md",
+    "Notes/Responses to Lesson Action Items.md",
+    "Spaces/My School/My Assignments/Research paper on an important figure.md",
+    "Spaces/My School/My Courses/Notación y Transcripción.md",
+    "Spaces/My School/My Essays/My Essays.md",
+    "Spaces/My School/My School.md",
     "🎓 Obsidian University MOC.md",
+    "Spaces/My School/My Concepts/Examenes online UNIR.md",
+    "Notes/5 Levels of Idea Emergence Creation Checklist.md",
+    "Spaces/My School/My Lectures/My Lectures.md",
+    "Notes/My Hotkeys.md",
+    "Notes/Module - Learning Obsidian Core Features.md",
+    "Note-Making Station.canvas",
     "sync",
     "Extras/Images/2024-4-3_12.43.12.png",
     "Extras/Images/2024-4-3_17.14.37.png",

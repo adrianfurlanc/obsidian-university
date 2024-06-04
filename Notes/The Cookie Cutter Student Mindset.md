@@ -1,5 +1,6 @@
 ---
 Created: 2023-01-25 08:34
+modified: 2024-06-04T19:42:58+02:00
 ---
 Status:: 
 Tags:: 
@@ -70,7 +71,7 @@ The reason was simple.
 
 In contrast, school had killed my childhood curiosity.
 
-In school, I was forced to do endless assignments, tests, essays, quizzes, and homework. **Instead of learning for the sake of learning in itself, I learned to get the best grade on the test.**
+In school, I was forced to do endless tests, essays, quizzes, and homework. **Instead of learning for the sake of learning in itself, I learned to get the best grade on the test.**
 
 But the worst part about school, by far, was the notetaking. Notetaking brought these thoughts to my head:
 - Boredom

@@ -1,5 +1,5 @@
 ---
-modified: 2024-06-04T19:13:56+02:00
+modified: 2024-06-04T19:40:08+02:00
 ---
 
 ## [[Module - Breaking Out Of The Cookie Cutter Student Mindset]]
@@ -128,17 +128,13 @@ Additional Resources
 > [!TODO] Action Items
 > - [x] For each of the following, see if you want to change any metadata or headers to compliment your own workflows:
 > 	- [x] [[Course Template]]
-> 	- [x] [[Assignment Template]]
 > 	- [x] [[Lecture Template]]
-> 	- [x] [[Unit Template]]
 > 	- [x] [[Concept Note Template]]
 > - [ ] Brainstorm what else you might want to add in the student dashboard, and add it in
 > - [ ] Create notes
 > 	- [ ] Create a course note for a cours~~e~~ you're currently taking in [[My Courses]]
 > 	- [ ] Take a lecture note for the next lecture you have [[My Lectures]]
-
 > 	- [ ] Create concept notes from the lecture note you made in [[My Lectures]]
-> 	- [ ] Create an assignment note and connect to related notes and ideas you will need to complete it in [[My Assignments]]
 > - [ ] Did you end up making any changes to the templates? If so, what were they? (Please share your response in the #⚡section1-course-chat of the discord)
 > - [ ] 🎊Congratulations!🎊 You made it to the end of the Obsidian 101 Section of the course. In addition, if you think a **friend would benefit from taking the course** forward this email to them, tell them why you like it so much, and tell them to  [use this link at check out](https://course.aidanhelfant.com/products/obsidian-university-templateswcourse?promo=FRIEND)  for $75 off at the checkout page in the  [Obsidian University Landing Page.](https://shop.johnmavrick.com/obsidian-university)
 ## How To Get Better Grades While Studying Less In Obsidian

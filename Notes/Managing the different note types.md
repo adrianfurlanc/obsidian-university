@@ -1,5 +1,6 @@
 ---
 Created: 2023-02-17 15:56
+modified: 2024-06-04T19:45:18+02:00
 ---
 Status::
 Tags:: 
@@ -17,7 +18,7 @@ Each one of these notes has a `#🔍` tag since they help you view and search fo
 
 All the current note types can be found in [[🏠 My Home]] which serves as your dashboard for all the notes that you taking for school. The note types themselves and their use cases are explained in [[Note Explanations]].
 
-Depending on the type of note, you may see things based on status ([[My Lectures]]), or by relevant [[Metadata]] like the deadline ([[My Assignments]]) or assignment type (essay)
+Depending on the type of note, you may see things based on status ([[My Lectures]]), or by relevant [[Metadata]] 
 ## Creating
 For each note, there will be a button to create a new note of that kind using a button in the "My" note associated with it, which may look like this:
 ```button

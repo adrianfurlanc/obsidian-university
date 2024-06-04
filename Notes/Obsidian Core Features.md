@@ -1,6 +1,6 @@
 ---
 Created: 2023-02-01 17:15
-modified: 2024-06-04T19:31:51+02:00
+modified: 2024-06-04T19:42:26+02:00
 ---
 
 Status:: 
@@ -30,7 +30,7 @@ If you want to create basic notes, you can watch this short [video guide](https
 -   Command
 -   Quick switcher
 
-But one of the benefits of Obsidian is using templates to create your different kinds of notes (assignments, lectures, courses), to which we can use the [[QuickAdd Plugin]]
+But one of the benefits of Obsidian is using templates to create your different kinds of notes (lectures, courses), to which we can use the [[QuickAdd Plugin]]
 
 ## Organizing Notes
 

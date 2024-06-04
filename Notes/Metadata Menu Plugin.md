@@ -1,6 +1,7 @@
 ---
-Summary: 'Have more control and customizability over the characteristics of your notes'
+Summary: Have more control and customizability over the characteristics of your notes
 Created: 2022-10-29 16:31
+modified: 2024-06-04T19:44:17+02:00
 ---
 Status:: 
 Tags:: #plugin
@@ -22,10 +23,6 @@ See my reasons in [[Metadata#Why to use one over the other]]
 The usefulness of this plugin comes from the main feature, `fileClasses`.
 
 A `fileClass` outlines the [[Metadata]] fields of a note, and to apply this structure, you can add a tag with the `fileClass` name
-
-Whenever you add the tag (ex. `#assignment`), it will refer to the `fileClass` with the same name, [[assignment]]
-
-	[[assignment]]'s fields are, but also adds on the additional fields `Course` so you can assign what course the assignment is related to, and `Deadline` for the date
 
 ## Setting up a fileClass
 - [Video](https://www.youtube.com/watch?v=QxXSuh7HUZY&ab_channel=MathieuDelobelle)
@@ -67,17 +64,6 @@ Once you have a few fields for a fileClass and have tagged a note with it, there
 Whenever there is [[Metadata#Inline Metadata Fields]], you can press space to the right of the field and it will show up with suggested values (if configured to do so). This is most useful for fields like `Status` where there are only a few allowed values, or `Course` where you will only want to link it to a specific course
 ## View fields
 And now, to see and use these fields, you can use [[Dataview Plugin]]. The following code:
-````
-```dataview
-table Deadline
-from #assignment AND !"Extras"
-```
-````
-Will result in the following table
-```dataview
-table Course, Deadline
-from #assignment AND !"Extras"
-```
 
 ### fileClass Menu View
 There should be an icon beside the title of a fileClass note, which should open a view to manage that specific fileClass.

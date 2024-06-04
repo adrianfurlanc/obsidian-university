@@ -1,5 +1,6 @@
 ---
 Created: 2023-02-11 23:46
+modified: 2024-06-04T19:42:13+02:00
 ---
 Status::
 Tags:: #plugin 
@@ -10,7 +11,7 @@ ___
 
 ![](https://www.youtube.com/watch?v=LrQVQ37y6IU)
 
-Summary:: Lets you easily create any new type of note (assignment, lecture, course, etc.)
+Summary:: Lets you easily create any new type of note (lecture, course, etc.)
 ## Principles
 For each note, instead of having to create a new note, manually import the template, then move the file over to the right folder, what if you could do that in one simple command?
 ### Using a Choice

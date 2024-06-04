@@ -1,5 +1,6 @@
 ---
 Created: 2023-01-25 16:09
+modified: 2024-06-04T19:43:12+02:00
 ---
 Status:: 
 Tags:: 
@@ -10,7 +11,7 @@ Before integrating a systemized collect, connect, and create process I had a pro
 
 A big one. 
 
-I would show up for the next quarter in high school or semester in college and I would have forgotten everything from the previous semester. To make matters worse, I had no easy access to the material from my previous classes. Assignments, homework, and essays was handed in through the schools course management system which was closed off to me after the year.
+I would show up for the next quarter in high school or semester in college and I would have forgotten everything from the previous semester. To make matters worse, I had no easy access to the material from my previous classes. Homework, and essays was handed in through the schools course management system which was closed off to me after the year.
 
 **I lost hundreds of hours of work...**
 

@@ -1,5 +1,6 @@
 ---
 Created: 2023-01-16 22:10
+modified: 2024-06-04T19:42:36+02:00
 ---
  Status:: 
 Tags:: #plugin
@@ -27,7 +28,7 @@ https://youtu.be/7JMRrskgw7I?t=67
 
 ### How to use templates?
 - To keep things simple I use the [[QuickAdd Plugin]]
-	- To create a new type of note (assignment, lecture, etc), open command palette and run the `Quickadd: Run Quickadd` command via `Ctrl + Shift + P`
+	- To create a new type of note (lecture, etc), open command palette and run the `Quickadd: Run Quickadd` command via `Ctrl + Shift + P`
 - Alternatively, you can use `Ctrl + Shift + T` to add a template to the current file
 
 ### What is the default template used on a new note?

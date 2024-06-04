@@ -1,5 +1,6 @@
 ---
 Created: 2023-02-09 19:42
+modified: 2024-06-04T19:46:25+02:00
 ---
 Status::
 Tags:: #plugin
@@ -20,7 +21,6 @@ ___
 Summary: Turns your vault into a database you can extract certain notes and data from
 
 ## Uses
-Let's say you had a note to keep track of all your assignments in a note like [[My Assignments]].
 
 If you were to keep track of all assignments manually, you would have to add a link to each new assignment, or view them all through the backlinks pane.
 
@@ -38,9 +38,7 @@ Dataview lets you see these notes through queries. Each query is made of differe
 	- (ex. see [[Course Template#Concepts]])
 ### Tables
 Let you also see the [[Metadata]] of a note as columns.
-- The use cases for this include
-	- categorizing notes like in [[My Assignments]] based on completion, while also showing its started/finished dates
-- ex) See [[Obsidian Community Plugins#List]] and how the `Summary` value is being shown in the table
+
 
 ## Query Anatomy
 When there is a Dataview query in a note, you can hover over it and look to the left of it for a `</>` icon that you can click to view the code.

@@ -1,12 +1,92 @@
 {
   "recentFiles": [
     {
-      "basename": "My Lectures",
-      "path": "Spaces/My School/My Lectures/My Lectures.md"
+      "basename": "🏠 My Home",
+      "path": "🏠 My Home.md"
+    },
+    {
+      "basename": "Dataview Plugin",
+      "path": "Notes/Dataview Plugin.md"
+    },
+    {
+      "basename": "How To Identify Note Type And Status",
+      "path": "Notes/How To Identify Note Type And Status.md"
+    },
+    {
+      "basename": "Managing the different note types",
+      "path": "Notes/Managing the different note types.md"
+    },
+    {
+      "basename": "Metadata Menu Plugin",
+      "path": "Notes/Metadata Menu Plugin.md"
+    },
+    {
+      "basename": "Note Explanations",
+      "path": "Notes/Note Explanations.md"
+    },
+    {
+      "basename": "Module - The Seven Obsidian Plug Ins That Will Explode Your Notetaking",
+      "path": "Notes/Module - The Seven Obsidian Plug Ins That Will Explode Your Notetaking.md"
+    },
+    {
+      "basename": "Why Student’s Waste Their Semesters",
+      "path": "Notes/Why Student’s Waste Their Semesters.md"
+    },
+    {
+      "basename": "The Cookie Cutter Student Mindset",
+      "path": "Notes/The Cookie Cutter Student Mindset.md"
+    },
+    {
+      "basename": "The 3 Step Process I Use To Write Essays In Record Time With My Obsidian Notes",
+      "path": "Notes/The 3 Step Process I Use To Write Essays In Record Time With My Obsidian Notes.md"
+    },
+    {
+      "basename": "Templater Plugin",
+      "path": "Notes/Templater Plugin.md"
     },
     {
       "basename": "Obsidian Core Features",
       "path": "Notes/Obsidian Core Features.md"
+    },
+    {
+      "basename": "QuickAdd Plugin",
+      "path": "Notes/QuickAdd Plugin.md"
+    },
+    {
+      "basename": "Weekly Review Template",
+      "path": "Extras/Templates/Periodic/Weekly Review Template.md"
+    },
+    {
+      "basename": "Module - How To Easily Personalize Obsidian For School",
+      "path": "Notes/Module - How To Easily Personalize Obsidian For School.md"
+    },
+    {
+      "basename": "Responses to Lesson Action Items",
+      "path": "Notes/Responses to Lesson Action Items.md"
+    },
+    {
+      "basename": "Notación y Transcripción",
+      "path": "Spaces/My School/My Courses/Notación y Transcripción.md"
+    },
+    {
+      "basename": "My School",
+      "path": "Spaces/My School/My School.md"
+    },
+    {
+      "basename": "🎓 Obsidian University MOC",
+      "path": "🎓 Obsidian University MOC.md"
+    },
+    {
+      "basename": "Examenes online UNIR",
+      "path": "Spaces/My School/My Concepts/Examenes online UNIR.md"
+    },
+    {
+      "basename": "5 Levels of Idea Emergence Creation Checklist",
+      "path": "Notes/5 Levels of Idea Emergence Creation Checklist.md"
+    },
+    {
+      "basename": "My Lectures",
+      "path": "Spaces/My School/My Lectures/My Lectures.md"
     },
     {
       "basename": "Module - Learning Obsidian Core Features",
@@ -81,34 +161,6 @@
       "path": "Spaces/My School/My Courses/Acústica Musical y Organología.md"
     },
     {
-      "basename": "My School",
-      "path": "Spaces/My School/My School.md"
-    },
-    {
-      "basename": "🏠 My Home",
-      "path": "🏠 My Home.md"
-    },
-    {
-      "basename": "🎓 Obsidian University MOC",
-      "path": "🎓 Obsidian University MOC.md"
-    },
-    {
-      "basename": "Note Explanations",
-      "path": "Notes/Note Explanations.md"
-    },
-    {
-      "basename": "Module - How To Easily Personalize Obsidian For School",
-      "path": "Notes/Module - How To Easily Personalize Obsidian For School.md"
-    },
-    {
-      "basename": "Responses to Lesson Action Items",
-      "path": "Notes/Responses to Lesson Action Items.md"
-    },
-    {
-      "basename": "My Essays",
-      "path": "Spaces/My School/My Essays/My Essays.md"
-    },
-    {
       "basename": "EP MOC",
       "path": "Atlas/MOCs/EP MOC.md"
     },
@@ -147,54 +199,6 @@
     {
       "basename": "Influencias populares y extraoccidentales - L",
       "path": "Spaces/My School/My Lectures/Influencias populares y extraoccidentales - L.md"
-    },
-    {
-      "basename": "El lied y la ópera romántica hasta la primera mitad del siglo XIX - L",
-      "path": "Spaces/My School/My Lectures/El lied y la ópera romántica hasta la primera mitad del siglo XIX - L.md"
-    },
-    {
-      "basename": "Examen Contrapunto",
-      "path": "Spaces/My School/My Concepts/Examen Contrapunto.md"
-    },
-    {
-      "basename": "Modelo Examen Historia de la Música",
-      "path": "Spaces/My School/My Inputs/Modelo Examen Historia de la Música.md"
-    },
-    {
-      "basename": "La música entre las dos guerras mundiales - L",
-      "path": "Spaces/My School/My Lectures/La música entre las dos guerras mundiales - L.md"
-    },
-    {
-      "basename": "La música a finales del siglo XIX y los inicios del siglo XX -L",
-      "path": "Spaces/My School/My Lectures/La música a finales del siglo XIX y los inicios del siglo XX -L.md"
-    },
-    {
-      "basename": "Weekly Questions for Time Tracking",
-      "path": "Spaces/My School/My Concepts/Weekly Questions for Time Tracking.md"
-    },
-    {
-      "basename": "El análisis de la música a partir de 1850 - Brahms y Wagner - L",
-      "path": "Spaces/My School/My Lectures/El análisis de la música a partir de 1850 - Brahms y Wagner - L.md"
-    },
-    {
-      "basename": "El análisis de la música de Fin de siècle I - L",
-      "path": "Spaces/My School/My Lectures/El análisis de la música de Fin de siècle I - L.md"
-    },
-    {
-      "basename": "Silencio, sonido y ruido",
-      "path": "Spaces/My School/My Inputs/Silencio, sonido y ruido.md"
-    },
-    {
-      "basename": "El análisis de la música del preclasicismo",
-      "path": "Spaces/My School/My Inputs/El análisis de la música del preclasicismo.md"
-    },
-    {
-      "basename": "Modelo Examen Gestión de Empresas",
-      "path": "Spaces/My School/My Inputs/Modelo Examen Gestión de Empresas.md"
-    },
-    {
-      "basename": "Silencio, sonido y ruido - L",
-      "path": "Spaces/My School/My Lectures/Silencio, sonido y ruido - L.md"
     }
   ],
   "omittedPaths": [],

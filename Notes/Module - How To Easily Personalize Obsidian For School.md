@@ -2,7 +2,7 @@
 Links: "[[🎓 Obsidian University MOC]]"
 Tags: 
 Created: 2023-01-18 20:16
-modified: 2024-06-04T19:19:01+02:00
+modified: 2024-06-04T19:41:05+02:00
 ---
 Status:: 
 \_Tags::  
@@ -14,7 +14,6 @@ In this module, you will learn how to integrate plug ins, templates, and Obsidia
 - [x] [[Note Explanations]]
 - [x] Look through each of the views below to understand how your school notes are structured:
 	- [x] [[My School]]
-	- [x] [[My Assignments]]
 	- [x] [[My Courses]]
 	- [x] [[My Lectures]]
 - [x] Keep track of your learning and studying with [[Periodic reviews]]

@@ -1,6 +1,6 @@
 ---
 aliases: 🏫 My School Dashboard
-modified: 2024-06-04T19:20:12+02:00
+modified: 2024-06-04T19:35:43+02:00
 ---
 Tags:: 
 Links:: [[🏠 My Home]]
@@ -10,6 +10,7 @@ ___
 table 
 from #course AND !"Extras"
 where Year = 2 AND Semester = 2
+sort file.name asc
 ```
 
 ## Others

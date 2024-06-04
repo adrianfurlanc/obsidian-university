@@ -2,7 +2,7 @@
 Links: "[[Module - How To Easily Personalize Obsidian For School]]"
 Status: 
 Created: 2023-02-21 00:48
-modified: 2024-06-04T19:20:04+02:00
+modified: 2024-06-04T19:43:59+02:00
 ---
 \_Status::  
 Tags:: 
@@ -15,14 +15,6 @@ Feel free to modify queries, move around headers, or remove/add your own.
 
 Most of them are self-explanatory or will be explained through Aidan's modules, so I'll only go over some more complicated templates and workflows:
 
-## [[Assignment Template]]
-Can be viewed in [[My Assignments]]
-### Notes
-- Be sure to have a link to the week(s) you work on it or else it will not show in your weekly review
-#### Related
-- Can manually link to notes if needed if you need to add extra comments, unlike the backlinks view where you can only see the link
-#### Related Resources
-- External links, input notes, etc
 ## [[Daily Note Template]]
 Can be viewed using [[Calendar Plugin]]
 
@@ -39,7 +31,7 @@ For an example, see [[2023-02-12]]
 See [[Periodic reviews]] for more information
 
 ### Future Plan
-- You can use this section to clarify what your objectives are (what assignments are due, what topics you need to study), create new schedules for the next week
+- You can use this section to clarify what your objectives are and create new schedules for the next week
 - Fill this out after you are done recap and reflection
 ### Recap
 - See how your days went and what new things you learned

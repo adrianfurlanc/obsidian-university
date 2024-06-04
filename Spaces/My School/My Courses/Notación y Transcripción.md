@@ -6,7 +6,7 @@ Semester: 1
 Year: 2
 Summary: Notacion
 Created: 2023-10-04 22:39
-modified: 2024-01-30T16:08:50+01:00
+modified: 2024-06-04T19:38:41+02:00
 tags:
   - course
 ---
@@ -34,10 +34,5 @@ where contains(Course, [[]])
 SORT Created desc
 ```
 
-## Assignments 
-```dataview
-table Deadline, Status
-FROM #assignment and !"Extras"
-SORT Deadline asc
-```
+
 
