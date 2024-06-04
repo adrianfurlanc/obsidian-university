@@ -9,7 +9,7 @@ Semester: 1
 Year: 2
 Summary: Historia
 Created: 2023-10-13 15:56
-modified: 2024-01-31T13:09:13+01:00
+modified: 2024-06-04T19:27:57+02:00
 ---
 \_Tags::  #course
 \_Links::  [[My Courses]]
@@ -36,10 +36,3 @@ where contains(Course, [[]])
 SORT Created desc
 ```
 
-## Assignments 
-```dataview
-table Deadline, Status
-FROM #assignment and !"Extras"
-where contains(Course, [[]])
-SORT Deadline asc
-```

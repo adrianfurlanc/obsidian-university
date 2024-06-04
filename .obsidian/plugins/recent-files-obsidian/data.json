@@ -1,12 +1,96 @@
 {
   "recentFiles": [
     {
-      "basename": "🎓 Obsidian University MOC",
-      "path": "🎓 Obsidian University MOC.md"
+      "basename": "My Lectures",
+      "path": "Spaces/My School/My Lectures/My Lectures.md"
+    },
+    {
+      "basename": "Obsidian Core Features",
+      "path": "Notes/Obsidian Core Features.md"
+    },
+    {
+      "basename": "Module - Learning Obsidian Core Features",
+      "path": "Notes/Module - Learning Obsidian Core Features.md"
+    },
+    {
+      "basename": "Imitación a la cuarta y a la quinta - L",
+      "path": "Spaces/My School/My Lectures/Imitación a la cuarta y a la quinta - L.md"
+    },
+    {
+      "basename": " El análisis de la música programática - L",
+      "path": "Spaces/My School/My Lectures/ El análisis de la música programática - L.md"
+    },
+    {
+      "basename": "My Inputs",
+      "path": "Spaces/My School/My Inputs/My Inputs.md"
+    },
+    {
+      "basename": "My Courses",
+      "path": "Spaces/My School/My Courses/My Courses.md"
+    },
+    {
+      "basename": "Historia de la Música siglo XX y XXI",
+      "path": "Spaces/My School/My Courses/Historia de la Música siglo XX y XXI.md"
+    },
+    {
+      "basename": "Historia de la Música II",
+      "path": "Spaces/My School/My Courses/Historia de la Música II.md"
+    },
+    {
+      "basename": "Gestión de Empresas",
+      "path": "Spaces/My School/My Courses/Gestión de Empresas.md"
+    },
+    {
+      "basename": "Fundamentos de Composición",
+      "path": "Spaces/My School/My Courses/Fundamentos de Composición.md"
+    },
+    {
+      "basename": "Focus Course 2",
+      "path": "Spaces/My School/My Concepts/Focus Course 2.md"
+    },
+    {
+      "basename": "Filosofía",
+      "path": "Spaces/My School/My Courses/Filosofía.md"
+    },
+    {
+      "basename": "Contrapunto",
+      "path": "Spaces/My School/My Courses/Contrapunto.md"
+    },
+    {
+      "basename": "Course Template",
+      "path": "Extras/Templates/School/Course Template.md"
+    },
+    {
+      "basename": "Armonía II",
+      "path": "Spaces/My School/My Courses/Armonía II.md"
+    },
+    {
+      "basename": "Armonía I",
+      "path": "Spaces/My School/My Courses/Armonía I.md"
+    },
+    {
+      "basename": "Análisis II",
+      "path": "Spaces/My School/My Courses/Análisis II.md"
+    },
+    {
+      "basename": "Análisis I",
+      "path": "Spaces/My School/My Courses/Análisis I.md"
+    },
+    {
+      "basename": "Acústica Musical y Organología",
+      "path": "Spaces/My School/My Courses/Acústica Musical y Organología.md"
     },
     {
       "basename": "My School",
       "path": "Spaces/My School/My School.md"
+    },
+    {
+      "basename": "🏠 My Home",
+      "path": "🏠 My Home.md"
+    },
+    {
+      "basename": "🎓 Obsidian University MOC",
+      "path": "🎓 Obsidian University MOC.md"
     },
     {
       "basename": "Note Explanations",
@@ -19,14 +103,6 @@
     {
       "basename": "Responses to Lesson Action Items",
       "path": "Notes/Responses to Lesson Action Items.md"
-    },
-    {
-      "basename": "🏠 My Home",
-      "path": "🏠 My Home.md"
-    },
-    {
-      "basename": "My Assignments",
-      "path": "Spaces/My School/My Assignments/My Assignments.md"
     },
     {
       "basename": "My Essays",
@@ -65,10 +141,6 @@
       "path": "Extras/Images/2024-4-3_12.43.12.png"
     },
     {
-      "basename": "Historia de la Música siglo XX y XXI",
-      "path": "Spaces/My School/My Courses/Historia de la Música siglo XX y XXI.md"
-    },
-    {
       "basename": "Música y tecnología - L",
       "path": "Spaces/My School/My Lectures/Música y tecnología - L.md"
     },
@@ -101,10 +173,6 @@
       "path": "Spaces/My School/My Concepts/Weekly Questions for Time Tracking.md"
     },
     {
-      "basename": "Análisis II",
-      "path": "Spaces/My School/My Courses/Análisis II.md"
-    },
-    {
       "basename": "El análisis de la música a partir de 1850 - Brahms y Wagner - L",
       "path": "Spaces/My School/My Lectures/El análisis de la música a partir de 1850 - Brahms y Wagner - L.md"
     },
@@ -125,72 +193,8 @@
       "path": "Spaces/My School/My Inputs/Modelo Examen Gestión de Empresas.md"
     },
     {
-      "basename": "Acústica Musical y Organología",
-      "path": "Spaces/My School/My Courses/Acústica Musical y Organología.md"
-    },
-    {
       "basename": "Silencio, sonido y ruido - L",
       "path": "Spaces/My School/My Lectures/Silencio, sonido y ruido - L.md"
-    },
-    {
-      "basename": "El análisis de la música romántica",
-      "path": "Spaces/My School/My Inputs/El análisis de la música romántica.md"
-    },
-    {
-      "basename": "La música instrumental del primer Romanticismo - L",
-      "path": "Spaces/My School/My Lectures/La música instrumental del primer Romanticismo - L.md"
-    },
-    {
-      "basename": "El análisis de la música romántica - L",
-      "path": "Spaces/My School/My Lectures/El análisis de la música romántica - L.md"
-    },
-    {
-      "basename": "Composición de un lied - L",
-      "path": "Spaces/My School/My Lectures/Composición de un lied - L.md"
-    },
-    {
-      "basename": "La práctica histórica del contrapunto modal y tonal 1 - L",
-      "path": "Spaces/My School/My Lectures/La práctica histórica del contrapunto modal y tonal 1 - L.md"
-    },
-    {
-      "basename": "Contrapunto",
-      "path": "Spaces/My School/My Courses/Contrapunto.md"
-    },
-    {
-      "basename": "Contrapunto riguroso II - generalidades y normas (continuación) - L",
-      "path": "Spaces/My School/My Lectures/Contrapunto riguroso II - generalidades y normas (continuación) - L.md"
-    },
-    {
-      "basename": "Contrapunto riguroso III - Segunda especie - L",
-      "path": "Spaces/My School/My Lectures/Contrapunto riguroso III - Segunda especie - L.md"
-    },
-    {
-      "basename": "Contrapunto riguroso IV - Tercera especie - L",
-      "path": "Spaces/My School/My Lectures/Contrapunto riguroso IV - Tercera especie - L.md"
-    },
-    {
-      "basename": "Imitación a la cuarta y a la quinta - L",
-      "path": "Spaces/My School/My Lectures/Imitación a la cuarta y a la quinta - L.md"
-    },
-    {
-      "basename": "My Lectures",
-      "path": "Spaces/My School/My Lectures/My Lectures.md"
-    },
-    {
-      "basename": "El análisis de la música a partir de 1850 - Brahms y Wagner.",
-      "path": "Spaces/My School/My Inputs/El análisis de la música a partir de 1850 - Brahms y Wagner..md"
-    },
-    {
-      "basename": " El análisis de la música programática - L",
-      "path": "Spaces/My School/My Lectures/ El análisis de la música programática - L.md"
-    },
-    {
-      "basename": "Organología Musical - generalidades - L",
-      "path": "Spaces/My School/My Lectures/Organología Musical - generalidades - L.md"
-    },
-    {
-      "basename": "My Courses",
-      "path": "Spaces/My School/My Courses/My Courses.md"
     }
   ],
   "omittedPaths": [],

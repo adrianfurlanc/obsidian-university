@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🎓 Obsidian University MOC.md",
+                "file": "Spaces/My School/My Lectures/My Lectures.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,8 +48,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "03195c1cb51b65ce",
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "El análisis d",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,8 +90,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -112,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🎓 Obsidian University MOC.md",
+                "file": "Spaces/My School/My Lectures/My Lectures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🎓 Obsidian University MOC.md",
+                "file": "Spaces/My School/My Lectures/My Lectures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +159,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "🎓 Obsidian University MOC.md"
+                "file": "Spaces/My School/My Lectures/My Lectures.md"
               }
             }
           },
@@ -173,8 +171,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "e2182da6534c8d08",
@@ -186,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🎓 Obsidian University MOC.md"
+                "file": "Spaces/My School/My Lectures/My Lectures.md"
               }
             }
           },
@@ -196,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "🎓 Obsidian University MOC.md",
+                "file": "Spaces/My School/My Lectures/My Lectures.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -255,34 +252,35 @@
   },
   "active": "e2fcef9a862aa8d2",
   "lastOpenFiles": [
-    "Spaces/My School/My School.md",
-    "Notes/Note Explanations.md",
-    "Notes/Concept notes.md",
-    "Notes/Module - How To Easily Personalize Obsidian For School.md",
-    "Notes/Psychology concept.md",
-    "Spaces/My School/My Concepts/Psychology concept.md",
-    "Atlas/MOCs/🗺 test.md",
-    "Notes/Note Development Kanban.md",
-    "Extras/Templates/School/Unit Template.md",
-    "Notes/Responses to Lesson Action Items.md",
-    "🏠 My Home.md",
+    "Notes/My Hotkeys.md",
+    "Notes/Obsidian Core Features.md",
+    "Notes/Module - Learning Obsidian Core Features.md",
+    "Spaces/My School/My Lectures/My Lectures.md",
+    "Spaces/My School/My Lectures/Imitación a la cuarta y a la quinta - L.md",
+    "Spaces/My School/My Lectures/ El análisis de la música programática - L.md",
+    "Spaces/My School/My Inputs/My Inputs.md",
+    "Spaces/My School/My Courses/My Courses.md",
+    "Spaces/My School/My Courses/Historia de la Música siglo XX y XXI.md",
     "Spaces/My School/My Assignments/My Assignments.md",
-    "Spaces/My School/My Essays/My Essays.md",
-    "Spaces/My School/My Units/My Units.md",
-    "Atlas/MOCs/EP MOC.md",
-    "Atlas/MOCs/🗺 Obsidian MOC.md",
-    "Spaces/My School/My Concepts/Money —.md",
-    "Spaces/My School/My Concepts/What Went Wrong.md",
-    "Spaces/My School/My Units/Esquema Tema 3 - HM.md",
+    "Spaces/My School/My Courses/Historia de la Música II.md",
+    "Spaces/My School/My Courses/Gestión de Empresas.md",
+    "Spaces/My School/My Courses/Fundamentos de Composición.md",
+    "Spaces/My School/My Concepts/Focus Course 2.md",
+    "Spaces/My School/My Courses/Filosofía.md",
+    "Spaces/My School/My Courses/Contrapunto.md",
+    "Extras/Templates/School/Course Template.md",
+    "Spaces/My School/My Courses/Armonía II.md",
+    "Extras/Templates/School/Assignment Template.md",
+    "Spaces/My School/My Courses/Armonía I.md",
+    "Spaces/My School/My Courses/Análisis II.md",
+    "Spaces/My School/My Courses/Análisis I.md",
+    "Spaces/My School/My Courses/Acústica Musical y Organología.md",
+    "Spaces/My School/My School.md",
+    "🏠 My Home.md",
+    "Note-Making Station.canvas",
     "🎓 Obsidian University MOC.md",
-    "Spaces/My School/My Concepts/Actividad 3 HM II.md",
-    "Spaces/My School/My Concepts/Beethoven  Sonata Op. 27, quasi una fantasia, II.md",
-    "Spaces/My School/My Concepts/Beethoven -  Sonatina en Fa mayor Ahn 5, II.md",
-    "Spaces/My School/My Inputs/Música y tecnología.md",
     "sync",
     "Extras/Images/2024-4-3_12.43.12.png",
-    "Spaces/My School/My Courses/Historia de la Música siglo XX y XXI.md",
-    "Spaces/My School/My Lectures/Música y tecnología - L.md",
     "Extras/Images/2024-4-3_17.14.37.png",
     "Extras/Images/2024-4-3_16.13.24.png",
     "Extras/Images/2024-4-2_16.18.56.png",
@@ -297,7 +295,6 @@
     "Spaces/My School/My Lectures/La música después de la Segunda Guerra Mundial hasta 1960",
     "Spaces/My School/My Inputs/La música después de la Segunda Guerra Mundial hasta 1960",
     "Beethoven - Sonata Op.27",
-    "Note-Making Station.canvas",
     "Spaces/My School/My Inputs/Armonía I",
     "Spaces/My School/My Inputs/Historia",
     "Spaces/Assignments",

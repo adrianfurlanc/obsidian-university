@@ -1,5 +1,6 @@
 ---
 Created: 2023-02-01 17:15
+modified: 2024-06-04T19:31:51+02:00
 ---
 
 Status:: 
@@ -103,8 +104,6 @@ action Command palette: Open command palette
 ^button-i7pd
 
 If you were to open command palette and search for the command above (ironic I know), you would be able to find it 🤪
-
-If you want to find out the hotkey for a command, you can see what it's bound to through the command palette, or by looking at [[My Hotkeys]]
 ## Layout
 ### Tabs
 Much like Google Chrome, you can open different notes in different tabs, which are then grouped into one pane.

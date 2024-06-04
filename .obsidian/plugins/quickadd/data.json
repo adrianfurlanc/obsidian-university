@@ -30,11 +30,11 @@
       "fileExistsMode": "Nothing"
     },
     {
-      "id": "6334f4ee-4409-4248-8ff6-fbcc0cd229fe",
-      "name": "Create Course Note",
+      "id": "614436b1-cb8a-4f9f-9bf5-f07f4aab0383",
+      "name": "Create Input Note",
       "type": "Template",
       "command": true,
-      "templatePath": "Extras/Templates/School/Course Template",
+      "templatePath": "Extras/Templates/Notes/Input Template",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
@@ -42,7 +42,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "Spaces/My School/My Courses"
+          "Spaces/My School/My Inputs"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false
@@ -59,11 +59,11 @@
       "fileExistsMode": "Nothing"
     },
     {
-      "id": "614436b1-cb8a-4f9f-9bf5-f07f4aab0383",
-      "name": "Create Input Note",
+      "id": "6334f4ee-4409-4248-8ff6-fbcc0cd229fe",
+      "name": "Create Course Note",
       "type": "Template",
       "command": true,
-      "templatePath": "Extras/Templates/Notes/Input Template",
+      "templatePath": "Extras/Templates/School/Course Template",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
@@ -71,7 +71,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "Spaces/My School/My Inputs"
+          "Spaces/My School/My Courses"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false

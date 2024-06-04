@@ -4,7 +4,8 @@ tags:
 Professor: Manuel Martínez
 Semester: 1
 Year: 2
-Summary: 'Armonía'
+Summary: Armonía
+modified: 2024-06-04T19:26:20+02:00
 ---
 \_Tags::  #course
 \_Links::  [[My Courses]]
@@ -30,10 +31,3 @@ where contains(Course, [[]])
 SORT Created desc
 ```
 
-## Assignments 
-```dataview
-table Deadline, Status
-FROM #assignment and !"Extras"
-where contains(Course, [[]])
-SORT Deadline asc
-```

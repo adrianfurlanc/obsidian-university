@@ -1,11 +1,12 @@
 ---
-Links: '[[My Courses]]'
-Tags: 'course'
-Professor: 'Juan González-Castelao'
+Links: "[[My Courses]]"
+Tags: course
+Professor: Juan González-Castelao
 Semester: 1
 Year: 2
-Summary: 'Hablar mucho sin decir nada'
+Summary: Hablar mucho sin decir nada
 Created: 2023-10-11 15:28
+modified: 2024-06-04T19:27:25+02:00
 ---
 \_Tags::  course
 \_Links::  [[My Courses]]
@@ -24,14 +25,6 @@ table Summary
 from #unit and !outgoing([[]])
 where contains(Course, [[]])
 sort Created asc
-```
-
-## Assignments 
-```dataview
-table Deadline, Status
-FROM #assignment and !"Extras"
-where contains(Course, [[]])
-SORT Deadline asc
 ```
 
 ## Lectures

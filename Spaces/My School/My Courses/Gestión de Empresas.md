@@ -8,7 +8,7 @@ Semester: 2
 Year: 2
 Summary: 
 Created: 2024-03-15 14:53
-modified: 2024-03-20T12:29:08+01:00
+modified: 2024-06-04T19:27:49+02:00
 ---
 \_Tags::  #course
 \_Links::  [[My Courses]]
@@ -30,10 +30,3 @@ from #lecture AND #empresa
 sort Tema DESC
 ```
 
-## Assignments 
-```dataview
-table Deadline, Status
-FROM #assignment and !"Extras"
-where contains(Course, [[]])
-SORT Deadline asc
-```

@@ -1,44 +1,11 @@
 [
   {
     "tag": "🗺️",
-    "tagCount": 6,
+    "tagCount": 3,
     "relativePaths": [
       "🎓 Obsidian University MOC.md",
-      "My Atlas/MOCs/🗺 Studying MOC.md",
-      "My Atlas/MOCs/🗺 Biology MOC.md",
-      "My Atlas/MOCs/🗺 Psychology MOC.md",
       "Extras/Templates/Notes/MOC Template.md",
       "Atlas/MOCs/🗺 Obsidian MOC.md"
-    ]
-  },
-  {
-    "tag": "unit",
-    "tagCount": 4,
-    "relativePaths": [
-      "Spaces/My School/My Units/Esquema Tema 3 - HM.md",
-      "Spaces/My School/My Units/Esquema Tema 2 - HM.md",
-      "Spaces/My School/My Units/Beginning of Psychology.md",
-      "Extras/Templates/School/Unit Template.md"
-    ]
-  },
-  {
-    "tag": "esquema",
-    "tagCount": 1,
-    "relativePaths": [
-      "Spaces/My School/My Units/Esquema Tema 2 - HM.md"
-    ]
-  },
-  {
-    "tag": "🔍",
-    "tagCount": 9,
-    "relativePaths": [
-      "Spaces/My School/My Units/My Units.md",
-      "Spaces/My School/My Lectures/My Lectures.md",
-      "Spaces/My School/My Inputs/My Inputs.md",
-      "Spaces/My School/My Courses/My Courses.md",
-      "Spaces/My School/My Concepts/My Concepts.md",
-      "Spaces/My School/My Assignments/My Assignments.md",
-      "My Atlas/Atlas.md"
     ]
   },
   {
@@ -216,6 +183,17 @@
       "Spaces/My School/My Inputs/La música a finales del siglo XIX y los inicios del siglo XX.md",
       "Spaces/My School/My Inputs/De 1960 - 1970 a principios del siglo XXI.md",
       "Spaces/My School/My Courses/Historia de la Música siglo XX y XXI.md"
+    ]
+  },
+  {
+    "tag": "🔍",
+    "tagCount": 7,
+    "relativePaths": [
+      "Spaces/My School/My Lectures/My Lectures.md",
+      "Spaces/My School/My Inputs/My Inputs.md",
+      "Spaces/My School/My Courses/My Courses.md",
+      "Spaces/My School/My Concepts/My Concepts.md",
+      "Spaces/My School/My Assignments/My Assignments.md"
     ]
   },
   {
@@ -418,12 +396,13 @@
   },
   {
     "tag": "concept",
-    "tagCount": 36,
+    "tagCount": 35,
     "relativePaths": [
+      "Spaces/My School/My Concepts/Money —.md",
+      "Spaces/My School/My Concepts/What Went Wrong.md",
       "Spaces/My School/My Concepts/Beethoven  Sonata Op. 27, quasi una fantasia, II.md",
       "Spaces/My School/My Concepts/Weekly Questions for Time Tracking.md",
       "Spaces/My School/My Concepts/Repaso Análisis.md",
-      "Spaces/My School/My Concepts/Psychology concept.md",
       "Spaces/My School/My Concepts/Project.md",
       "Spaces/My School/My Concepts/Mozart - Sonata KV 545, III.md",
       "Spaces/My School/My Concepts/Mozart - Sonata KV 545, I.md",
@@ -449,9 +428,7 @@
       "Spaces/My School/My Concepts/Beethoven -  Sonatina en Fa mayor Ahn 5, II.md",
       "Spaces/My School/My Concepts/Backlinks.md",
       "Spaces/My School/My Concepts/Arc Recovery Code.md",
-      "Spaces/My School/My Concepts/Actividad 3 HM II.md",
       "Notes/Spaced Repetition.md",
-      "Notes/Psychology concept.md",
       "Notes/Obsidian Canvas.md",
       "Notes/Active Recall.md",
       "Extras/Templates/Notes/Note Template.md",
@@ -464,16 +441,6 @@
     "relativePaths": [
       "Spaces/My School/My Concepts/Weekly Questions for Time Tracking.md",
       "Notes/Cubase 10 Explained.md"
-    ]
-  },
-  {
-    "tag": "status/🟩",
-    "tagCount": 4,
-    "relativePaths": [
-      "Spaces/My School/My Concepts/Psychology concept.md",
-      "Notes/Spaced Repetition.md",
-      "Notes/Psychology concept.md",
-      "Notes/Active Recall.md"
     ]
   },
   {
@@ -514,6 +481,14 @@
     "tagCount": 1,
     "relativePaths": [
       "Notes/Spaced Repetition Plugin.md"
+    ]
+  },
+  {
+    "tag": "status/🟩",
+    "tagCount": 2,
+    "relativePaths": [
+      "Notes/Spaced Repetition.md",
+      "Notes/Active Recall.md"
     ]
   },
   {

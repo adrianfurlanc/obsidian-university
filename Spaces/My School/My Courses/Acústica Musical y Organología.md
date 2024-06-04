@@ -8,7 +8,7 @@ Semester: 2
 Year: 2
 Summary: 
 Created: 2024-03-04 14:15
-modified: 2024-04-14T18:21:31+02:00
+modified: 2024-06-04T19:25:42+02:00
 ---
 \_Tags::  #course
 \_Links::  [[My Courses]]
@@ -30,10 +30,3 @@ from #lecture AND #acustica
 sort Tema DESC
 ```
 
-## Assignments 
-```dataview
-table Deadline, Status
-FROM #assignment and !"Extras"
-where contains(Course, [[]])
-SORT Deadline asc
-```

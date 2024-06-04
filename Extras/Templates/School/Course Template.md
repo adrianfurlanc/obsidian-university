@@ -1,11 +1,12 @@
 ---
-Links: '[[My Courses]]'
-Tags: '#course'
+Links: "[[My Courses]]"
+Tags: "#course"
 Professor: 
 Semester: 
 Year: 
 Summary: 
 Created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
+modified: 2024-06-04T19:26:57+02:00
 ---
 \_Tags::  #course
 \_Links::  [[My Courses]]
@@ -31,12 +32,4 @@ table Created, Status
 FROM #lecture AND !"Extras"
 where contains(Course, [[]])
 SORT Created desc
-```
-
-## Assignments 
-```dataview
-table Deadline, Status
-FROM #assignment and !"Extras"
-where contains(Course, [[]])
-SORT Deadline asc
 ```

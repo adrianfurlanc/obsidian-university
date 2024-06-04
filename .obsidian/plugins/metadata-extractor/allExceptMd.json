@@ -9,16 +9,8 @@
       "relativePath": "Atlas"
     },
     {
-      "name": "Context",
-      "relativePath": "Context"
-    },
-    {
       "name": "Extras",
       "relativePath": "Extras"
-    },
-    {
-      "name": "My Atlas",
-      "relativePath": "My Atlas"
     },
     {
       "name": "Notes",
@@ -47,10 +39,6 @@
     {
       "name": "Templates",
       "relativePath": "Extras/Templates"
-    },
-    {
-      "name": "MOCs",
-      "relativePath": "My Atlas/MOCs"
     },
     {
       "name": "Assignments",
@@ -97,10 +85,6 @@
       "relativePath": "Spaces/My School/My Lectures"
     },
     {
-      "name": "My Units",
-      "relativePath": "Spaces/My School/My Units"
-    },
-    {
       "name": "La música después de la Segunda Guerra Mundial hasta 1960",
       "relativePath": "Spaces/My School/My Inputs/La música después de la Segunda Guerra Mundial hasta 1960"
     },
@@ -114,11 +98,6 @@
     }
   ],
   "nonMdFiles": [
-    {
-      "name": "spacesLastSync.log",
-      "basename": "spacesLastSync",
-      "relativePath": "Context/spacesLastSync.log"
-    },
     {
       "name": "1er Tetracordo Dasiano.png",
       "basename": "1er Tetracordo Dasiano",

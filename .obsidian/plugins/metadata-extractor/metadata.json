@@ -3,7 +3,7 @@
     "fileName": "🏠 My Home",
     "relativePath": "🏠 My Home.md",
     "frontmatter": {
-      "modified": "2023-11-08T18:03:02+01:00"
+      "modified": "2024-06-04T19:10:38+02:00"
     },
     "headings": [
       {
@@ -13,15 +13,6 @@
     ],
     "links": [
       {
-        "link": "Atlas",
-        "displayText": "🌎 My Atlas",
-        "relativePath": "My Atlas/Atlas.md"
-      },
-      {
-        "link": "My Concepts",
-        "relativePath": "Spaces/My School/My Concepts/My Concepts.md"
-      },
-      {
         "link": "My School",
         "displayText": "🏫 My School Dashboard",
         "relativePath": "Spaces/My School/My School.md"
@@ -29,10 +20,6 @@
       {
         "link": "My Courses",
         "relativePath": "Spaces/My School/My Courses/My Courses.md"
-      },
-      {
-        "link": "My Units",
-        "relativePath": "Spaces/My School/My Units/My Units.md"
       },
       {
         "link": "My Assignments",
@@ -45,10 +32,6 @@
       {
         "link": "My Inputs",
         "relativePath": "Spaces/My School/My Inputs/My Inputs.md"
-      },
-      {
-        "link": "My Periodic Reviews",
-        "displayText": "📆 My Periodic Reviews"
       }
     ],
     "backlinks": [
@@ -86,26 +69,6 @@
         "fileName": "5 Levels of Idea Emergence Creation Checklist",
         "link": "🏠 My Home",
         "relativePath": "Notes/5 Levels of Idea Emergence Creation Checklist.md"
-      },
-      {
-        "fileName": "🗺 Studying MOC",
-        "link": "🏠 My Home",
-        "relativePath": "My Atlas/MOCs/🗺 Studying MOC.md"
-      },
-      {
-        "fileName": "🗺 Biology MOC",
-        "link": "🏠 My Home",
-        "relativePath": "My Atlas/MOCs/🗺 Biology MOC.md"
-      },
-      {
-        "fileName": "🗺 Psychology MOC",
-        "link": "🏠 My Home",
-        "relativePath": "My Atlas/MOCs/🗺 Psychology MOC.md"
-      },
-      {
-        "fileName": "Atlas",
-        "link": "🏠 My Home",
-        "relativePath": "My Atlas/Atlas.md"
       }
     ]
   },
@@ -261,249 +224,15 @@
     ]
   },
   {
-    "fileName": "Esquema Tema 3 - HM",
-    "relativePath": "Spaces/My School/My Units/Esquema Tema 3 - HM.md",
-    "tags": [
-      "unit"
-    ],
-    "frontmatter": {
-      "Links": "[[My Units]]",
-      "Status": null,
-      "Created": "2024-06-03 17:09",
-      "modified": "2024-06-03T17:22:34+02:00"
-    },
-    "headings": [
-      {
-        "heading": "Contexto sociocultural",
-        "level": 3
-      },
-      {
-        "heading": "Serialismo integral",
-        "level": 3
-      },
-      {
-        "heading": "Escuela de Darmstadt",
-        "level": 3
-      },
-      {
-        "heading": "Aleatoriedad",
-        "level": 3
-      },
-      {
-        "heading": "Notación y grafismo",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "My Units",
-        "relativePath": "Spaces/My School/My Units/My Units.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Esquema Tema 2 - HM",
-    "relativePath": "Spaces/My School/My Units/Esquema Tema 2 - HM.md",
-    "tags": [
-      "unit",
-      "esquema"
-    ],
-    "frontmatter": {
-      "Links": "[[My Units]]",
-      "Status": null,
-      "Created": "2024-06-03 16:50",
-      "modified": "2024-06-03T17:10:19+02:00"
-    },
-    "headings": [
-      {
-        "heading": "Primera Guerra mundial",
-        "level": 3
-      },
-      {
-        "heading": "Movimientos Artísticos (1920)",
-        "level": 3
-      },
-      {
-        "heading": "Dodecafonismo",
-        "level": 3
-      },
-      {
-        "heading": "Segunda Escuela de Vienna",
-        "level": 3
-      },
-      {
-        "heading": "Neoclacisismo",
-        "level": 3
-      },
-      {
-        "heading": "Jazz",
-        "level": 3
-      },
-      {
-        "heading": "Alemania",
-        "level": 3
-      },
-      {
-        "heading": "Rusia",
-        "level": 3
-      },
-      {
-        "heading": "EEUU",
-        "level": 3
-      },
-      {
-        "heading": "Música moderna",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "My Units",
-        "relativePath": "Spaces/My School/My Units/My Units.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Beginning of Psychology",
-    "relativePath": "Spaces/My School/My Units/Beginning of Psychology.md",
-    "tags": [
-      "unit"
-    ],
-    "frontmatter": {
-      "Created": "2023-02-12 13:45"
-    },
-    "headings": [
-      {
-        "heading": "Retrospective Timetable",
-        "level": 2
-      },
-      {
-        "heading": "Concepts",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "My Units",
-        "relativePath": "Spaces/My School/My Units/My Units.md"
-      },
-      {
-        "link": "Psychology 100"
-      },
-      {
-        "link": "Wilhelm Wundt"
-      },
-      {
-        "link": "Psychology concept",
-        "relativePath": "Notes/Psychology concept.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Psychology concept",
-        "link": "Beginning of Psychology",
-        "relativePath": "Spaces/My School/My Concepts/Psychology concept.md"
-      },
-      {
-        "fileName": "Retrospective Timetables",
-        "link": "Beginning of Psychology#Retrospective Timetable",
-        "relativePath": "Notes/Retrospective Timetables.md",
-        "cleanLink": "Beginning of Psychology",
-        "displayText": "Beginning of Psychology > Retrospective Timetable"
-      },
-      {
-        "fileName": "Psychology concept",
-        "link": "Beginning of Psychology",
-        "relativePath": "Notes/Psychology concept.md"
-      }
-    ]
-  },
-  {
-    "fileName": "My Units",
-    "relativePath": "Spaces/My School/My Units/My Units.md",
-    "tags": [
-      "🔍"
-    ],
-    "headings": [
-      {
-        "heading": "All Units",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "My School",
-        "displayText": "🏫 My School",
-        "relativePath": "Spaces/My School/My School.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "🏠 My Home",
-        "link": "My Units",
-        "relativePath": "🏠 My Home.md"
-      },
-      {
-        "fileName": "Esquema Tema 3 - HM",
-        "link": "My Units",
-        "relativePath": "Spaces/My School/My Units/Esquema Tema 3 - HM.md"
-      },
-      {
-        "fileName": "Esquema Tema 2 - HM",
-        "link": "My Units",
-        "relativePath": "Spaces/My School/My Units/Esquema Tema 2 - HM.md"
-      },
-      {
-        "fileName": "Beginning of Psychology",
-        "link": "My Units",
-        "relativePath": "Spaces/My School/My Units/Beginning of Psychology.md"
-      },
-      {
-        "fileName": "My School",
-        "link": "My Units",
-        "relativePath": "Spaces/My School/My School.md"
-      },
-      {
-        "fileName": "Responses to Lesson Action Items",
-        "link": "My Units",
-        "relativePath": "Notes/Responses to Lesson Action Items.md"
-      },
-      {
-        "fileName": "Note Development Kanban",
-        "link": "My Units",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
-      {
-        "fileName": "Note Explanations",
-        "link": "My Units",
-        "relativePath": "Notes/Note Explanations.md"
-      },
-      {
-        "fileName": "Module - How To Easily Personalize Obsidian For School",
-        "link": "My Units",
-        "relativePath": "Notes/Module - How To Easily Personalize Obsidian For School.md"
-      },
-      {
-        "fileName": "Unit Template",
-        "link": "My Units",
-        "relativePath": "Extras/Templates/School/Unit Template.md"
-      }
-    ]
-  },
-  {
     "fileName": "My School",
     "relativePath": "Spaces/My School/My School.md",
     "frontmatter": {
-      "modified": "2024-03-13T19:25:14+01:00"
+      "modified": "2024-06-04T19:20:12+02:00"
     },
     "aliases": [
       "🏫 My School Dashboard"
     ],
     "headings": [
-      {
-        "heading": "Assignments",
-        "level": 2
-      },
       {
         "heading": "Current Courses",
         "level": 2
@@ -519,24 +248,12 @@
         "relativePath": "🏠 My Home.md"
       },
       {
-        "link": "My Assignments",
-        "relativePath": "Spaces/My School/My Assignments/My Assignments.md"
-      },
-      {
-        "link": "My Concepts",
-        "relativePath": "Spaces/My School/My Concepts/My Concepts.md"
-      },
-      {
         "link": "My Inputs",
         "relativePath": "Spaces/My School/My Inputs/My Inputs.md"
       },
       {
         "link": "My Lectures",
         "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
-      },
-      {
-        "link": "My Units",
-        "relativePath": "Spaces/My School/My Units/My Units.md"
       }
     ],
     "backlinks": [
@@ -545,12 +262,6 @@
         "link": "My School",
         "relativePath": "🏠 My Home.md",
         "displayText": "🏫 My School Dashboard"
-      },
-      {
-        "fileName": "My Units",
-        "link": "My School",
-        "relativePath": "Spaces/My School/My Units/My Units.md",
-        "displayText": "🏫 My School"
       },
       {
         "fileName": "My Lectures",
@@ -581,11 +292,6 @@
         "link": "My School",
         "relativePath": "Notes/Obsidian Bookmarks.md",
         "displayText": "🏫 My School Dashboard"
-      },
-      {
-        "fileName": "Note Development Kanban",
-        "link": "My School",
-        "relativePath": "Notes/Note Development Kanban.md"
       },
       {
         "fileName": "Module - How To Easily Personalize Obsidian For School",
@@ -1983,16 +1689,6 @@
         "fileName": "Responses to Lesson Action Items",
         "link": "My Lectures",
         "relativePath": "Notes/Responses to Lesson Action Items.md"
-      },
-      {
-        "fileName": "Responses to Lesson Action Items",
-        "link": "My Lectures",
-        "relativePath": "Notes/Responses to Lesson Action Items.md"
-      },
-      {
-        "fileName": "Note Development Kanban",
-        "link": "My Lectures",
-        "relativePath": "Notes/Note Development Kanban.md"
       },
       {
         "fileName": "Note Explanations",
@@ -8299,11 +7995,6 @@
         "relativePath": "Notes/Obsidian Bookmarks.md"
       },
       {
-        "fileName": "Note Development Kanban",
-        "link": "My Courses",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
-      {
         "fileName": "Note Explanations",
         "link": "My Courses",
         "relativePath": "Notes/Note Explanations.md"
@@ -8889,6 +8580,42 @@
     ]
   },
   {
+    "fileName": "Money —",
+    "relativePath": "Spaces/My School/My Concepts/Money —.md",
+    "tags": [
+      "concept"
+    ],
+    "frontmatter": {
+      "Created": "2024-06-04 19:08",
+      "modified": "2024-06-04T19:08:47+02:00"
+    },
+    "backlinks": [
+      {
+        "fileName": "EP MOC",
+        "link": "Money —",
+        "relativePath": "Atlas/MOCs/EP MOC.md"
+      }
+    ]
+  },
+  {
+    "fileName": "What Went Wrong",
+    "relativePath": "Spaces/My School/My Concepts/What Went Wrong.md",
+    "tags": [
+      "concept"
+    ],
+    "frontmatter": {
+      "Created": "2024-06-04 19:08",
+      "modified": "2024-06-04T19:08:33+02:00"
+    },
+    "backlinks": [
+      {
+        "fileName": "EP MOC",
+        "link": "What Went Wrong",
+        "relativePath": "Atlas/MOCs/EP MOC.md"
+      }
+    ]
+  },
+  {
     "fileName": "Beethoven  Sonata Op. 27, quasi una fantasia, II",
     "relativePath": "Spaces/My School/My Concepts/Beethoven  Sonata Op. 27, quasi una fantasia, II.md",
     "tags": [
@@ -8959,27 +8686,6 @@
     ]
   },
   {
-    "fileName": "Psychology concept",
-    "relativePath": "Spaces/My School/My Concepts/Psychology concept.md",
-    "tags": [
-      "status/🟩",
-      "concept"
-    ],
-    "frontmatter": {
-      "Created": "2023-02-12 13:46"
-    },
-    "links": [
-      {
-        "link": "My Concepts",
-        "relativePath": "Spaces/My School/My Concepts/My Concepts.md"
-      },
-      {
-        "link": "Beginning of Psychology",
-        "relativePath": "Spaces/My School/My Units/Beginning of Psychology.md"
-      }
-    ]
-  },
-  {
     "fileName": "Project",
     "relativePath": "Spaces/My School/My Concepts/Project.md",
     "tags": [
@@ -9022,48 +8728,6 @@
       {
         "link": "🏠 My Home",
         "relativePath": "🏠 My Home.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "🏠 My Home",
-        "link": "My Concepts",
-        "relativePath": "🏠 My Home.md"
-      },
-      {
-        "fileName": "My School",
-        "link": "My Concepts",
-        "relativePath": "Spaces/My School/My School.md"
-      },
-      {
-        "fileName": "Psychology concept",
-        "link": "My Concepts",
-        "relativePath": "Spaces/My School/My Concepts/Psychology concept.md"
-      },
-      {
-        "fileName": "Psychology concept",
-        "link": "My Concepts",
-        "relativePath": "Notes/Psychology concept.md"
-      },
-      {
-        "fileName": "Note Development Kanban",
-        "link": "My Concepts",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
-      {
-        "fileName": "Note Explanations",
-        "link": "My Concepts",
-        "relativePath": "Notes/Note Explanations.md"
-      },
-      {
-        "fileName": "Module - How To Easily Personalize Obsidian For School",
-        "link": "My Concepts",
-        "relativePath": "Notes/Module - How To Easily Personalize Obsidian For School.md"
-      },
-      {
-        "fileName": "Concept notes",
-        "link": "My Concepts",
-        "relativePath": "Notes/Concept notes.md"
       }
     ]
   },
@@ -9698,17 +9362,6 @@
     }
   },
   {
-    "fileName": "Actividad 3 HM II",
-    "relativePath": "Spaces/My School/My Concepts/Actividad 3 HM II.md",
-    "tags": [
-      "concept"
-    ],
-    "frontmatter": {
-      "Created": "2024-01-10 11:55",
-      "modified": "2024-01-11T13:05:13+01:00"
-    }
-  },
-  {
     "fileName": "Research paper on an important figure",
     "relativePath": "Spaces/My School/My Assignments/Research paper on an important figure.md",
     "tags": [
@@ -9798,11 +9451,6 @@
         "relativePath": "🏠 My Home.md"
       },
       {
-        "fileName": "My School",
-        "link": "My Assignments",
-        "relativePath": "Spaces/My School/My School.md"
-      },
-      {
         "fileName": "My Essays",
         "link": "My Assignments",
         "relativePath": "Spaces/My School/My Essays/My Essays.md"
@@ -9816,16 +9464,6 @@
         "fileName": "The 3 Step Process I Use To Write Essays In Record Time With My Obsidian Notes",
         "link": "My Assignments",
         "relativePath": "Notes/The 3 Step Process I Use To Write Essays In Record Time With My Obsidian Notes.md"
-      },
-      {
-        "fileName": "Responses to Lesson Action Items",
-        "link": "My Assignments",
-        "relativePath": "Notes/Responses to Lesson Action Items.md"
-      },
-      {
-        "fileName": "Note Development Kanban",
-        "link": "My Assignments",
-        "relativePath": "Notes/Note Development Kanban.md"
       },
       {
         "fileName": "Note Explanations",
@@ -9927,11 +9565,6 @@
     ],
     "backlinks": [
       {
-        "fileName": "Note Development Kanban",
-        "link": "Your Collect Toolkit Introduction to Collect",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
-      {
         "fileName": "Module - Collect",
         "link": "Your Collect Toolkit Introduction to Collect",
         "relativePath": "Notes/Module - Collect.md"
@@ -9979,11 +9612,6 @@
     ],
     "backlinks": [
       {
-        "fileName": "Note Development Kanban",
-        "link": "You Have Been Reading Wrong Your Entire Life Introduction to The Four Kinds of Reading",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
-      {
         "fileName": "Module - Collect",
         "link": "You Have Been Reading Wrong Your Entire Life Introduction to The Four Kinds of Reading",
         "relativePath": "Notes/Module - Collect.md"
@@ -10024,11 +9652,6 @@
       }
     ],
     "backlinks": [
-      {
-        "fileName": "Note Development Kanban",
-        "link": "Why Student’s Waste Their Semesters",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
       {
         "fileName": "Module - Collect",
         "link": "Why Student’s Waste Their Semesters",
@@ -10081,11 +9704,6 @@
       }
     ],
     "backlinks": [
-      {
-        "fileName": "Note Development Kanban",
-        "link": "Why Obsidian",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
       {
         "fileName": "Module - Breaking Out Of The Cookie Cutter Student Mindset",
         "link": "Why Obsidian",
@@ -10227,11 +9845,6 @@
         "fileName": "Obsidian Community Plugins",
         "link": "Useful EXTRA Community Plugins to Enhance Your Vault",
         "relativePath": "Notes/Obsidian Community Plugins.md"
-      },
-      {
-        "fileName": "Note Development Kanban",
-        "link": "Useful EXTRA Community Plugins to Enhance Your Vault",
-        "relativePath": "Notes/Note Development Kanban.md"
       }
     ]
   },
@@ -10302,11 +9915,6 @@
       }
     ],
     "backlinks": [
-      {
-        "fileName": "Note Development Kanban",
-        "link": "Welcome to The Course",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
       {
         "fileName": "Module - Breaking Out Of The Cookie Cutter Student Mindset",
         "link": "Welcome to The Course",
@@ -10516,11 +10124,6 @@
         "relativePath": "Notes/Why Obsidian.md"
       },
       {
-        "fileName": "Note Development Kanban",
-        "link": "The Cookie Cutter Student Mindset",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
-      {
         "fileName": "Module - Breaking Out Of The Cookie Cutter Student Mindset",
         "link": "The Cookie Cutter Student Mindset",
         "relativePath": "Notes/Module - Breaking Out Of The Cookie Cutter Student Mindset.md"
@@ -10553,11 +10156,6 @@
       }
     ],
     "backlinks": [
-      {
-        "fileName": "Note Development Kanban",
-        "link": "The Amazing Variety Of Things You Can Create With Your Conceptual Notes",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
       {
         "fileName": "Module - Create",
         "link": "The Amazing Variety Of Things You Can Create With Your Conceptual Notes",
@@ -10615,11 +10213,6 @@
       }
     ],
     "backlinks": [
-      {
-        "fileName": "Note Development Kanban",
-        "link": "The 3 Step Process I Use To Write Essays In Record Time With My Obsidian Notes",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
       {
         "fileName": "Module - Create",
         "link": "The 3 Step Process I Use To Write Essays In Record Time With My Obsidian Notes",
@@ -10814,11 +10407,6 @@
         "displayText": "Templater Plugin > How to create a new template?"
       },
       {
-        "fileName": "Note Development Kanban",
-        "link": "Templater Plugin",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
-      {
         "fileName": "Module - The Seven Obsidian Plug Ins That Will Explode Your Notetaking",
         "link": "Templater Plugin",
         "relativePath": "Notes/Module - The Seven Obsidian Plug Ins That Will Explode Your Notetaking.md"
@@ -10862,11 +10450,6 @@
       }
     ],
     "backlinks": [
-      {
-        "fileName": "Note Development Kanban",
-        "link": "Synoptical Reading",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
       {
         "fileName": "Module - Collect",
         "link": "Synoptical Reading",
@@ -11002,11 +10585,6 @@
         "displayText": "Spaced Repetition Plugin > View flashcards only from a specific note"
       },
       {
-        "fileName": "Note Development Kanban",
-        "link": "Spaced Repetition Plugin",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
-      {
         "fileName": "Module - The Seven Obsidian Plug Ins That Will Explode Your Notetaking",
         "link": "Spaced Repetition Plugin",
         "relativePath": "Notes/Module - The Seven Obsidian Plug Ins That Will Explode Your Notetaking.md"
@@ -11060,8 +10638,7 @@
         "relativePath": "Notes/Module - How To Get Better Grades While Studying Less In Obsidian.md"
       },
       {
-        "link": "Unit Template",
-        "relativePath": "Extras/Templates/School/Unit Template.md"
+        "link": "Unit Template"
       },
       {
         "link": "Markdown"
@@ -11069,20 +10646,9 @@
       {
         "link": "Module - How To Get Better Grades While Studying Less In Obsidian",
         "relativePath": "Notes/Module - How To Get Better Grades While Studying Less In Obsidian.md"
-      },
-      {
-        "link": "Beginning of Psychology#Retrospective Timetable",
-        "cleanLink": "Beginning of Psychology",
-        "displayText": "Beginning of Psychology > Retrospective Timetable",
-        "relativePath": "Spaces/My School/My Units/Beginning of Psychology.md"
       }
     ],
     "backlinks": [
-      {
-        "fileName": "Note Development Kanban",
-        "link": "Retrospective Timetables",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
       {
         "fileName": "Note Explanations",
         "link": "Retrospective Timetables",
@@ -11122,16 +10688,14 @@
     ],
     "links": [
       {
-        "link": "🗺 Studying MOC",
-        "relativePath": "My Atlas/MOCs/🗺 Studying MOC.md"
+        "link": "🗺 Studying MOC"
       },
       {
         "link": "Spaced Repetition",
         "relativePath": "Notes/Spaced Repetition.md"
       },
       {
-        "link": "🗺 Studying MOC",
-        "relativePath": "My Atlas/MOCs/🗺 Studying MOC.md"
+        "link": "🗺 Studying MOC"
       },
       {
         "link": "Anki Flashcards"
@@ -11149,11 +10713,6 @@
         "relativePath": "Notes/Spaced Repetition Plugin.md"
       },
       {
-        "fileName": "Note Development Kanban",
-        "link": "Spaced Repetition",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
-      {
         "fileName": "Active Recall",
         "link": "Spaced Repetition",
         "relativePath": "Notes/Active Recall.md"
@@ -11166,6 +10725,9 @@
     "tags": [
       "⚡section1-course-chat"
     ],
+    "frontmatter": {
+      "modified": "2024-06-04T19:13:56+02:00"
+    },
     "headings": [
       {
         "heading": "[[Module - Breaking Out Of The Cookie Cutter Student Mindset]]",
@@ -11418,8 +10980,7 @@
         "relativePath": "Extras/Templates/School/Lecture Template.md"
       },
       {
-        "link": "Unit Template",
-        "relativePath": "Extras/Templates/School/Unit Template.md"
+        "link": "Unit Template"
       },
       {
         "link": "Concept Note Template",
@@ -11432,18 +10993,6 @@
       {
         "link": "My Lectures",
         "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
-      },
-      {
-        "link": "My Units",
-        "relativePath": "Spaces/My School/My Units/My Units.md"
-      },
-      {
-        "link": "My Lectures",
-        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
-      },
-      {
-        "link": "My Assignments",
-        "relativePath": "Spaces/My School/My Assignments/My Assignments.md"
       },
       {
         "link": "Twelve Favorite Questions",
@@ -11828,11 +11377,6 @@
     ],
     "backlinks": [
       {
-        "fileName": "Note Development Kanban",
-        "link": "Obsidian Core Features",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
-      {
         "fileName": "Module - Learning Obsidian Core Features",
         "link": "Obsidian Core Features",
         "relativePath": "Notes/Module - Learning Obsidian Core Features.md"
@@ -11887,11 +11431,6 @@
       }
     ],
     "backlinks": [
-      {
-        "fileName": "Note Development Kanban",
-        "link": "Periodic reviews",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
       {
         "fileName": "Note Explanations",
         "link": "Periodic reviews",
@@ -11970,11 +11509,6 @@
         "relativePath": "Notes/Obsidian Core Features.md"
       },
       {
-        "fileName": "Note Development Kanban",
-        "link": "QuickAdd Plugin",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
-      {
         "fileName": "Module - The Seven Obsidian Plug Ins That Will Explode Your Notetaking",
         "link": "QuickAdd Plugin",
         "relativePath": "Notes/Module - The Seven Obsidian Plug Ins That Will Explode Your Notetaking.md"
@@ -11983,34 +11517,6 @@
         "fileName": "Managing the different note types",
         "link": "QuickAdd Plugin",
         "relativePath": "Notes/Managing the different note types.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Psychology concept",
-    "relativePath": "Notes/Psychology concept.md",
-    "tags": [
-      "status/🟩",
-      "concept"
-    ],
-    "frontmatter": {
-      "Created": "2023-02-12 13:46"
-    },
-    "links": [
-      {
-        "link": "My Concepts",
-        "relativePath": "Spaces/My School/My Concepts/My Concepts.md"
-      },
-      {
-        "link": "Beginning of Psychology",
-        "relativePath": "Spaces/My School/My Units/Beginning of Psychology.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Beginning of Psychology",
-        "link": "Psychology concept",
-        "relativePath": "Spaces/My School/My Units/Beginning of Psychology.md"
       }
     ]
   },
@@ -12031,11 +11537,6 @@
       }
     ],
     "backlinks": [
-      {
-        "fileName": "Note Development Kanban",
-        "link": "Overview Of The Zettelkasten Workflow Collect, Connect, Create And Idea Emergence",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
       {
         "fileName": "Module - Collect",
         "link": "Overview Of The Zettelkasten Workflow Collect, Connect, Create And Idea Emergence",
@@ -12200,11 +11701,6 @@
     ],
     "backlinks": [
       {
-        "fileName": "Note Development Kanban",
-        "link": "Obsidian Links",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
-      {
         "fileName": "Module - Learning Obsidian Core Features",
         "link": "Obsidian Links",
         "relativePath": "Notes/Module - Learning Obsidian Core Features.md"
@@ -12363,280 +11859,13 @@
     ]
   },
   {
-    "fileName": "Note Development Kanban",
-    "relativePath": "Notes/Note Development Kanban.md",
-    "frontmatter": {
-      "kanban-plugin": "basic"
-    },
-    "headings": [
-      {
-        "heading": "Aidan Backlog",
-        "level": 2
-      },
-      {
-        "heading": "🌌 Backlog",
-        "level": 2
-      },
-      {
-        "heading": "Aidan In Progress",
-        "level": 2
-      },
-      {
-        "heading": "🌌 In Progress",
-        "level": 2
-      },
-      {
-        "heading": "Aidan Review",
-        "level": 2
-      },
-      {
-        "heading": "🌌 Review",
-        "level": 2
-      },
-      {
-        "heading": "Aidan Amend",
-        "level": 2
-      },
-      {
-        "heading": "🌌 Amend",
-        "level": 2
-      },
-      {
-        "heading": "Finished",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "Useful EXTRA Community Plugins to Enhance Your Vault",
-        "relativePath": "Notes/Useful EXTRA Community Plugins to Enhance Your Vault.md"
-      },
-      {
-        "link": "How Large Language Models And AI Are Going To Change College",
-        "relativePath": "Notes/How Large Language Models And AI Are Going To Change College.md"
-      },
-      {
-        "link": "How I Take Book and Article Notes In Obsidian Compound Your Knowledge",
-        "relativePath": "Notes/How I Take Book and Article Notes In Obsidian Compound Your Knowledge.md"
-      },
-      {
-        "link": "Note Explanations",
-        "relativePath": "Notes/Note Explanations.md"
-      },
-      {
-        "link": "Periodic reviews",
-        "relativePath": "Notes/Periodic reviews.md"
-      },
-      {
-        "link": "5 MUST HAVE Mindsets For Your Zettelkasten",
-        "relativePath": "Notes/5 MUST HAVE Mindsets For Your Zettelkasten.md"
-      },
-      {
-        "link": "Module - How To Get Better Grades While Studying Less In Obsidian",
-        "relativePath": "Notes/Module - How To Get Better Grades While Studying Less In Obsidian.md"
-      },
-      {
-        "link": "Spaced Repetition",
-        "relativePath": "Notes/Spaced Repetition.md"
-      },
-      {
-        "link": "Active Recall",
-        "relativePath": "Notes/Active Recall.md"
-      },
-      {
-        "link": "Module - How To Easily Personalize Obsidian For School",
-        "relativePath": "Notes/Module - How To Easily Personalize Obsidian For School.md"
-      },
-      {
-        "link": "My School",
-        "relativePath": "Spaces/My School/My School.md"
-      },
-      {
-        "link": "My Courses",
-        "relativePath": "Spaces/My School/My Courses/My Courses.md"
-      },
-      {
-        "link": "My Lectures",
-        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
-      },
-      {
-        "link": "My Assignments",
-        "relativePath": "Spaces/My School/My Assignments/My Assignments.md"
-      },
-      {
-        "link": "My Units",
-        "relativePath": "Spaces/My School/My Units/My Units.md"
-      },
-      {
-        "link": "My Concepts",
-        "relativePath": "Spaces/My School/My Concepts/My Concepts.md"
-      },
-      {
-        "link": "Daily Note Template",
-        "relativePath": "Extras/Templates/Periodic/Daily Note Template.md"
-      },
-      {
-        "link": "Weekly Review Template",
-        "relativePath": "Extras/Templates/Periodic/Weekly Review Template.md"
-      },
-      {
-        "link": "My Periodic Reviews"
-      },
-      {
-        "link": "Managing the different note types",
-        "relativePath": "Notes/Managing the different note types.md"
-      },
-      {
-        "link": "Retrospective Timetables",
-        "relativePath": "Notes/Retrospective Timetables.md"
-      },
-      {
-        "link": "Creation Is The Only Thing That Matters Introduction To Creation",
-        "relativePath": "Notes/Creation Is The Only Thing That Matters Introduction To Creation.md"
-      },
-      {
-        "link": "The 3 Step Process I Use To Write Essays In Record Time With My Obsidian Notes",
-        "relativePath": "Notes/The 3 Step Process I Use To Write Essays In Record Time With My Obsidian Notes.md"
-      },
-      {
-        "link": "The Amazing Variety Of Things You Can Create With Your Conceptual Notes",
-        "relativePath": "Notes/The Amazing Variety Of Things You Can Create With Your Conceptual Notes.md"
-      },
-      {
-        "link": "5 Simple Levels To Supercharging Your Learning With MOCs In Obsidian",
-        "relativePath": "Notes/5 Simple Levels To Supercharging Your Learning With MOCs In Obsidian.md"
-      },
-      {
-        "link": "6 Simple Methods For Creating And Growing Your Concept Notes In Obsidian",
-        "relativePath": "Notes/6 Simple Methods For Creating And Growing Your Concept Notes In Obsidian.md"
-      },
-      {
-        "link": "How To Identify Note Type And Status",
-        "relativePath": "Notes/How To Identify Note Type And Status.md"
-      },
-      {
-        "link": "Module - The Seven Obsidian Plug Ins That Will Explode Your Notetaking",
-        "relativePath": "Notes/Module - The Seven Obsidian Plug Ins That Will Explode Your Notetaking.md"
-      },
-      {
-        "link": "Dataview Plugin",
-        "relativePath": "Notes/Dataview Plugin.md"
-      },
-      {
-        "link": "QuickAdd Plugin",
-        "relativePath": "Notes/QuickAdd Plugin.md"
-      },
-      {
-        "link": "Templater Plugin",
-        "relativePath": "Notes/Templater Plugin.md"
-      },
-      {
-        "link": "Calendar Plugin",
-        "relativePath": "Notes/Calendar Plugin.md"
-      },
-      {
-        "link": "Spaced Repetition Plugin",
-        "relativePath": "Notes/Spaced Repetition Plugin.md"
-      },
-      {
-        "link": "Welcome to The Course",
-        "relativePath": "Notes/Welcome to The Course.md"
-      },
-      {
-        "link": "The Cookie Cutter Student Mindset",
-        "relativePath": "Notes/The Cookie Cutter Student Mindset.md"
-      },
-      {
-        "link": "How To Break Out of The Cookie Cutter Student Mindset",
-        "relativePath": "Notes/How To Break Out of The Cookie Cutter Student Mindset.md"
-      },
-      {
-        "link": "Why Obsidian",
-        "relativePath": "Notes/Why Obsidian.md"
-      },
-      {
-        "link": "Why Student’s Waste Their Semesters",
-        "relativePath": "Notes/Why Student’s Waste Their Semesters.md"
-      },
-      {
-        "link": "Growing Your Notes Over Time Introduction to Connect",
-        "relativePath": "Notes/Growing Your Notes Over Time Introduction to Connect.md"
-      },
-      {
-        "link": "Obsidian Core Features",
-        "relativePath": "Notes/Obsidian Core Features.md"
-      },
-      {
-        "link": "Learn Markdown to format your notes",
-        "relativePath": "Notes/Learn Markdown to format your notes.md"
-      },
-      {
-        "link": "My Hotkeys",
-        "relativePath": "Notes/My Hotkeys.md"
-      },
-      {
-        "link": "Changing your Obsidian appearance and themes",
-        "relativePath": "Notes/Changing your Obsidian appearance and themes.md"
-      },
-      {
-        "link": "From learning Obsidian to integrating core plug ins"
-      },
-      {
-        "link": "Obsidian Links",
-        "relativePath": "Notes/Obsidian Links.md"
-      },
-      {
-        "link": "Overview Of The Zettelkasten Workflow Collect, Connect, Create And Idea Emergence",
-        "relativePath": "Notes/Overview Of The Zettelkasten Workflow Collect, Connect, Create And Idea Emergence.md"
-      },
-      {
-        "link": "Your Collect Toolkit Introduction to Collect",
-        "relativePath": "Notes/Your Collect Toolkit Introduction to Collect.md"
-      },
-      {
-        "link": "You Have Been Reading Wrong Your Entire Life Introduction to The Four Kinds of Reading",
-        "relativePath": "Notes/You Have Been Reading Wrong Your Entire Life Introduction to The Four Kinds of Reading.md"
-      },
-      {
-        "link": "Elementary Reading",
-        "relativePath": "Notes/Elementary Reading.md"
-      },
-      {
-        "link": "Inspectional Reading",
-        "relativePath": "Notes/Inspectional Reading.md"
-      },
-      {
-        "link": "Analytical Reading",
-        "relativePath": "Notes/Analytical Reading.md"
-      },
-      {
-        "link": "Synoptical Reading",
-        "relativePath": "Notes/Synoptical Reading.md"
-      },
-      {
-        "link": "How To Identify Note Type And Status",
-        "relativePath": "Notes/How To Identify Note Type And Status.md"
-      },
-      {
-        "link": "My Step By Step Process For Taking Conceptual Lecture Notes In Obsidian",
-        "relativePath": "Notes/My Step By Step Process For Taking Conceptual Lecture Notes In Obsidian.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Note Development Kanban Process",
-        "link": "Note Development Kanban",
-        "relativePath": "Notes/Note Development Kanban Process.md"
-      }
-    ]
-  },
-  {
     "fileName": "Note Explanations",
     "relativePath": "Notes/Note Explanations.md",
     "frontmatter": {
       "Links": "[[Module - How To Easily Personalize Obsidian For School]]",
       "Status": null,
-      "Created": "2023-02-21 00:48"
+      "Created": "2023-02-21 00:48",
+      "modified": "2024-06-04T19:20:04+02:00"
     },
     "headings": [
       {
@@ -12720,20 +11949,12 @@
         "level": 2
       },
       {
-        "heading": "[[Unit Template]]",
-        "level": 2
-      },
-      {
         "heading": "Retrospective Timetable",
         "level": 3
       },
       {
         "heading": "Unordered",
         "level": 3
-      },
-      {
-        "heading": "[[Concept Note Template]]",
-        "level": 2
       },
       {
         "heading": "[[MOC Template]]",
@@ -12807,30 +12028,8 @@
         "relativePath": "Spaces/My School/My Courses/My Courses.md"
       },
       {
-        "link": "Unit Template",
-        "relativePath": "Extras/Templates/School/Unit Template.md"
-      },
-      {
-        "link": "My Units",
-        "relativePath": "Spaces/My School/My Units/My Units.md"
-      },
-      {
         "link": "Retrospective Timetables",
         "relativePath": "Notes/Retrospective Timetables.md"
-      },
-      {
-        "link": "Concept Note Template",
-        "relativePath": "Extras/Templates/Notes/Concept Note Template.md"
-      },
-      {
-        "link": "My Concepts",
-        "relativePath": "Spaces/My School/My Concepts/My Concepts.md"
-      },
-      {
-        "link": "Unit Template#Concepts",
-        "cleanLink": "Unit Template",
-        "displayText": "Unit Template > Concepts",
-        "relativePath": "Extras/Templates/School/Unit Template.md"
       },
       {
         "link": "MOC Template",
@@ -12859,11 +12058,6 @@
         "relativePath": "Notes/Periodic reviews.md",
         "cleanLink": "Note Explanations",
         "displayText": "Note Explanations > Weekly Review Template"
-      },
-      {
-        "fileName": "Note Development Kanban",
-        "link": "Note Explanations",
-        "relativePath": "Notes/Note Development Kanban.md"
       },
       {
         "fileName": "Module - How To Easily Personalize Obsidian For School",
@@ -12895,8 +12089,7 @@
     ],
     "links": [
       {
-        "link": "Note Development Kanban",
-        "relativePath": "Notes/Note Development Kanban.md"
+        "link": "Note Development Kanban"
       }
     ]
   },
@@ -13016,11 +12209,6 @@
         "fileName": "My Lectures",
         "link": "My Step By Step Process For Taking Conceptual Lecture Notes In Obsidian",
         "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
-      },
-      {
-        "fileName": "Note Development Kanban",
-        "link": "My Step By Step Process For Taking Conceptual Lecture Notes In Obsidian",
-        "relativePath": "Notes/Note Development Kanban.md"
       },
       {
         "fileName": "Module - Collect",
@@ -13186,11 +12374,6 @@
         "relativePath": "Notes/Obsidian Core Features.md"
       },
       {
-        "fileName": "Note Development Kanban",
-        "link": "My Hotkeys",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
-      {
         "fileName": "Module - Learning Obsidian Core Features",
         "link": "My Hotkeys",
         "relativePath": "Notes/Module - Learning Obsidian Core Features.md"
@@ -13261,11 +12444,6 @@
         "fileName": "QuickAdd Plugin",
         "link": "Module - The Seven Obsidian Plug Ins That Will Explode Your Notetaking",
         "relativePath": "Notes/QuickAdd Plugin.md"
-      },
-      {
-        "fileName": "Note Development Kanban",
-        "link": "Module - The Seven Obsidian Plug Ins That Will Explode Your Notetaking",
-        "relativePath": "Notes/Note Development Kanban.md"
       },
       {
         "fileName": "Module - Learning Obsidian Core Features",
@@ -13353,11 +12531,6 @@
         "relativePath": "Notes/Retrospective Timetables.md"
       },
       {
-        "fileName": "Note Development Kanban",
-        "link": "Module - How To Get Better Grades While Studying Less In Obsidian",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
-      {
         "fileName": "Module - How To Easily Personalize Obsidian For School",
         "link": "Module - How To Get Better Grades While Studying Less In Obsidian",
         "relativePath": "Notes/Module - How To Easily Personalize Obsidian For School.md"
@@ -13385,7 +12558,8 @@
     "frontmatter": {
       "Links": "[[🎓 Obsidian University MOC]]",
       "Tags": null,
-      "Created": "2023-01-18 20:16"
+      "Created": "2023-01-18 20:16",
+      "modified": "2024-06-04T19:19:01+02:00"
     },
     "links": [
       {
@@ -13415,14 +12589,6 @@
       {
         "link": "My Lectures",
         "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
-      },
-      {
-        "link": "My Units",
-        "relativePath": "Spaces/My School/My Units/My Units.md"
-      },
-      {
-        "link": "My Concepts",
-        "relativePath": "Spaces/My School/My Concepts/My Concepts.md"
       },
       {
         "link": "Periodic reviews",
@@ -13459,11 +12625,6 @@
         "fileName": "Periodic reviews",
         "link": "Module - How To Easily Personalize Obsidian For School",
         "relativePath": "Notes/Periodic reviews.md"
-      },
-      {
-        "fileName": "Note Development Kanban",
-        "link": "Module - How To Easily Personalize Obsidian For School",
-        "relativePath": "Notes/Note Development Kanban.md"
       },
       {
         "fileName": "Note Explanations",
@@ -14173,11 +13334,6 @@
     ],
     "backlinks": [
       {
-        "fileName": "Note Development Kanban",
-        "link": "Learn Markdown to format your notes",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
-      {
         "fileName": "Module - Learning Obsidian Core Features",
         "link": "Learn Markdown to format your notes",
         "relativePath": "Notes/Module - Learning Obsidian Core Features.md"
@@ -14311,8 +13467,7 @@
         "relativePath": "Notes/Metadata Menu Plugin.md"
       },
       {
-        "link": "Unit Template",
-        "relativePath": "Extras/Templates/School/Unit Template.md"
+        "link": "Unit Template"
       },
       {
         "link": "Metadata Menu Plugin",
@@ -14446,11 +13601,6 @@
     ],
     "backlinks": [
       {
-        "fileName": "Note Development Kanban",
-        "link": "Inspectional Reading",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
-      {
         "fileName": "Module - Collect",
         "link": "Inspectional Reading",
         "relativePath": "Notes/Module - Collect.md"
@@ -14567,11 +13717,6 @@
       }
     ],
     "backlinks": [
-      {
-        "fileName": "Note Development Kanban",
-        "link": "Managing the different note types",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
       {
         "fileName": "Module - How To Easily Personalize Obsidian For School",
         "link": "Managing the different note types",
@@ -15168,11 +14313,6 @@
     ],
     "backlinks": [
       {
-        "fileName": "Note Development Kanban",
-        "link": "How To Break Out of The Cookie Cutter Student Mindset",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
-      {
         "fileName": "Module - Breaking Out Of The Cookie Cutter Student Mindset",
         "link": "How To Break Out of The Cookie Cutter Student Mindset",
         "relativePath": "Notes/Module - Breaking Out Of The Cookie Cutter Student Mindset.md"
@@ -15282,16 +14422,6 @@
         "relativePath": "Notes/Templater Plugin.md"
       },
       {
-        "fileName": "Note Development Kanban",
-        "link": "How To Identify Note Type And Status",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
-      {
-        "fileName": "Note Development Kanban",
-        "link": "How To Identify Note Type And Status",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
-      {
         "fileName": "Module - Collect",
         "link": "How To Identify Note Type And Status",
         "relativePath": "Notes/Module - Collect.md"
@@ -15396,11 +14526,6 @@
     ],
     "backlinks": [
       {
-        "fileName": "Note Development Kanban",
-        "link": "How Large Language Models And AI Are Going To Change College",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
-      {
         "fileName": "Module - Breaking Out Of The Cookie Cutter Student Mindset",
         "link": "How Large Language Models And AI Are Going To Change College",
         "relativePath": "Notes/Module - Breaking Out Of The Cookie Cutter Student Mindset.md"
@@ -15425,11 +14550,6 @@
       }
     ],
     "backlinks": [
-      {
-        "fileName": "Note Development Kanban",
-        "link": "Growing Your Notes Over Time Introduction to Connect",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
       {
         "fileName": "Module - Connect",
         "link": "Growing Your Notes Over Time Introduction to Connect",
@@ -15503,11 +14623,6 @@
     ],
     "backlinks": [
       {
-        "fileName": "Note Development Kanban",
-        "link": "How I Take Book and Article Notes In Obsidian Compound Your Knowledge",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
-      {
         "fileName": "Module - Connect",
         "link": "How I Take Book and Article Notes In Obsidian Compound Your Knowledge",
         "relativePath": "Notes/Module - Connect.md"
@@ -15524,11 +14639,6 @@
       }
     ],
     "backlinks": [
-      {
-        "fileName": "Note Development Kanban",
-        "link": "Creation Is The Only Thing That Matters Introduction To Creation",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
       {
         "fileName": "Module - Create",
         "link": "Creation Is The Only Thing That Matters Introduction To Creation",
@@ -15641,11 +14751,6 @@
         "relativePath": "Notes/You Have Been Reading Wrong Your Entire Life Introduction to The Four Kinds of Reading.md"
       },
       {
-        "fileName": "Note Development Kanban",
-        "link": "Elementary Reading",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
-      {
         "fileName": "Module - Collect",
         "link": "Elementary Reading",
         "relativePath": "Notes/Module - Collect.md"
@@ -15756,11 +14861,6 @@
         "relativePath": "Notes/Templater Plugin.md"
       },
       {
-        "fileName": "Note Development Kanban",
-        "link": "Dataview Plugin",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
-      {
         "fileName": "Note Explanations",
         "link": "Dataview Plugin",
         "relativePath": "Notes/Note Explanations.md"
@@ -15793,23 +14893,6 @@
         "fileName": "Metadata Menu Plugin",
         "link": "Dataview Plugin",
         "relativePath": "Notes/Metadata Menu Plugin.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Concept notes",
-    "relativePath": "Notes/Concept notes.md",
-    "frontmatter": {
-      "Created": "2023-02-28 08:16"
-    },
-    "links": [
-      {
-        "link": "My Concepts",
-        "relativePath": "Spaces/My School/My Concepts/My Concepts.md"
-      },
-      {
-        "link": "Conceptual Notemaking",
-        "relativePath": "Notes/Conceptual Notemaking.md"
       }
     ]
   },
@@ -16102,11 +15185,6 @@
         "relativePath": "Notes/How To Break Out of The Cookie Cutter Student Mindset.md"
       },
       {
-        "fileName": "Concept notes",
-        "link": "Conceptual Notemaking",
-        "relativePath": "Notes/Concept notes.md"
-      },
-      {
         "fileName": "ChatGPT Prompts We Are Using To Level Up Our Notetaking",
         "link": "Conceptual Notemaking",
         "relativePath": "Notes/ChatGPT Prompts We Are Using To Level Up Our Notetaking.md"
@@ -16341,11 +15419,6 @@
     ],
     "backlinks": [
       {
-        "fileName": "Note Development Kanban",
-        "link": "Changing your Obsidian appearance and themes",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
-      {
         "fileName": "Module - Learning Obsidian Core Features",
         "link": "Changing your Obsidian appearance and themes",
         "relativePath": "Notes/Module - Learning Obsidian Core Features.md"
@@ -16566,11 +15639,6 @@
         "relativePath": "Notes/Periodic reviews.md"
       },
       {
-        "fileName": "Note Development Kanban",
-        "link": "Calendar Plugin",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
-      {
         "fileName": "Note Explanations",
         "link": "Calendar Plugin",
         "relativePath": "Notes/Note Explanations.md"
@@ -16731,11 +15799,6 @@
     ],
     "backlinks": [
       {
-        "fileName": "Note Development Kanban",
-        "link": "Analytical Reading",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
-      {
         "fileName": "Module - Collect",
         "link": "Analytical Reading",
         "relativePath": "Notes/Module - Collect.md"
@@ -16773,8 +15836,7 @@
     ],
     "links": [
       {
-        "link": "🗺 Studying MOC",
-        "relativePath": "My Atlas/MOCs/🗺 Studying MOC.md"
+        "link": "🗺 Studying MOC"
       },
       {
         "link": "Higher-Level Thinking"
@@ -16794,11 +15856,6 @@
         "fileName": "Spaced Repetition Plugin",
         "link": "Active Recall",
         "relativePath": "Notes/Spaced Repetition Plugin.md"
-      },
-      {
-        "fileName": "Note Development Kanban",
-        "link": "Active Recall",
-        "relativePath": "Notes/Note Development Kanban.md"
       }
     ]
   },
@@ -16884,11 +15941,6 @@
       }
     ],
     "backlinks": [
-      {
-        "fileName": "Note Development Kanban",
-        "link": "6 Simple Methods For Creating And Growing Your Concept Notes In Obsidian",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
       {
         "fileName": "My Step By Step Process For Taking Conceptual Lecture Notes In Obsidian",
         "link": "6 Simple Methods For Creating And Growing Your Concept Notes In Obsidian",
@@ -17017,11 +16069,6 @@
         "relativePath": "Notes/The Four-Step MOC Creation Process I Use to Maximize Understanding of my College Classes in Obsidian.md"
       },
       {
-        "fileName": "Note Development Kanban",
-        "link": "5 Simple Levels To Supercharging Your Learning With MOCs In Obsidian",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
-      {
         "fileName": "Module - Connect",
         "link": "5 Simple Levels To Supercharging Your Learning With MOCs In Obsidian",
         "relativePath": "Notes/Module - Connect.md"
@@ -17085,11 +16132,6 @@
       }
     ],
     "backlinks": [
-      {
-        "fileName": "Note Development Kanban",
-        "link": "5 MUST HAVE Mindsets For Your Zettelkasten",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
       {
         "fileName": "Module - Breaking Out Of The Cookie Cutter Student Mindset",
         "link": "5 MUST HAVE Mindsets For Your Zettelkasten",
@@ -17180,158 +16222,6 @@
     ]
   },
   {
-    "fileName": "🗺 Studying MOC",
-    "relativePath": "My Atlas/MOCs/🗺 Studying MOC.md",
-    "tags": [
-      "🗺️"
-    ],
-    "frontmatter": {
-      "Created": "2023-02-26 20:10"
-    },
-    "headings": [
-      {
-        "heading": "Related MOCs",
-        "level": 2
-      },
-      {
-        "heading": "Related Concepts",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "🏠 My Home",
-        "relativePath": "🏠 My Home.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Spaced Repetition",
-        "link": "🗺 Studying MOC",
-        "relativePath": "Notes/Spaced Repetition.md"
-      },
-      {
-        "fileName": "Spaced Repetition",
-        "link": "🗺 Studying MOC",
-        "relativePath": "Notes/Spaced Repetition.md"
-      },
-      {
-        "fileName": "Active Recall",
-        "link": "🗺 Studying MOC",
-        "relativePath": "Notes/Active Recall.md"
-      }
-    ]
-  },
-  {
-    "fileName": "🗺 Biology MOC",
-    "relativePath": "My Atlas/MOCs/🗺 Biology MOC.md",
-    "tags": [
-      "🗺️"
-    ],
-    "frontmatter": {
-      "Created": "2023-02-12 13:50"
-    },
-    "headings": [
-      {
-        "heading": "Related MOCs",
-        "level": 2
-      },
-      {
-        "heading": "Related Concepts",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "🏠 My Home",
-        "relativePath": "🏠 My Home.md"
-      },
-      {
-        "link": "🗺 Psychology MOC",
-        "relativePath": "My Atlas/MOCs/🗺 Psychology MOC.md"
-      }
-    ]
-  },
-  {
-    "fileName": "🗺 Psychology MOC",
-    "relativePath": "My Atlas/MOCs/🗺 Psychology MOC.md",
-    "tags": [
-      "🗺️"
-    ],
-    "frontmatter": {
-      "Created": "2023-02-12 13:50"
-    },
-    "headings": [
-      {
-        "heading": "Related MOCs",
-        "level": 2
-      },
-      {
-        "heading": "Related Concepts",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "🏠 My Home",
-        "relativePath": "🏠 My Home.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "🗺 Biology MOC",
-        "link": "🗺 Psychology MOC",
-        "relativePath": "My Atlas/MOCs/🗺 Biology MOC.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Atlas",
-    "relativePath": "My Atlas/Atlas.md",
-    "tags": [
-      "🔍"
-    ],
-    "frontmatter": {
-      "Created": "2023-01-17 23:34"
-    },
-    "aliases": [
-      "🌎 My Atlas",
-      "My Maps of Content (MOCs)"
-    ],
-    "headings": [
-      {
-        "heading": "All MOCs",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "🏠 My Home",
-        "relativePath": "🏠 My Home.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "🏠 My Home",
-        "link": "Atlas",
-        "relativePath": "🏠 My Home.md",
-        "displayText": "🌎 My Atlas"
-      },
-      {
-        "fileName": "MOC Template",
-        "link": "Atlas",
-        "relativePath": "Extras/Templates/Notes/MOC Template.md",
-        "displayText": "🌎 My Atlas"
-      },
-      {
-        "fileName": "🗺 Obsidian MOC",
-        "link": "Atlas",
-        "relativePath": "Atlas/MOCs/🗺 Obsidian MOC.md",
-        "displayText": "🌎 My Atlas"
-      }
-    ]
-  },
-  {
     "fileName": "Lecture Template",
     "relativePath": "Extras/Templates/School/Lecture Template.md",
     "tags": [
@@ -17418,67 +16308,6 @@
         "fileName": "Note Explanations",
         "link": "Assignment Template",
         "relativePath": "Notes/Note Explanations.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Unit Template",
-    "relativePath": "Extras/Templates/School/Unit Template.md",
-    "tags": [
-      "unit"
-    ],
-    "frontmatter": {
-      "Links": "[[My Units]]",
-      "Status": null,
-      "Created": "<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>"
-    },
-    "headings": [
-      {
-        "heading": "Concepts",
-        "level": 2
-      },
-      {
-        "heading": "Retrospective Timetable",
-        "level": 3
-      },
-      {
-        "heading": "Unordered",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "My Units",
-        "relativePath": "Spaces/My School/My Units/My Units.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Retrospective Timetables",
-        "link": "Unit Template",
-        "relativePath": "Notes/Retrospective Timetables.md"
-      },
-      {
-        "fileName": "Responses to Lesson Action Items",
-        "link": "Unit Template",
-        "relativePath": "Notes/Responses to Lesson Action Items.md"
-      },
-      {
-        "fileName": "Note Explanations",
-        "link": "Unit Template",
-        "relativePath": "Notes/Note Explanations.md"
-      },
-      {
-        "fileName": "Note Explanations",
-        "link": "Unit Template#Concepts",
-        "relativePath": "Notes/Note Explanations.md",
-        "cleanLink": "Unit Template",
-        "displayText": "Unit Template > Concepts"
-      },
-      {
-        "fileName": "Metadata",
-        "link": "Unit Template",
-        "relativePath": "Notes/Metadata.md"
       }
     ]
   },
@@ -17659,11 +16488,6 @@
         "displayText": "Daily Note Template > Tasks"
       },
       {
-        "fileName": "Note Development Kanban",
-        "link": "Daily Note Template",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
-      {
         "fileName": "Note Explanations",
         "link": "Daily Note Template",
         "relativePath": "Notes/Note Explanations.md"
@@ -17748,11 +16572,6 @@
         "relativePath": "Notes/Responses to Lesson Action Items.md"
       },
       {
-        "fileName": "Note Development Kanban",
-        "link": "Weekly Review Template",
-        "relativePath": "Notes/Note Development Kanban.md"
-      },
-      {
         "fileName": "Note Explanations",
         "link": "Weekly Review Template",
         "relativePath": "Notes/Note Explanations.md"
@@ -17783,8 +16602,7 @@
     "links": [
       {
         "link": "Atlas",
-        "displayText": "🌎 My Atlas",
-        "relativePath": "My Atlas/Atlas.md"
+        "displayText": "🌎 My Atlas"
       }
     ],
     "backlinks": [
@@ -17878,11 +16696,6 @@
         "fileName": "Responses to Lesson Action Items",
         "link": "Concept Note Template",
         "relativePath": "Notes/Responses to Lesson Action Items.md"
-      },
-      {
-        "fileName": "Note Explanations",
-        "link": "Concept Note Template",
-        "relativePath": "Notes/Note Explanations.md"
       }
     ]
   },
@@ -18002,8 +16815,7 @@
     "links": [
       {
         "link": "Atlas",
-        "displayText": "🌎 My Atlas",
-        "relativePath": "My Atlas/Atlas.md"
+        "displayText": "🌎 My Atlas"
       }
     ],
     "backlinks": [
@@ -18058,7 +16870,8 @@
         "link": "Silverchair --"
       },
       {
-        "link": "Money —"
+        "link": "Money —",
+        "relativePath": "Spaces/My School/My Concepts/Money —.md"
       },
       {
         "link": "Hey Sasquatch!"
@@ -18067,7 +16880,8 @@
         "link": "Before Sunset (A Spanish Lullaby)"
       },
       {
-        "link": "What Went Wrong"
+        "link": "What Went Wrong",
+        "relativePath": "Spaces/My School/My Concepts/What Went Wrong.md"
       }
     ]
   }

@@ -1,11 +1,12 @@
 ---
-Links: '[[My Courses]]'
-Tags: '#course'
-Professor: 'José Luis Centeno'
+Links: "[[My Courses]]"
+Tags: "#course"
+Professor: José Luis Centeno
 Semester: 1
 Year: 2
-Summary: 'Composición'
+Summary: Composición
 Created: 2023-10-16 11:42
+modified: 2024-06-04T19:27:40+02:00
 ---
 \_Tags::  #course
 \_Links::  [[My Courses]]
@@ -33,10 +34,3 @@ where contains(Course, [[]])
 SORT Created desc
 ```
 
-## Assignments 
-```dataview
-table Deadline, Status
-FROM #assignment and !"Extras"
-where contains(Course, [[]])
-SORT Deadline asc
-```

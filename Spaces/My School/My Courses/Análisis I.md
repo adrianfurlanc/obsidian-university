@@ -5,7 +5,7 @@ Semester: 1
 Year: 2
 Summary: Análisis
 Created: 2023-10-04 19:59
-modified: 2024-02-13T15:21:26+01:00
+modified: 2024-06-04T19:25:52+02:00
 ---
 \_Tags::  #course
 \_Links::  [[My Courses]]
@@ -33,10 +33,3 @@ where contains(Course, [[]])
 SORT Created desc
 ```
 
-## Assignments 
-```dataview
-table Deadline, Status
-FROM #assignment and !"Extras"
-where contains(Course, [[]])
-SORT Deadline asc
-```
