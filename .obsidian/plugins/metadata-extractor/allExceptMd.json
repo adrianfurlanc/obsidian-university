@@ -9,10 +9,6 @@
       "relativePath": "Atlas"
     },
     {
-      "name": "Beethoven - Sonata Op.27",
-      "relativePath": "Beethoven - Sonata Op.27"
-    },
-    {
       "name": "Context",
       "relativePath": "Context"
     },
@@ -118,11 +114,6 @@
     }
   ],
   "nonMdFiles": [
-    {
-      "name": "Note-Making Station.canvas",
-      "basename": "Note-Making Station",
-      "relativePath": "Note-Making Station.canvas"
-    },
     {
       "name": "spacesLastSync.log",
       "basename": "spacesLastSync",
@@ -1852,6 +1843,11 @@
       "name": "context.mdb",
       "basename": "context",
       "relativePath": "Spaces/My School/My Assignments/context.mdb"
+    },
+    {
+      "name": "sync",
+      "basename": "sync",
+      "relativePath": "sync"
     }
   ]
 }

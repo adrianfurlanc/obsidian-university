@@ -1,7 +1,8 @@
 ---
-Links: '[[Module - How To Easily Personalize Obsidian For School]]'
+Links: "[[Module - How To Easily Personalize Obsidian For School]]"
 Status: 
 Created: 2023-02-21 00:48
+modified: 2024-06-04T19:20:04+02:00
 ---
 \_Status::  
 Tags:: 
@@ -65,14 +66,11 @@ See [[Periodic reviews]] for more information
 	- `#i/textbook`
 ## [[Course Template]]
 - Can be viewed in [[My Courses]]
-## [[Unit Template]]
-- Can be viewed in [[My Units]]
 ### Retrospective Timetable
 See [[Retrospective Timetables]]
 ### Unordered
 - Lists all concept notes related to the unit
-## [[Concept Note Template]]
-- Can be viewed in [[My Concepts]] and in each unit via [[Unit Template#Concepts]]
+
 ## [[MOC Template]]
 - To prevent duplicate links (manual and automatic via [[Dataview Plugin]]), if you make a link to another note that is already being shown in one of the queries, it will be removed from the query
 

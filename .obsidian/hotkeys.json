@@ -336,26 +336,6 @@
       "key": "M"
     }
   ],
-  "obsidian-collapse-all-plugin:expand-file-explorer": [
-    {
-      "modifiers": [
-        "Alt",
-        "Ctrl",
-        "Mod"
-      ],
-      "key": "W"
-    }
-  ],
-  "obsidian-collapse-all-plugin:collapse-file-explorer": [
-    {
-      "modifiers": [
-        "Alt",
-        "Ctrl",
-        "Mod"
-      ],
-      "key": "O"
-    }
-  ],
   "obsidian-outliner:fold": [
     {
       "modifiers": [
@@ -398,6 +378,26 @@
     {
       "modifiers": [
         "Alt",
+        "Mod"
+      ],
+      "key": "O"
+    }
+  ],
+  "obsidian-collapse-all-plugin:toggle-file-explorer": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "W"
+    }
+  ],
+  "obsidian-collapse-all-plugin:collapse-file-explorer": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
         "Mod"
       ],
       "key": "O"

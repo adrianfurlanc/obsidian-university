@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "62b83b75604f03a7",
+        "id": "407d735f19307e4f",
         "type": "tabs",
         "children": [
           {
-            "id": "bd81ed1d254760e2",
+            "id": "e2fcef9a862aa8d2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🎓 Obsidian University MOC.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -57,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "examen",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🎓 Obsidian University MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🎓 Obsidian University MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "🎓 Obsidian University MOC.md"
+              }
             }
           },
           {
@@ -177,7 +185,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🎓 Obsidian University MOC.md"
+              }
             }
           },
           {
@@ -186,6 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "🎓 Obsidian University MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -223,7 +234,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "janitor:Janitor: scan vault": false,
-      "obsidian42-brat:BRAT": false,
       "templates:Insert template": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -231,47 +241,49 @@
       "command-palette:Open command palette": false,
       "daily-notes:Open today's daily note": false,
       "workspaces:Manage workspace layouts": false,
-      "open-vscode:VSCode": false,
       "smart-random-note:Open Random Note from Search": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
-      "omnisearch:Omnisearch": false,
+      "media-extended:Open media": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "open-vscode:VSCode": false,
+      "obsidian42-brat:BRAT": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "media-extended:Open media": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "bd81ed1d254760e2",
+  "active": "e2fcef9a862aa8d2",
   "lastOpenFiles": [
-    "Notes/Beethoven  Sonata Op. 27, quasi una fantasia, II.md",
+    "Spaces/My School/My School.md",
+    "Notes/Note Explanations.md",
+    "Notes/Concept notes.md",
+    "Notes/Module - How To Easily Personalize Obsidian For School.md",
+    "Notes/Psychology concept.md",
+    "Spaces/My School/My Concepts/Psychology concept.md",
+    "Atlas/MOCs/🗺 test.md",
+    "Notes/Note Development Kanban.md",
+    "Extras/Templates/School/Unit Template.md",
+    "Notes/Responses to Lesson Action Items.md",
+    "🏠 My Home.md",
+    "Spaces/My School/My Assignments/My Assignments.md",
+    "Spaces/My School/My Essays/My Essays.md",
+    "Spaces/My School/My Units/My Units.md",
+    "Atlas/MOCs/EP MOC.md",
+    "Atlas/MOCs/🗺 Obsidian MOC.md",
+    "Spaces/My School/My Concepts/Money —.md",
+    "Spaces/My School/My Concepts/What Went Wrong.md",
+    "Spaces/My School/My Units/Esquema Tema 3 - HM.md",
+    "🎓 Obsidian University MOC.md",
+    "Spaces/My School/My Concepts/Actividad 3 HM II.md",
+    "Spaces/My School/My Concepts/Beethoven  Sonata Op. 27, quasi una fantasia, II.md",
+    "Spaces/My School/My Concepts/Beethoven -  Sonatina en Fa mayor Ahn 5, II.md",
     "Spaces/My School/My Inputs/Música y tecnología.md",
     "sync",
-    "Spaces/My School/My Units/Esquema Tema 3 - HM.md",
     "Extras/Images/2024-4-3_12.43.12.png",
     "Spaces/My School/My Courses/Historia de la Música siglo XX y XXI.md",
     "Spaces/My School/My Lectures/Música y tecnología - L.md",
-    "Spaces/My School/My Units/Esquema Tema 2 - HM.md",
-    "Spaces/My School/My Lectures/Influencias populares y extraoccidentales - L.md",
-    "Spaces/My School/My Lectures/El lied y la ópera romántica hasta la primera mitad del siglo XIX - L.md",
-    "Spaces/My School/My Concepts/Examen Contrapunto.md",
-    "Spaces/My School/My Inputs/Modelo Examen Historia de la Música.md",
-    "Spaces/My School/My Lectures/La música entre las dos guerras mundiales - L.md",
-    "Spaces/My School/My Lectures/La música a finales del siglo XIX y los inicios del siglo XX -L.md",
-    "Spaces/My School/My Concepts/Weekly Questions for Time Tracking.md",
-    "🎓 Obsidian University MOC.md",
-    "Spaces/My School/My Courses/Análisis II.md",
-    "Spaces/My School/My Lectures/El análisis de la música a partir de 1850 - Brahms y Wagner - L.md",
-    "Spaces/My School/My Lectures/El análisis de la música de Fin de siècle I - L.md",
-    "Spaces/My School/My Inputs/Silencio, sonido y ruido.md",
     "Extras/Images/2024-4-3_17.14.37.png",
-    "Spaces/My School/My Inputs/ El análisis de la música del Nacionalismo.md",
-    "Spaces/My School/My Inputs/El análisis de la música del preclasicismo.md",
-    "Spaces/My School/My Inputs/Modelo Examen Gestión de Empresas.md",
-    "Spaces/My School/My Courses/Acústica Musical y Organología.md",
-    "Spaces/My School/My Lectures/Silencio, sonido y ruido - L.md",
-    "Spaces/My School/My Inputs/El análisis de la música romántica.md",
-    "Spaces/My School/My Lectures/La música instrumental del primer Romanticismo - L.md",
-    "Spaces/My School/My Lectures/El análisis de la música romántica - L.md",
     "Extras/Images/2024-4-3_16.13.24.png",
     "Extras/Images/2024-4-2_16.18.56.png",
     "Extras/Images/2024-4-2_16.15.24.png",

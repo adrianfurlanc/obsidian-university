@@ -33,7 +33,7 @@ __export(main_exports, {
   default: () => TabSwitcher
 });
 module.exports = __toCommonJS(main_exports);
-var import_obsidian2 = require("obsidian");
+var import_obsidian3 = require("obsidian");
 
 // node_modules/svelte/src/runtime/internal/utils.js
 function noop() {
@@ -148,6 +148,9 @@ function text(data) {
 function space() {
   return text(" ");
 }
+function empty() {
+  return text("");
+}
 function listen(node, event, handler, options) {
   node.addEventListener(event, handler, options);
   return () => node.removeEventListener(event, handler, options);
@@ -160,13 +163,6 @@ function attr(node, attribute, value) {
 }
 function children(element2) {
   return Array.from(element2.childNodes);
-}
-function set_data(text2, data) {
-  data = "" + data;
-  if (text2.data === data)
-    return;
-  text2.data = /** @type {string} */
-  data;
 }
 function set_input_value(input, value) {
   input.value = value == null ? "" : value;
@@ -181,6 +177,89 @@ function set_style(node, key, value, important) {
 function custom_event(type, detail, { bubbles = false, cancelable = false } = {}) {
   return new CustomEvent(type, { detail, bubbles, cancelable });
 }
+var HtmlTag = class {
+  constructor(is_svg = false) {
+    /**
+     * @private
+     * @default false
+     */
+    __publicField(this, "is_svg", false);
+    /** parent for creating node */
+    __publicField(this, "e");
+    /** html tag nodes */
+    __publicField(this, "n");
+    /** target */
+    __publicField(this, "t");
+    /** anchor */
+    __publicField(this, "a");
+    this.is_svg = is_svg;
+    this.e = this.n = null;
+  }
+  /**
+   * @param {string} html
+   * @returns {void}
+   */
+  c(html) {
+    this.h(html);
+  }
+  /**
+   * @param {string} html
+   * @param {HTMLElement | SVGElement} target
+   * @param {HTMLElement | SVGElement} anchor
+   * @returns {void}
+   */
+  m(html, target, anchor = null) {
+    if (!this.e) {
+      if (this.is_svg)
+        this.e = svg_element(
+          /** @type {keyof SVGElementTagNameMap} */
+          target.nodeName
+        );
+      else
+        this.e = element(
+          /** @type {keyof HTMLElementTagNameMap} */
+          target.nodeType === 11 ? "TEMPLATE" : target.nodeName
+        );
+      this.t = target.tagName !== "TEMPLATE" ? target : (
+        /** @type {HTMLTemplateElement} */
+        target.content
+      );
+      this.c(html);
+    }
+    this.i(anchor);
+  }
+  /**
+   * @param {string} html
+   * @returns {void}
+   */
+  h(html) {
+    this.e.innerHTML = html;
+    this.n = Array.from(
+      this.e.nodeName === "TEMPLATE" ? this.e.content.childNodes : this.e.childNodes
+    );
+  }
+  /**
+   * @returns {void} */
+  i(anchor) {
+    for (let i = 0; i < this.n.length; i += 1) {
+      insert(this.t, this.n[i], anchor);
+    }
+  }
+  /**
+   * @param {string} html
+   * @returns {void}
+   */
+  p(html) {
+    this.d();
+    this.h(html);
+    this.i(this.a);
+  }
+  /**
+   * @returns {void} */
+  d() {
+    this.n.forEach(detach);
+  }
+};
 function get_custom_elements_slots(element2) {
   const result = {};
   element2.childNodes.forEach(
@@ -2040,245 +2119,635 @@ Fuse.config = Config;
 var import_obsidian = require("obsidian");
 function get_each_context(ctx, list, i) {
   const child_ctx = ctx.slice();
-  child_ctx[23] = list[i].leaf;
-  child_ctx[24] = list[i].titleOrName;
-  child_ctx[25] = list[i].details;
-  child_ctx[27] = i;
+  child_ctx[27] = list[i].leaf;
+  child_ctx[28] = list[i].titleOrName;
+  child_ctx[29] = list[i].aliases;
+  child_ctx[30] = list[i].details;
+  child_ctx[31] = list[i].tags;
+  child_ctx[32] = list[i].extention;
+  child_ctx[33] = list[i].matches;
+  child_ctx[35] = i;
   return child_ctx;
 }
 function create_else_block(ctx) {
-  let svg;
-  let path;
-  return {
-    c() {
-      svg = svg_element("svg");
-      path = svg_element("path");
-      attr(path, "d", "m6 14 1.5-2.9A2 2 0 0 1 9.24 10H20a2 2 0 0 1 1.94 2.5l-1.54 6a2 2 0 0 1-1.95 1.5H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h3.9a2 2 0 0 1 1.69.9l.81 1.2a2 2 0 0 0 1.67.9H18a2 2 0 0 1 2 2v2");
-      attr(svg, "xmlns", "http://www.w3.org/2000/svg");
-      attr(svg, "width", "24");
-      attr(svg, "height", "24");
-      attr(svg, "viewBox", "0 0 24 24");
-      attr(svg, "fill", "none");
-      attr(svg, "stroke", "currentColor");
-      attr(svg, "stroke-width", "2");
-      attr(svg, "stroke-linecap", "round");
-      attr(svg, "stroke-linejoin", "round");
-      attr(svg, "class", "svg-icon lucide-folder-open");
-    },
-    m(target, anchor) {
-      insert(target, svg, anchor);
-      append(svg, path);
-    },
-    d(detaching) {
-      if (detaching) {
-        detach(svg);
-      }
-    }
-  };
-}
-function create_if_block(ctx) {
-  let svg;
-  let path;
-  let polyline0;
-  let line0;
-  let line1;
-  let polyline1;
-  return {
-    c() {
-      svg = svg_element("svg");
-      path = svg_element("path");
-      polyline0 = svg_element("polyline");
-      line0 = svg_element("line");
-      line1 = svg_element("line");
-      polyline1 = svg_element("polyline");
-      attr(path, "d", "M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z");
-      attr(polyline0, "points", "14 2 14 8 20 8");
-      attr(line0, "x1", "16");
-      attr(line0, "y1", "13");
-      attr(line0, "x2", "8");
-      attr(line0, "y2", "13");
-      attr(line1, "x1", "16");
-      attr(line1, "y1", "17");
-      attr(line1, "x2", "8");
-      attr(line1, "y2", "17");
-      attr(polyline1, "points", "10 9 9 9 8 9");
-      attr(svg, "xmlns", "http://www.w3.org/2000/svg");
-      attr(svg, "width", "24");
-      attr(svg, "height", "24");
-      attr(svg, "viewBox", "0 0 24 24");
-      attr(svg, "fill", "none");
-      attr(svg, "stroke", "currentColor");
-      attr(svg, "stroke-width", "2");
-      attr(svg, "stroke-linecap", "round");
-      attr(svg, "stroke-linejoin", "round");
-      attr(svg, "class", "svg-icon lucide-file-text");
-    },
-    m(target, anchor) {
-      insert(target, svg, anchor);
-      append(svg, path);
-      append(svg, polyline0);
-      append(svg, line0);
-      append(svg, line1);
-      append(svg, polyline1);
-    },
-    d(detaching) {
-      if (detaching) {
-        detach(svg);
-      }
-    }
-  };
-}
-function create_each_block(ctx) {
-  let div4;
+  var _a, _b, _c, _d;
   let div2;
+  let div1;
   let div0;
   let span0;
-  let t0_value = (
-    /*titleOrName*/
-    ctx[24] + ""
-  );
+  let raw0_value = ((_b = (_a = (0, import_obsidian.getIcon)(
+    /*leaf*/
+    ctx[27].getIcon()
+  )) == null ? void 0 : _a.outerHTML) != null ? _b : "") + "";
   let t0;
-  let t1;
-  let div1;
   let span1;
+  let raw1_value = highlightMatches(
+    "titleOrName",
+    /*titleOrName*/
+    ctx[28],
+    /*matches*/
+    ctx[33]
+  ) + "";
+  let t1;
   let t2;
-  let span2;
-  let t3_value = (
-    /*details*/
-    ctx[25] + ""
-  );
   let t3;
-  let t4;
-  let div3;
-  let t5;
-  let div4_class_value;
+  let div2_class_value;
   let mounted;
   let dispose;
-  function select_block_type(ctx2, dirty) {
-    if (
-      /*leaf*/
-      ctx2[23].view instanceof import_obsidian.FileView
-    )
-      return create_if_block;
-    return create_else_block;
-  }
-  let current_block_type = select_block_type(ctx, -1);
-  let if_block = current_block_type(ctx);
-  function mouseenter_handler() {
+  let if_block0 = (
+    /*settings*/
+    ((_c = ctx[0]) == null ? void 0 : _c.enableAliasSearch) && /*aliases*/
+    ctx[29].length > 0 && create_if_block_4(ctx)
+  );
+  let if_block1 = (
+    /*settings*/
+    ((_d = ctx[0]) == null ? void 0 : _d.enableTagSearch) && /*tags*/
+    ctx[31].length > 0 && create_if_block_3(ctx)
+  );
+  function mouseenter_handler_1() {
     return (
-      /*mouseenter_handler*/
-      ctx[12](
+      /*mouseenter_handler_1*/
+      ctx[16](
         /*index*/
-        ctx[27]
+        ctx[35]
       )
     );
   }
-  function click_handler() {
+  function click_handler_1() {
     return (
-      /*click_handler*/
-      ctx[13](
+      /*click_handler_1*/
+      ctx[17](
         /*index*/
-        ctx[27]
+        ctx[35]
       )
     );
   }
-  function keydown_handler(...args) {
+  function keydown_handler_1(...args) {
     return (
-      /*keydown_handler*/
-      ctx[14](
+      /*keydown_handler_1*/
+      ctx[18](
         /*index*/
-        ctx[27],
+        ctx[35],
         ...args
       )
     );
   }
   return {
     c() {
-      div4 = element("div");
       div2 = element("div");
+      div1 = element("div");
       div0 = element("div");
       span0 = element("span");
-      t0 = text(t0_value);
-      t1 = space();
-      div1 = element("div");
+      t0 = space();
       span1 = element("span");
-      if_block.c();
+      t1 = space();
+      if (if_block0)
+        if_block0.c();
       t2 = space();
-      span2 = element("span");
-      t3 = text(t3_value);
-      t4 = space();
-      div3 = element("div");
-      div3.innerHTML = ``;
-      t5 = space();
+      if (if_block1)
+        if_block1.c();
+      t3 = space();
+      attr(span0, "class", "qsp-path-indicator");
       attr(div0, "class", "suggestion-title");
-      attr(span1, "class", "qsp-path-indicator");
-      attr(span2, "class", "qsp-path");
-      attr(div1, "class", "suggestion-note qsp-note");
-      attr(div2, "class", "suggestion-content");
-      attr(div3, "class", "suggestion-aux qsp-aux");
-      attr(div4, "class", div4_class_value = "suggestion-item mod-complex " + /*index*/
-      (ctx[27] === /*selectedIndex*/
-      ctx[3] ? "is-selected" : ""));
-      attr(div4, "tabindex", "0");
-      attr(div4, "role", "button");
+      attr(div1, "class", "suggestion-content");
+      attr(div2, "class", div2_class_value = "suggestion-item mod-complex " + /*index*/
+      (ctx[35] === /*selectedIndex*/
+      ctx[4] ? "is-selected" : ""));
+      attr(div2, "tabindex", "0");
+      attr(div2, "role", "button");
     },
     m(target, anchor) {
-      insert(target, div4, anchor);
-      append(div4, div2);
-      append(div2, div0);
-      append(div0, span0);
-      append(span0, t0);
-      append(div2, t1);
+      insert(target, div2, anchor);
       append(div2, div1);
-      append(div1, span1);
-      if_block.m(span1, null);
-      append(div1, t2);
-      append(div1, span2);
-      append(span2, t3);
-      append(div4, t4);
-      append(div4, div3);
-      append(div4, t5);
+      append(div1, div0);
+      append(div0, span0);
+      span0.innerHTML = raw0_value;
+      append(div0, t0);
+      append(div0, span1);
+      span1.innerHTML = raw1_value;
+      append(div0, t1);
+      if (if_block0)
+        if_block0.m(div0, null);
+      append(div0, t2);
+      if (if_block1)
+        if_block1.m(div0, null);
+      append(div2, t3);
       if (!mounted) {
         dispose = [
-          listen(div4, "mouseenter", mouseenter_handler),
-          listen(div4, "click", click_handler),
-          listen(div4, "keydown", keydown_handler)
+          listen(div2, "mouseenter", mouseenter_handler_1),
+          listen(div2, "click", click_handler_1),
+          listen(div2, "keydown", keydown_handler_1)
         ];
         mounted = true;
       }
     },
     p(new_ctx, dirty) {
+      var _a2, _b2, _c2, _d2;
       ctx = new_ctx;
-      if (dirty & /*searchResults*/
-      4 && t0_value !== (t0_value = /*titleOrName*/
-      ctx[24] + ""))
-        set_data(t0, t0_value);
-      if (current_block_type !== (current_block_type = select_block_type(ctx, dirty))) {
-        if_block.d(1);
-        if_block = current_block_type(ctx);
-        if (if_block) {
-          if_block.c();
-          if_block.m(span1, null);
+      if (dirty[0] & /*searchResults*/
+      8 && raw0_value !== (raw0_value = ((_b2 = (_a2 = (0, import_obsidian.getIcon)(
+        /*leaf*/
+        ctx[27].getIcon()
+      )) == null ? void 0 : _a2.outerHTML) != null ? _b2 : "") + ""))
+        span0.innerHTML = raw0_value;
+      ;
+      if (dirty[0] & /*searchResults*/
+      8 && raw1_value !== (raw1_value = highlightMatches(
+        "titleOrName",
+        /*titleOrName*/
+        ctx[28],
+        /*matches*/
+        ctx[33]
+      ) + ""))
+        span1.innerHTML = raw1_value;
+      ;
+      if (
+        /*settings*/
+        ((_c2 = ctx[0]) == null ? void 0 : _c2.enableAliasSearch) && /*aliases*/
+        ctx[29].length > 0
+      ) {
+        if (if_block0) {
+          if_block0.p(ctx, dirty);
+        } else {
+          if_block0 = create_if_block_4(ctx);
+          if_block0.c();
+          if_block0.m(div0, t2);
         }
+      } else if (if_block0) {
+        if_block0.d(1);
+        if_block0 = null;
       }
-      if (dirty & /*searchResults*/
-      4 && t3_value !== (t3_value = /*details*/
-      ctx[25] + ""))
-        set_data(t3, t3_value);
-      if (dirty & /*selectedIndex*/
-      8 && div4_class_value !== (div4_class_value = "suggestion-item mod-complex " + /*index*/
-      (ctx[27] === /*selectedIndex*/
-      ctx[3] ? "is-selected" : ""))) {
-        attr(div4, "class", div4_class_value);
+      if (
+        /*settings*/
+        ((_d2 = ctx[0]) == null ? void 0 : _d2.enableTagSearch) && /*tags*/
+        ctx[31].length > 0
+      ) {
+        if (if_block1) {
+          if_block1.p(ctx, dirty);
+        } else {
+          if_block1 = create_if_block_3(ctx);
+          if_block1.c();
+          if_block1.m(div0, null);
+        }
+      } else if (if_block1) {
+        if_block1.d(1);
+        if_block1 = null;
+      }
+      if (dirty[0] & /*selectedIndex*/
+      16 && div2_class_value !== (div2_class_value = "suggestion-item mod-complex " + /*index*/
+      (ctx[35] === /*selectedIndex*/
+      ctx[4] ? "is-selected" : ""))) {
+        attr(div2, "class", div2_class_value);
       }
     },
     d(detaching) {
       if (detaching) {
-        detach(div4);
+        detach(div2);
       }
-      if_block.d();
+      if (if_block0)
+        if_block0.d();
+      if (if_block1)
+        if_block1.d();
       mounted = false;
       run_all(dispose);
+    }
+  };
+}
+function create_if_block(ctx) {
+  var _a, _b, _c, _d;
+  let div3;
+  let div2;
+  let div0;
+  let span0;
+  let raw0_value = highlightMatches(
+    "titleOrName",
+    /*titleOrName*/
+    ctx[28],
+    /*matches*/
+    ctx[33]
+  ) + "";
+  let t0;
+  let t1;
+  let t2;
+  let div1;
+  let span1;
+  let raw1_value = ((_b = (_a = (0, import_obsidian.getIcon)(
+    /*leaf*/
+    ctx[27].getIcon()
+  )) == null ? void 0 : _a.outerHTML) != null ? _b : "") + "";
+  let t3;
+  let span2;
+  let raw2_value = highlightMatches(
+    "details",
+    /*details*/
+    ctx[30],
+    /*matches*/
+    ctx[33]
+  ) + "";
+  let t4;
+  let div3_class_value;
+  let mounted;
+  let dispose;
+  let if_block0 = (
+    /*settings*/
+    ((_c = ctx[0]) == null ? void 0 : _c.enableAliasSearch) && /*aliases*/
+    ctx[29].length > 0 && create_if_block_2(ctx)
+  );
+  let if_block1 = (
+    /*settings*/
+    ((_d = ctx[0]) == null ? void 0 : _d.enableTagSearch) && create_if_block_1(ctx)
+  );
+  function mouseenter_handler() {
+    return (
+      /*mouseenter_handler*/
+      ctx[13](
+        /*index*/
+        ctx[35]
+      )
+    );
+  }
+  function click_handler() {
+    return (
+      /*click_handler*/
+      ctx[14](
+        /*index*/
+        ctx[35]
+      )
+    );
+  }
+  function keydown_handler(...args) {
+    return (
+      /*keydown_handler*/
+      ctx[15](
+        /*index*/
+        ctx[35],
+        ...args
+      )
+    );
+  }
+  return {
+    c() {
+      div3 = element("div");
+      div2 = element("div");
+      div0 = element("div");
+      span0 = element("span");
+      t0 = space();
+      if (if_block0)
+        if_block0.c();
+      t1 = space();
+      if (if_block1)
+        if_block1.c();
+      t2 = space();
+      div1 = element("div");
+      span1 = element("span");
+      t3 = space();
+      span2 = element("span");
+      t4 = space();
+      attr(div0, "class", "suggestion-title");
+      attr(span1, "class", "qsp-path-indicator");
+      attr(span2, "class", "qsp-path");
+      attr(div1, "class", "suggestion-note qsp-note");
+      attr(div2, "class", "suggestion-content");
+      attr(div3, "class", div3_class_value = "suggestion-item mod-complex " + /*index*/
+      (ctx[35] === /*selectedIndex*/
+      ctx[4] ? "is-selected" : ""));
+      attr(div3, "tabindex", "0");
+      attr(div3, "role", "button");
+    },
+    m(target, anchor) {
+      insert(target, div3, anchor);
+      append(div3, div2);
+      append(div2, div0);
+      append(div0, span0);
+      span0.innerHTML = raw0_value;
+      append(div0, t0);
+      if (if_block0)
+        if_block0.m(div0, null);
+      append(div0, t1);
+      if (if_block1)
+        if_block1.m(div0, null);
+      append(div2, t2);
+      append(div2, div1);
+      append(div1, span1);
+      span1.innerHTML = raw1_value;
+      append(div1, t3);
+      append(div1, span2);
+      span2.innerHTML = raw2_value;
+      append(div3, t4);
+      if (!mounted) {
+        dispose = [
+          listen(div3, "mouseenter", mouseenter_handler),
+          listen(div3, "click", click_handler),
+          listen(div3, "keydown", keydown_handler)
+        ];
+        mounted = true;
+      }
+    },
+    p(new_ctx, dirty) {
+      var _a2, _b2, _c2, _d2;
+      ctx = new_ctx;
+      if (dirty[0] & /*searchResults*/
+      8 && raw0_value !== (raw0_value = highlightMatches(
+        "titleOrName",
+        /*titleOrName*/
+        ctx[28],
+        /*matches*/
+        ctx[33]
+      ) + ""))
+        span0.innerHTML = raw0_value;
+      ;
+      if (
+        /*settings*/
+        ((_a2 = ctx[0]) == null ? void 0 : _a2.enableAliasSearch) && /*aliases*/
+        ctx[29].length > 0
+      ) {
+        if (if_block0) {
+          if_block0.p(ctx, dirty);
+        } else {
+          if_block0 = create_if_block_2(ctx);
+          if_block0.c();
+          if_block0.m(div0, t1);
+        }
+      } else if (if_block0) {
+        if_block0.d(1);
+        if_block0 = null;
+      }
+      if (
+        /*settings*/
+        (_b2 = ctx[0]) == null ? void 0 : _b2.enableTagSearch
+      ) {
+        if (if_block1) {
+          if_block1.p(ctx, dirty);
+        } else {
+          if_block1 = create_if_block_1(ctx);
+          if_block1.c();
+          if_block1.m(div0, null);
+        }
+      } else if (if_block1) {
+        if_block1.d(1);
+        if_block1 = null;
+      }
+      if (dirty[0] & /*searchResults*/
+      8 && raw1_value !== (raw1_value = ((_d2 = (_c2 = (0, import_obsidian.getIcon)(
+        /*leaf*/
+        ctx[27].getIcon()
+      )) == null ? void 0 : _c2.outerHTML) != null ? _d2 : "") + ""))
+        span1.innerHTML = raw1_value;
+      ;
+      if (dirty[0] & /*searchResults*/
+      8 && raw2_value !== (raw2_value = highlightMatches(
+        "details",
+        /*details*/
+        ctx[30],
+        /*matches*/
+        ctx[33]
+      ) + ""))
+        span2.innerHTML = raw2_value;
+      ;
+      if (dirty[0] & /*selectedIndex*/
+      16 && div3_class_value !== (div3_class_value = "suggestion-item mod-complex " + /*index*/
+      (ctx[35] === /*selectedIndex*/
+      ctx[4] ? "is-selected" : ""))) {
+        attr(div3, "class", div3_class_value);
+      }
+    },
+    d(detaching) {
+      if (detaching) {
+        detach(div3);
+      }
+      if (if_block0)
+        if_block0.d();
+      if (if_block1)
+        if_block1.d();
+      mounted = false;
+      run_all(dispose);
+    }
+  };
+}
+function create_if_block_4(ctx) {
+  let span1;
+  let t_value = " ";
+  let t;
+  let span0;
+  let raw_value = highlightMatches(
+    "aliases",
+    /*aliases*/
+    ctx[29],
+    /*matches*/
+    ctx[33]
+  ) + "";
+  return {
+    c() {
+      span1 = element("span");
+      t = text(t_value);
+      span0 = element("span");
+      attr(span0, "class", "alias");
+      attr(span1, "class", "suggestion-note qsp-note");
+    },
+    m(target, anchor) {
+      insert(target, span1, anchor);
+      append(span1, t);
+      append(span1, span0);
+      span0.innerHTML = raw_value;
+    },
+    p(ctx2, dirty) {
+      if (dirty[0] & /*searchResults*/
+      8 && raw_value !== (raw_value = highlightMatches(
+        "aliases",
+        /*aliases*/
+        ctx2[29],
+        /*matches*/
+        ctx2[33]
+      ) + ""))
+        span0.innerHTML = raw_value;
+      ;
+    },
+    d(detaching) {
+      if (detaching) {
+        detach(span1);
+      }
+    }
+  };
+}
+function create_if_block_3(ctx) {
+  let span1;
+  let t_value = " ";
+  let t;
+  let span0;
+  let raw_value = highlightMatches(
+    "tags",
+    /*tags*/
+    ctx[31],
+    /*matches*/
+    ctx[33]
+  ) + "";
+  return {
+    c() {
+      span1 = element("span");
+      t = text(t_value);
+      span0 = element("span");
+      attr(span0, "class", "tag");
+      attr(span1, "class", "suggestion-note qsp-note");
+    },
+    m(target, anchor) {
+      insert(target, span1, anchor);
+      append(span1, t);
+      append(span1, span0);
+      span0.innerHTML = raw_value;
+    },
+    p(ctx2, dirty) {
+      if (dirty[0] & /*searchResults*/
+      8 && raw_value !== (raw_value = highlightMatches(
+        "tags",
+        /*tags*/
+        ctx2[31],
+        /*matches*/
+        ctx2[33]
+      ) + ""))
+        span0.innerHTML = raw_value;
+      ;
+    },
+    d(detaching) {
+      if (detaching) {
+        detach(span1);
+      }
+    }
+  };
+}
+function create_if_block_2(ctx) {
+  let span1;
+  let t0_value = " ";
+  let t0;
+  let span0;
+  let t1;
+  let html_tag;
+  let raw_value = highlightMatches(
+    "aliases",
+    /*aliases*/
+    ctx[29],
+    /*matches*/
+    ctx[33]
+  ) + "";
+  return {
+    c() {
+      span1 = element("span");
+      t0 = text(t0_value);
+      span0 = element("span");
+      t1 = text("@");
+      html_tag = new HtmlTag(false);
+      html_tag.a = null;
+      attr(span0, "class", "alias");
+      attr(span1, "class", "suggestion-note qsp-note");
+    },
+    m(target, anchor) {
+      insert(target, span1, anchor);
+      append(span1, t0);
+      append(span1, span0);
+      append(span0, t1);
+      html_tag.m(raw_value, span0);
+    },
+    p(ctx2, dirty) {
+      if (dirty[0] & /*searchResults*/
+      8 && raw_value !== (raw_value = highlightMatches(
+        "aliases",
+        /*aliases*/
+        ctx2[29],
+        /*matches*/
+        ctx2[33]
+      ) + ""))
+        html_tag.p(raw_value);
+    },
+    d(detaching) {
+      if (detaching) {
+        detach(span1);
+      }
+    }
+  };
+}
+function create_if_block_1(ctx) {
+  let span1;
+  let t_value = " ";
+  let t;
+  let span0;
+  let raw_value = highlightMatches(
+    "tags",
+    /*tags*/
+    ctx[31],
+    /*matches*/
+    ctx[33]
+  ) + "";
+  return {
+    c() {
+      span1 = element("span");
+      t = text(t_value);
+      span0 = element("span");
+      attr(span0, "class", "tag");
+      attr(span1, "class", "suggestion-note qsp-note");
+    },
+    m(target, anchor) {
+      insert(target, span1, anchor);
+      append(span1, t);
+      append(span1, span0);
+      span0.innerHTML = raw_value;
+    },
+    p(ctx2, dirty) {
+      if (dirty[0] & /*searchResults*/
+      8 && raw_value !== (raw_value = highlightMatches(
+        "tags",
+        /*tags*/
+        ctx2[31],
+        /*matches*/
+        ctx2[33]
+      ) + ""))
+        span0.innerHTML = raw_value;
+      ;
+    },
+    d(detaching) {
+      if (detaching) {
+        detach(span1);
+      }
+    }
+  };
+}
+function create_each_block(ctx) {
+  let if_block_anchor;
+  function select_block_type(ctx2, dirty) {
+    var _a;
+    if (
+      /*settings*/
+      (_a = ctx2[0]) == null ? void 0 : _a.showFilePath
+    )
+      return create_if_block;
+    return create_else_block;
+  }
+  let current_block_type = select_block_type(ctx, [-1, -1]);
+  let if_block = current_block_type(ctx);
+  return {
+    c() {
+      if_block.c();
+      if_block_anchor = empty();
+    },
+    m(target, anchor) {
+      if_block.m(target, anchor);
+      insert(target, if_block_anchor, anchor);
+    },
+    p(ctx2, dirty) {
+      if (current_block_type === (current_block_type = select_block_type(ctx2, dirty)) && if_block) {
+        if_block.p(ctx2, dirty);
+      } else {
+        if_block.d(1);
+        if_block = current_block_type(ctx2);
+        if (if_block) {
+          if_block.c();
+          if_block.m(if_block_anchor.parentNode, if_block_anchor);
+        }
+      }
+    },
+    d(detaching) {
+      if (detaching) {
+        detach(if_block_anchor);
+      }
+      if_block.d(detaching);
     }
   };
 }
@@ -2299,7 +2768,7 @@ function create_fragment(ctx) {
   let dispose;
   let each_value = ensure_array_like(
     /*searchResults*/
-    ctx[2]
+    ctx[3]
   );
   let each_blocks = [];
   for (let i = 0; i < each_value.length; i += 1) {
@@ -2322,13 +2791,13 @@ function create_fragment(ctx) {
       }
       t3 = space();
       div9 = element("div");
-      div9.innerHTML = `<div class="prompt-instruction"><span class="prompt-instruction-command">\u2191\u2193</span><span>to navigate</span></div> <div class="prompt-instruction"><span class="prompt-instruction-command">\u21B5</span><span>to open</span></div> <div class="prompt-instruction"><span class="prompt-instruction-command">tab</span><span>to delete</span></div> <div class="prompt-instruction"><span class="prompt-instruction-command">shift + tab</span><span>to delete duplicate</span></div> <div class="prompt-instruction"><span class="prompt-instruction-command">esc</span><span>to close</span></div>`;
+      div9.innerHTML = `<div class="prompt-instruction"><span class="prompt-instruction-command">\u2191\u2193</span><span>to navigate</span></div> <div class="prompt-instruction"><span class="prompt-instruction-command">\u21B5</span><span>to open</span></div> <div class="prompt-instruction"><span class="prompt-instruction-command">\u21E5</span><span>to close</span></div> <div class="prompt-instruction"><span class="prompt-instruction-command">\u21E7 \u21E5</span><span>to close duplicate</span></div> <div class="prompt-instruction"><span class="prompt-instruction-command">esc</span><span>to exit</span></div>`;
       attr(div0, "class", "modal-bg");
       set_style(div0, "opacity", "0.85");
       attr(input, "class", "prompt-input");
       attr(input, "enterkeyhint", "done");
       attr(input, "type", "text");
-      attr(input, "placeholder", "Find or create a note...");
+      attr(input, "placeholder", "Find a note...");
       attr(div1, "class", "prompt-input-cta");
       attr(div2, "class", "prompt-input-container");
       attr(div3, "class", "prompt-results");
@@ -2344,11 +2813,11 @@ function create_fragment(ctx) {
       append(div11, div10);
       append(div10, div2);
       append(div2, input);
-      ctx[9](input);
+      ctx[10](input);
       set_input_value(
         input,
         /*searchInput*/
-        ctx[1]
+        ctx[2]
       );
       append(div2, t1);
       append(div2, div1);
@@ -2361,40 +2830,40 @@ function create_fragment(ctx) {
       }
       append(div10, t3);
       append(div10, div9);
-      ctx[15](div10);
+      ctx[19](div10);
       if (!mounted) {
         dispose = [
           listen(
             input,
             "input",
             /*input_input_handler*/
-            ctx[10]
+            ctx[11]
           ),
           listen(
             input,
             "input",
             /*input_handler*/
-            ctx[11]
+            ctx[12]
           )
         ];
         mounted = true;
       }
     },
-    p(ctx2, [dirty]) {
-      if (dirty & /*searchInput*/
-      2 && input.value !== /*searchInput*/
-      ctx2[1]) {
+    p(ctx2, dirty) {
+      if (dirty[0] & /*searchInput*/
+      4 && input.value !== /*searchInput*/
+      ctx2[2]) {
         set_input_value(
           input,
           /*searchInput*/
-          ctx2[1]
+          ctx2[2]
         );
       }
-      if (dirty & /*selectedIndex, selectItem, searchResults*/
-      76) {
+      if (dirty[0] & /*selectedIndex, selectItem, searchResults, settings*/
+      153) {
         each_value = ensure_array_like(
           /*searchResults*/
-          ctx2[2]
+          ctx2[3]
         );
         let i;
         for (i = 0; i < each_value.length; i += 1) {
@@ -2419,17 +2888,34 @@ function create_fragment(ctx) {
       if (detaching) {
         detach(div11);
       }
-      ctx[9](null);
+      ctx[10](null);
       destroy_each(each_blocks, detaching);
-      ctx[15](null);
+      ctx[19](null);
       mounted = false;
       run_all(dispose);
     }
   };
 }
+function highlightMatches(key, text2, matches) {
+  if (!matches)
+    return text2;
+  const match = matches.find((m) => m.key === key);
+  if (!match)
+    return text2;
+  console.log(match);
+  let highlightedText = text2;
+  match.indices.slice().reverse().forEach(([start, end]) => {
+    const before = highlightedText.substring(0, start);
+    const matchText = highlightedText.substring(start, end + 1);
+    const after = highlightedText.substring(end + 1);
+    highlightedText = `${before}<span class="suggestion-highlight">${matchText}</span>${after}`;
+  });
+  return highlightedText;
+}
 function instance($$self, $$props, $$invalidate) {
   let { app } = $$props;
   let { removeDuplicateTabs } = $$props;
+  let { settings } = $$props;
   const dispatch = createEventDispatcher();
   let modalContainer;
   let searchInput = "";
@@ -2460,47 +2946,93 @@ function instance($$self, $$props, $$invalidate) {
     return __awaiter(this, void 0, void 0, function* () {
       allLeaves = [];
       app.workspace.iterateRootLeaves((leaf) => {
+        var _a, _b, _c, _d;
         let titleOrName;
         let details;
+        let aliases = "";
+        let tags = "";
+        let extention = null;
         if (leaf.view instanceof import_obsidian.FileView) {
           const file = leaf.view.file;
           titleOrName = file.basename;
-          details = file.path;
+          if (settings === null || settings === void 0 ? void 0 : settings.includeFileNameInPath) {
+            details = file.path;
+          } else {
+            details = (_b = (_a = file.parent) === null || _a === void 0 ? void 0 : _a.path) !== null && _b !== void 0 ? _b : "";
+          }
+          extention = file.extension;
+          if (extention !== "md") {
+            titleOrName += "." + extention;
+          }
+          if (settings === null || settings === void 0 ? void 0 : settings.enableAliasSearch) {
+            const fileCache = app.metadataCache.getFileCache(file);
+            if ((_c = fileCache === null || fileCache === void 0 ? void 0 : fileCache.frontmatter) === null || _c === void 0 ? void 0 : _c.aliases) {
+              aliases = "@" + fileCache.frontmatter.aliases.join(" @");
+            }
+          }
+          if (settings === null || settings === void 0 ? void 0 : settings.enableTagSearch) {
+            const fileCache = app.metadataCache.getFileCache(file);
+            if ((_d = fileCache === null || fileCache === void 0 ? void 0 : fileCache.frontmatter) === null || _d === void 0 ? void 0 : _d.tags) {
+              tags = "#" + fileCache.frontmatter.tags.join(" #");
+            }
+          }
         } else {
           titleOrName = leaf.view.getViewType().replace(/_/g, " ").replace(/^\w/, (c) => c.toUpperCase());
-          details = leaf.view.getViewType();
+          details = ":" + leaf.view.getViewType();
         }
-        allLeaves.push({ leaf, titleOrName, details });
+        allLeaves.push({
+          leaf,
+          titleOrName,
+          aliases,
+          tags,
+          details,
+          extention,
+          matches: void 0
+        });
       });
-      $$invalidate(2, searchResults = allLeaves);
+      $$invalidate(3, searchResults = allLeaves);
+      const keys = ["titleOrName"];
+      if (settings === null || settings === void 0 ? void 0 : settings.showFilePath) {
+        keys.push("details");
+      }
+      if (settings === null || settings === void 0 ? void 0 : settings.enableAliasSearch) {
+        keys.push("aliases");
+      }
+      if (settings === null || settings === void 0 ? void 0 : settings.enableTagSearch) {
+        keys.push("tags");
+      }
       const options = {
         includeScore: true,
-        keys: ["titleOrName", "details"]
+        includeMatches: true,
+        keys
       };
       fuse = new Fuse(allLeaves, options);
     });
   }
   function handleInput(event) {
     const inputElement2 = event.currentTarget;
-    $$invalidate(1, searchInput = inputElement2.value);
+    $$invalidate(2, searchInput = inputElement2.value);
     filterSearchResults();
   }
   function filterSearchResults() {
     if (searchInput.trim() === "") {
-      $$invalidate(2, searchResults = allLeaves);
+      $$invalidate(3, searchResults = allLeaves);
     } else {
-      $$invalidate(2, searchResults = fuse.search(searchInput).map((result) => result.item));
+      $$invalidate(3, searchResults = fuse.search(searchInput).map((result) => {
+        console.log(result);
+        return Object.assign(Object.assign({}, result.item), { matches: result.matches });
+      }));
     }
-    $$invalidate(3, selectedIndex = 0);
+    $$invalidate(4, selectedIndex = 0);
   }
   function handleKeyDown(event) {
-    if (event.key === "ArrowDown") {
-      $$invalidate(3, selectedIndex = (selectedIndex + 1) % searchResults.length);
+    if (event.key === "ArrowDown" || event.key === "n" && event.ctrlKey) {
+      $$invalidate(4, selectedIndex = (selectedIndex + 1) % searchResults.length);
       event.preventDefault();
-    } else if (event.key === "ArrowUp") {
-      $$invalidate(3, selectedIndex = (selectedIndex - 1 + searchResults.length) % searchResults.length);
+    } else if (event.key === "ArrowUp" || event.key === "p" && event.ctrlKey) {
+      $$invalidate(4, selectedIndex = (selectedIndex - 1 + searchResults.length) % searchResults.length);
       event.preventDefault();
-    } else if (event.key === "Enter") {
+    } else if (event.key === "Enter" && !event.isComposing) {
       selectItem(selectedIndex);
     } else if (event.key === "Escape") {
       dispatch("close");
@@ -2518,7 +3050,7 @@ function instance($$self, $$props, $$invalidate) {
       if (searchResults.length == 0) {
         dispatch("close");
       }
-      $$invalidate(3, selectedIndex = Math.min(prevIndex, searchResults.length - 1));
+      $$invalidate(4, selectedIndex = Math.min(prevIndex, searchResults.length - 1));
     }
   }
   function selectItem(index) {
@@ -2532,30 +3064,36 @@ function instance($$self, $$props, $$invalidate) {
   function input_binding($$value) {
     binding_callbacks[$$value ? "unshift" : "push"](() => {
       inputElement = $$value;
-      $$invalidate(4, inputElement);
+      $$invalidate(5, inputElement);
     });
   }
   function input_input_handler() {
     searchInput = this.value;
-    $$invalidate(1, searchInput);
+    $$invalidate(2, searchInput);
   }
   const input_handler = (event) => handleInput(event);
-  const mouseenter_handler = (index) => $$invalidate(3, selectedIndex = index);
+  const mouseenter_handler = (index) => $$invalidate(4, selectedIndex = index);
   const click_handler = (index) => selectItem(index);
   const keydown_handler = (index, event) => event.key === "Enter" && selectItem(index);
+  const mouseenter_handler_1 = (index) => $$invalidate(4, selectedIndex = index);
+  const click_handler_1 = (index) => selectItem(index);
+  const keydown_handler_1 = (index, event) => event.key === "Enter" && selectItem(index);
   function div10_binding($$value) {
     binding_callbacks[$$value ? "unshift" : "push"](() => {
       modalContainer = $$value;
-      $$invalidate(0, modalContainer);
+      $$invalidate(1, modalContainer);
     });
   }
   $$self.$$set = ($$props2) => {
     if ("app" in $$props2)
-      $$invalidate(7, app = $$props2.app);
+      $$invalidate(8, app = $$props2.app);
     if ("removeDuplicateTabs" in $$props2)
-      $$invalidate(8, removeDuplicateTabs = $$props2.removeDuplicateTabs);
+      $$invalidate(9, removeDuplicateTabs = $$props2.removeDuplicateTabs);
+    if ("settings" in $$props2)
+      $$invalidate(0, settings = $$props2.settings);
   };
   return [
+    settings,
     modalContainer,
     searchInput,
     searchResults,
@@ -2571,27 +3109,90 @@ function instance($$self, $$props, $$invalidate) {
     mouseenter_handler,
     click_handler,
     keydown_handler,
+    mouseenter_handler_1,
+    click_handler_1,
+    keydown_handler_1,
     div10_binding
   ];
 }
 var SearchModel = class extends SvelteComponent {
   constructor(options) {
     super();
-    init(this, options, instance, create_fragment, safe_not_equal, { app: 7, removeDuplicateTabs: 8 });
+    init(
+      this,
+      options,
+      instance,
+      create_fragment,
+      safe_not_equal,
+      {
+        app: 8,
+        removeDuplicateTabs: 9,
+        settings: 0
+      },
+      null,
+      [-1, -1]
+    );
   }
 };
 var SearchModel_default = SearchModel;
 
+// src/setting.ts
+var import_obsidian2 = require("obsidian");
+var DEFAULT_SETTINGS = {
+  showFilePath: true,
+  includeFileNameInPath: true,
+  enableTagSearch: true,
+  enableAliasSearch: true
+};
+var TabNavigatorSettingTab = class extends import_obsidian2.PluginSettingTab {
+  constructor(app, plugin) {
+    super(app, plugin);
+    this.plugin = plugin;
+  }
+  display() {
+    let { containerEl } = this;
+    containerEl.empty();
+    const settings = this.plugin.settings;
+    if (settings) {
+      new import_obsidian2.Setting(containerEl).setName("Show File Path").setDesc("Show the file path in the search results.").addToggle(
+        (toggle) => toggle.setValue(settings.showFilePath).onChange((value) => {
+          settings.showFilePath = value;
+          this.plugin.saveSettings();
+        })
+      );
+      new import_obsidian2.Setting(containerEl).setName("Include File Name in Path (if show file path is enabled)").setDesc("Include the file name in the file path.").addToggle(
+        (toggle) => toggle.setValue(settings.includeFileNameInPath).setDisabled(!settings.showFilePath).onChange((value) => {
+          settings.includeFileNameInPath = value;
+          this.plugin.saveSettings();
+        })
+      );
+      new import_obsidian2.Setting(containerEl).setName("Enable Alias Search").setDesc("Enable or disable the ability to search articles using aliases.").addToggle(
+        (toggle) => toggle.setValue(settings.enableAliasSearch).onChange((value) => {
+          settings.enableAliasSearch = value;
+          this.plugin.saveSettings();
+        })
+      );
+      new import_obsidian2.Setting(containerEl).setName("Enable Tag Search").setDesc("Enable or disable the ability to search articles using tags.").addToggle(
+        (toggle) => toggle.setValue(settings.enableTagSearch).onChange((value) => {
+          settings.enableTagSearch = value;
+          this.plugin.saveSettings();
+        })
+      );
+    }
+  }
+};
+
 // src/main.ts
-var TabSwitcher = class extends import_obsidian2.Plugin {
+var TabSwitcher = class extends import_obsidian3.Plugin {
   constructor() {
     super(...arguments);
     this.searchModelInstance = null;
+    // SearchModelのインスタンスを保持するためのプロパティ
+    this.settings = null;
   }
-  // SearchModelのインスタンスを保持するためのプロパティ
-  // settings: PluginSettings | null = null;
-  // tabViewInstance: TabViewModel | null = null;
   async onload() {
+    await this.loadSettings();
+    this.addSettingTab(new TabNavigatorSettingTab(this.app, this));
     this.addCommand({
       id: "search-tabs",
       name: "Search tabs",
@@ -2602,9 +3203,11 @@ var TabSwitcher = class extends import_obsidian2.Plugin {
           this.searchModelInstance = null;
         }
         this.searchModelInstance = new SearchModel_default({
-          target: app.workspace.containerEl,
+          // target: app.workspace.containerEl,
+          target: document.body,
           props: {
             app,
+            settings: this.settings,
             removeDuplicateTabs: this.removeDuplicateTabs.bind(this)
           }
         });
@@ -2624,29 +3227,18 @@ var TabSwitcher = class extends import_obsidian2.Plugin {
       }
     });
   }
-  // async loadSettings() {
-  //   this.settings = Object.assign({}, DEFAULT_SETTINGS, await this.loadData());
-  //   if (!this.settings?.enableTabView && this.tabViewInstance) {
-  //     this.tabViewInstance.$destroy();
-  //     this.tabViewInstance = null;
-  //   }
-  // }
-  // async saveSettings() {
-  //   await this.saveData(this.settings);
-  //   if (this.settings?.enableTabView) {
-  //     document.removeEventListener('keydown', this.handleKeyDown.bind(this));
-  //     document.removeEventListener('keyup', this.handleKeyUp.bind(this));
-  //     // キーボードイベントのリスナーを追加
-  //     document.addEventListener('keydown', this.handleKeyDown.bind(this));
-  //     document.addEventListener('keyup', this.handleKeyUp.bind(this));
-  //   }
-  // }
+  async loadSettings() {
+    this.settings = Object.assign({}, DEFAULT_SETTINGS, await this.loadData());
+  }
+  async saveSettings() {
+    await this.saveData(this.settings);
+  }
   // 重複するタブを削除するメソッド
   removeDuplicateTabs() {
     const seen = /* @__PURE__ */ new Set();
     const toRemove = [];
     this.app.workspace.iterateAllLeaves((leaf) => {
-      if (leaf.view instanceof import_obsidian2.FileView) {
+      if (leaf.view instanceof import_obsidian3.EditableFileView) {
         const file = leaf.view.file;
         if (file && seen.has(file.path)) {
           toRemove.push(leaf);
@@ -2659,31 +3251,6 @@ var TabSwitcher = class extends import_obsidian2.Plugin {
     });
     toRemove.forEach((leaf) => leaf.detach());
   }
-  // handleKeyDown(event: KeyboardEvent) {
-  //   if (!this.settings?.enableTabView) {
-  //     return;
-  //   }
-  //   if (event.ctrlKey && event.key === 'Tab') { // Ctrl+Tabを認識するように変更
-  //     event.preventDefault();
-  //     if (!this.tabViewInstance) {
-  //       this.tabViewInstance = new TabViewModel({
-  //         target: this.app.workspace.containerEl,
-  //         props: {
-  //           app: this.app,
-  //         },
-  //       });
-  //     }
-  //     modalVisible.set(true); // モーダルを表示
-  //   }
-  // }
-  // handleKeyUp(event: KeyboardEvent) {
-  //   if (!this.settings?.enableTabView) {
-  //     return;
-  //   }
-  //   if (event.key === 'Control' || event.key === 'Escape') {
-  //     modalVisible.set(false); // モーダルを非表示
-  //   }
-  // }
   openSearchModel() {
     const { app } = this;
     if (this.searchModelInstance) {
@@ -2694,7 +3261,8 @@ var TabSwitcher = class extends import_obsidian2.Plugin {
       target: app.workspace.containerEl,
       props: {
         app,
-        removeDuplicateTabs: this.removeDuplicateTabs.bind(this)
+        removeDuplicateTabs: this.removeDuplicateTabs.bind(this),
+        settings: this.settings
       }
     });
   }

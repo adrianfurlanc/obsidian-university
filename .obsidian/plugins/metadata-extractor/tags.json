@@ -267,6 +267,7 @@
       "Spaces/My School/My Inputs/El análisis de la forma sonata en Mozart.md",
       "Spaces/My School/My Inputs/El análisis de la forma sonata en Beethoven.md",
       "Spaces/My School/My Inputs/El análisis de la forma sonata en Haydn.md",
+      "Spaces/My School/My Concepts/Beethoven  Sonata Op. 27, quasi una fantasia, II.md",
       "Spaces/My School/My Concepts/Mozart - Sonata KV 545, III.md",
       "Spaces/My School/My Concepts/Mozart - Sonata KV 545, I.md",
       "Spaces/My School/My Concepts/Haydn - Sonata para teclado n o 1 Hob. XVI - 8, I.md",
@@ -279,8 +280,7 @@
       "Spaces/My School/My Concepts/Haydn - Cuarteto Op. 20 n o 4, III.md",
       "Spaces/My School/My Concepts/Haydn - Cuarteto Op. 20 n o 3, I.md",
       "Spaces/My School/My Concepts/Beethoven - Sonata Op. 26, I.md",
-      "Spaces/My School/My Concepts/Beethoven -  Sonatina en Fa mayor Ahn 5, II.md",
-      "Beethoven - Sonata Op.27/Beethoven  Sonata Op. 27, quasi una fantasia, II.md"
+      "Spaces/My School/My Concepts/Beethoven -  Sonatina en Fa mayor Ahn 5, II.md"
     ]
   },
   {
@@ -417,17 +417,10 @@
     ]
   },
   {
-    "tag": "tutorial",
-    "tagCount": 2,
-    "relativePaths": [
-      "Spaces/My School/My Concepts/Weekly Questions for Time Tracking.md",
-      "Notes/Cubase 10 Explained.md"
-    ]
-  },
-  {
     "tag": "concept",
     "tagCount": 36,
     "relativePaths": [
+      "Spaces/My School/My Concepts/Beethoven  Sonata Op. 27, quasi una fantasia, II.md",
       "Spaces/My School/My Concepts/Weekly Questions for Time Tracking.md",
       "Spaces/My School/My Concepts/Repaso Análisis.md",
       "Spaces/My School/My Concepts/Psychology concept.md",
@@ -462,8 +455,15 @@
       "Notes/Obsidian Canvas.md",
       "Notes/Active Recall.md",
       "Extras/Templates/Notes/Note Template.md",
-      "Extras/Templates/Notes/Concept Note Template.md",
-      "Beethoven - Sonata Op.27/Beethoven  Sonata Op. 27, quasi una fantasia, II.md"
+      "Extras/Templates/Notes/Concept Note Template.md"
+    ]
+  },
+  {
+    "tag": "tutorial",
+    "tagCount": 2,
+    "relativePaths": [
+      "Spaces/My School/My Concepts/Weekly Questions for Time Tracking.md",
+      "Notes/Cubase 10 Explained.md"
     ]
   },
   {

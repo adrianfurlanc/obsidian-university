@@ -1,3 +1,6 @@
+---
+modified: 2024-06-04T19:13:56+02:00
+---
 
 ## [[Module - Breaking Out Of The Cookie Cutter Student Mindset]]
 
@@ -133,7 +136,7 @@ Additional Resources
 > - [ ] Create notes
 > 	- [ ] Create a course note for a cours~~e~~ you're currently taking in [[My Courses]]
 > 	- [ ] Take a lecture note for the next lecture you have [[My Lectures]]
-> 	- [ ] Create a unit note for a unit you're currently learning in [[My Units]]
+
 > 	- [ ] Create concept notes from the lecture note you made in [[My Lectures]]
 > 	- [ ] Create an assignment note and connect to related notes and ideas you will need to complete it in [[My Assignments]]
 > - [ ] Did you end up making any changes to the templates? If so, what were they? (Please share your response in the #⚡section1-course-chat of the discord)
