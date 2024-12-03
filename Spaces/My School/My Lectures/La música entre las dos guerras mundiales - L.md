@@ -5,7 +5,7 @@ tags:
   - historia3
 Created: 2024-03-20 10:46
 Tema: "2"
-modified: 2024-05-30T14:58:28+02:00
+modified: 2024-06-21T15:52:37+02:00
 Status: 🟥
 Semester: 4
 ---
@@ -54,7 +54,7 @@ Rechazado por el publico.
 
 tricordos . grupos de 3 notas que tienen la misma interválica entre ellos.
 
-Melodía de timbres. repartir la melodia entre varios instrumentos para que la melodía no la tenga un solo instrumnento.
+Melodía de timbres. repartir la melodia entre varios instrumentos para que la melodía no la tenga un solo instrumento.
 
 Se inspiuro en un Palindromos  (tenet)
 

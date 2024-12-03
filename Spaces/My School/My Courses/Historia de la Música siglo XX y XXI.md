@@ -9,7 +9,7 @@ Semester: 2
 Year: 2
 Summary: 
 Created: 2024-03-07 09:58
-modified: 2024-06-04T19:28:04+02:00
+modified: 2024-06-19T15:49:31+02:00
 ---
 \_Tags::  #course
 \_Links::  [[My Courses]]
@@ -28,6 +28,6 @@ SORT file.ctime ASC
 ```dataview
 table Course, Tema, Status
 from #lecture AND #historia3 
-sort Tema DESC
+sort Tema ASC
 ```
 

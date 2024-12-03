@@ -9,7 +9,7 @@ tags:
   - historia3
 Created: 2024-05-15 12:06
 Tema: "6"
-modified: 2024-06-04T18:05:38+02:00
+modified: 2024-06-19T16:04:03+02:00
 Semester: 4
 ---
 
@@ -131,7 +131,7 @@ Actualmente, explotando toda la capacidad de procesamiento de los ordenadores se
 
 Los conciertos dedicados a la música electroacústica compuesta solo para soporte cuentan con una característica especial: en ellos no hay instrumentistas sobre la escena. Por otro lado, al quedarse fija la música en la cinta (u otro soporte) se perdía parte de la interacción que se produce cuando un intérprete toca una obra en directo.
 
-Desde el nacimiento de la música electroacústica ha habido ciertas reticencias a este tipo de conciertos en los que solo se ven unos altavoces. Por este motivo 
+Desde el nacimiento de la música electroacústica ha habido ciertas reticencias a este tipo de conciertos en los que solo se ven unos altavoces. 
 
 
 

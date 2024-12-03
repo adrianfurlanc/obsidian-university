@@ -5,7 +5,7 @@ tags:
   - "#lecture"
 Created: 2023-11-08 20:56
 Tema: "3"
-modified: 2024-03-01T13:57:24+01:00
+modified: 2024-11-14T16:37:15+01:00
 Status: "#🟨"
 ---
 \_Status:: #🟨  
@@ -16,6 +16,8 @@ ___
 ## Summary
 
 ## Notes
+
+### La ópera cómica
 
 La ópera es una obra escénica cantada con acompañamiento de una orquesta.
 
@@ -54,6 +56,8 @@ El gran libretista de la ópera seria fue Metastasio. La aportación que él tuv
 
 Jommelli hizo una unión de lo francés con lo italiano.
 
+
+
 ### Gluck
 
 Se basa en la música italiana, francesa y alemana para realizar una ópera más coherente.
@@ -62,6 +66,8 @@ La obra de metastasio le sirvió para hacer una serie de reformas.
 
 Música más continua, centrarse en el drama. Una música sin interrupciones. Apoyado por una orquesta más grande.
 Mantener el interés del público en el drama
+
+
 
 Su manera de hacer ópera tuvo gran difusión.
 

@@ -6,7 +6,7 @@ Links:
 Course: "[[Fundamentos de Composición]]"
 Created: 2023-10-27 12:06
 Tema: 2
-modified: 2024-03-01T13:57:57+01:00
+modified: 2024-06-10T16:20:33+02:00
 ---
 \_Status::  #🟨  
 Tags:: #lecture
@@ -65,7 +65,7 @@ Organización de las diferentes partes en las que se divide una pieza musical.
 - Ternaria: ABA
 - Rondó: ABACADA
 
-#### Forma Sonata
+. #### Forma Sonata
 
 ![[Forma Sonata.png]]
 Es una forma ternaria ABA

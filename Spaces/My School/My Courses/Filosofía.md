@@ -1,12 +1,15 @@
 ---
-Links: "[[My Courses]]"
-Tags: course
+Links:
+  - "[[My Courses]]"
+tags:
+  - course
+  - "#extra"
 Professor: Juan González-Castelao
 Semester: 1
 Year: 2
 Summary: Hablar mucho sin decir nada
 Created: 2023-10-11 15:28
-modified: 2024-06-04T19:27:25+02:00
+modified: 2024-08-12T17:23:02+02:00
 ---
 \_Tags::  course
 \_Links::  [[My Courses]]

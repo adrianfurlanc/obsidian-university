@@ -1,6 +1,6 @@
 ---
 Created: 2024-05-29 19:40
-modified: 2024-05-29T19:41:49+02:00
+modified: 2024-10-10T22:03:33+02:00
 tags:
   - tutorial
 ---
@@ -25,3 +25,4 @@ Links::
 - Are there any points of friction that you can identify from your time tracking systems or workflows that if fixed would make it easier to track your time?
     
 - Is there anything else you can do that would make tracking your time next week more effective?
+

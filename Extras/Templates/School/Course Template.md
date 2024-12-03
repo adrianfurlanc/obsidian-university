@@ -6,18 +6,10 @@ Semester:
 Year: 
 Summary: 
 Created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
-modified: 2024-06-04T19:26:57+02:00
+modified: 2024-10-11T14:56:18+02:00
 ---
-\_Tags::  #course
 \_Links::  [[My Courses]]
 ___
-
-## Info
-\_Summary::  
-\_Year:: 
-\_Semester:: 
-\_Professor:: 
-
 ## Inputs
 ```dataview
 TABLE Source, Status 

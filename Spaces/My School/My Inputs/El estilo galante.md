@@ -7,15 +7,16 @@ Links:
   - "[[My Inputs]]"
 Course: "[[Historia de la Música II]]"
 Tema: "1"
-modified: 2024-03-27T14:21:58+01:00
+modified: 2024-07-24T11:30:07+02:00
 Status: 🟨
+Source: UNIR
 ---
 ## Summary
 
 
 ## Notes
 
-En la Historia de la Música se dividen los diferentes siglos en etapas. Es decir, se prefiere definir un período de tiempo con un nombre y no sencillamente nombrando el siglo. De esta manera, es preferible hablar de "Música del Barroco" a "Música del siglo XVIII".
+En la Historia de la Música se dividen los diferentes siglos en etapas. Es decir, se prefiere definir un período de tiempo con un nombre y no sencillamente nombrando el siglo. De esta manera, es preferible hablar de "Música del Siglo XVIII" a "Música del Clacicismo".
 
 Es muy importante tener en cuenta el contexto social de un período histórico.
 
@@ -39,13 +40,15 @@ En esta época se dio [[El fin del mecenazgo musical]]
 
 Surge una nueva manera de evaluar la música. Se condena la ornamentación excesiva del Barroco y su saturación polifónica. Se busca una textura musical sencilla (se entiende a la musica galante como lo "natural").
 
-En Alemania surgió un estilo musical (el estilo de la sensibilidad), cuyas características seguían siendo fundamentalmente similares a las del estilo «galante» francés.
+En Alemania surgió un estilo musical (el estilo de la sensibilidad), cuyas características seguían siendo fundamentalmente similares a las del estilo «galante» francés. 
 
 La nueva música tuvo su germen en [[La ópera del barroco - L#La Ópera|la ópera]]y conciertos italianos de la época.
 
 La música del [[Spaces/My School/My Concepts/El Estilo Galante|Estilo Galante]] significó una ruptura de la continuidad formal, progresiones armónicas ordenadas y un contraste emocional más frecuente.
 
 ### La música del siglo XVIII en España
+
+La música de este período se mantiene en el estilo del Barroco pleno y tardío
 
 El período histórico del Clacisismo tiene lugar en el reinado de Carlos III. Durante esta época, [[El fin del mecenazgo musical|la música de la corte decayó]] y en cambio floreció en las casas de la aristocracia, de la alta burguesía o en los teatros municipales o privados.
 

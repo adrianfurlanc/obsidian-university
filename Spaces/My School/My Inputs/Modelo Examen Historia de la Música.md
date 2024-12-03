@@ -6,11 +6,10 @@ Links:
   - "[[My Inputs]]"
 tags:
   - "#i/unir"
-  - historia3
   - examen
 Created: 2024-05-27 17:30
 Tema: 
-modified: 2024-05-31T16:01:43+02:00
+modified: 2024-06-19T15:49:13+02:00
 Semester: 4
 ---
 ## Summary

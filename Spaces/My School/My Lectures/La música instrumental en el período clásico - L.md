@@ -3,7 +3,7 @@ Semester: 3
 Course: "[[Historia de la Música II]]"
 Created: 2023-10-27 22:44
 Tema: "2"
-modified: 2024-03-26T17:10:28+01:00
+modified: 2024-10-31T17:29:33+01:00
 ---
 Status:: #🟨
 Tags:: #lecture
@@ -55,6 +55,9 @@ Los compositores componían para la aristocracia.
 
 Galuppi pasa de 2 o 4 movimientos
 
+Diferencia entre Conciertos en el período clásico. Si es Concerto Solista y Sinfonía es clásica, si hay concerto grosso es período barroco
 
+La escuela de Manheimm usó una técnica llamada Crescendo. Es una repetición sde patrones de adición hasta llegar al clímax. Disciplina orquestal, los violines usando el arco de manera disciplinada.
 
+Contraste de secciones, Cambios tímbricos y de dinámica.
 

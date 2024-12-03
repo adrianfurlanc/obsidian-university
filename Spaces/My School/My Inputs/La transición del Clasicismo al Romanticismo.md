@@ -10,7 +10,7 @@ tags:
   - "#historia"
 Created: 2023-11-22 18:34
 Tema: "5"
-modified: 2024-03-01T14:04:46+01:00
+modified: 2024-08-21T15:14:29+02:00
 ---
 \_Status:: #🟨 
 \_Tags::  #i/unir
@@ -24,7 +24,8 @@ ___
 
 ## Notes
 
-El contexto social en el que vivió Beethoven estuvo marcada por dos guerras. (La guerra de los Siete Años y la Revolución francesa). Ambas guerras dejaron al resto maestros de capilla sin sus amos protectores.
+El contexto social en el que vivió Beethoven estuvo marcada por dos guerras. (La guerra de los Siete Años y la Revolución francesa). Ambas guerras dejaron al resto 
+maestros de capilla sin sus amos protectores.
 
 En esta época se dio [[El fin del mecenazgo musical]]
 
@@ -41,7 +42,9 @@ Su obra se divide en 3 períodos creativos:
 - De 1803 a 1814: desarrollo de un estilo dramático, «heroico», con altos niveles de expresión.
 - De 1815 hasta su muerte en 1827: música más introspectiva y difícil de interpretar y comprender.
 
-### Primer período creativo
+### Beethoven
+
+#### Primer período creativo
 Es una etapa de formación, conoce las formas musicales del momento. Su primer estilo no era muy distinta que las de Mozart o Haydn.
 
 Comienza a componer sonatas para piano. En su sonata patética da un giro a la forma y abre la sonata con un adagio de acordes que luego se abre a un desarrollo presto.
@@ -51,7 +54,7 @@ A sección de la exposición y la sección de desarrollo el tema de la introd
 
 En la composición de sus sonatas buscaba unirla en su conjunto. Beethoven continúa rompiendo los cánones establecidos al comenzar la sonata *clair de lune* con un movimiento lento. El segundo movimiento es allegretto que sirve como contraste del anterior.
 
-###  Segundo período creativo
+####  Segundo período creativo
 
 El segundo período creativo de Beethoven comienza con la superación de la crisis personal que sufrió en 1802.
 
@@ -61,7 +64,7 @@ Sin embargo, la obra que marca definitivamente la ruptura con el pasado es la *S
 
 El uso de los redobles de timbal, la intervención heroica de las trompetas y los contrastes extremos y cambios de carácter en pocos compases iban a marcar un antes y un después en la historia de la música orquestal.
 
-### Tercer período creativo
+#### Tercer período creativo
 
 Coincide precisamente con el empeoramiento de la sordera.
 

@@ -8,7 +8,7 @@ Links:
 Course: "[[Historia de la Música II]]"
 Created: 2023-10-18 19:13
 Tema: "1"
-modified: 2024-03-26T17:10:03+01:00
+modified: 2024-11-07T17:21:18+01:00
 Status: "#🟨"
 ---
 \_Status:: #🟨 
@@ -22,7 +22,20 @@ ___
 
 ## Notes
 
+En la Edad Moderna los estilos musicales preporendamente el Renacimiento, Manierismo, Barroco, Rococó y Neoclacisimo. El período precedente es la Edad Media. 
+
+- Comienzo: 1453 - Caída de Constantinopla en poder
+otomano; ó 1492, Descubrimiento de América
+- Fin: 1789 - Revolución Francesa
+
+Período histórico siguiente: Edad Contemporánea (el siguiente a este es la Edad Digital - Internet, Caída de la URRS, la caída del muro de Berlín)
+
+
+
 ### La Ilustración
+
+La creación de la enciclopedia
+
 Llegar a través de la razón al conocimiento del mundo
 
 "No hay oscuridad sino ignorancia"
@@ -48,8 +61,6 @@ Ahondar en los aspectos más decorativos y coloridos del Barroco. Vuelta a la na
 
 En los últimos años del siglo XVIII está el germen del Romanticismo.
 
-
-
 En el barroco, para la melodía, se usan motivos cortos que se repiten constantemente. Es un tejido muy denso. 
 
 ### El Estilo Galante
@@ -70,5 +81,33 @@ La forma de enseñar de la época era a través de *partimenti* que contenían m
 A principios del siglo todavía no ha llegado el [[Spaces/My School/My Concepts/El Estilo Galante|Estilo Galante]] a España. Hay que esperar hasta el reinado de Fernando VI para que comiencen a surgir cambios.
 
 El [[Spaces/My School/My Concepts/El Estilo Galante|Estilo Galante]] llega a España con Domenico Scarlatti.
+
+
+Audición Bocherini (Fandango - clase 3)
+
+Orquetación
+Cuarteto de Cuerdas, Guitarra y castañuelas
+
+Melodía
+Continua, antecedente - consecuente
+2 incisos repetidos
+
+Armonía
+Sencilla. (I-V)
+
+Textura homofónica
+
+Dinámico
+Dinámica por contrastes de orquestación
+
+Contrastes
+Contrastes de grupos instrumentales
+Dinámicos
+
+Audición Bocherini (clase 3 00:15:00)
+
+
+
+
 
 

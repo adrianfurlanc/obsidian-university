@@ -49,13 +49,13 @@ var MarkdownInsertPlugin = class extends import_obsidian.Plugin {
         }
         if (editor.somethingSelected()) {
           const selection = editor.getSelection();
-          if (this.isURL(selection)) {
-            editor.replaceSelection(
-              `${this.isImageURL(selection) ? "!" : ""}[${clipboardString}](${selection})`
-            );
-          } else if (this.isURL(clipboardString)) {
+          if (this.isURL(clipboardString)) {
             editor.replaceSelection(
               `${this.isImageURL(clipboardString) ? "!" : ""}[${selection}](${clipboardString})`
+            );
+          } else if (this.isURL(selection)) {
+            editor.replaceSelection(
+              `${this.isImageURL(selection) ? "!" : ""}[${clipboardString}](${selection})`
             );
           } else {
             return new import_obsidian.Notice("No URL found");

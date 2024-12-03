@@ -10,7 +10,7 @@ tags:
   - historia
 Created: 2023-11-15 15:33
 Tema: "4"
-modified: 2024-03-01T14:04:55+01:00
+modified: 2024-08-13T12:53:33+02:00
 ---
 \_Status:: #🟥
 \_Tags::  #i/unir
@@ -18,35 +18,44 @@ modified: 2024-03-01T14:04:55+01:00
 ___
 
 \_Source:: UNIR 
-
-## Summary
-
-
 ## Notes
 
 ### Haydn
+
 Su música abarca todo tipo de géneros instrumentales y vocales, ópera seria y ópera cómica, música religiosa y profana.
 
 La actividad compositiva de Haydn se puede dividir en varias etapas
+
+Lo que le convierte uno de los grandes de la Historia de la Música es que llevó la música de la Ilustración al máximo nivel de coherencia y expresividad, trascendiendo la música instrumental de quienes le precedieron.
 
 #### Primera etapa (1750-1770)
 Comienza componiendo en los estilos barroco y galante que después irán evolucionando progresivamente hacia el estilo clásico.
 
 Hay en sus sinfonías una deuda de la estructura de la sonata da chiesa y un intercambio de las formas de sinfonía y de concierto
 
+Una de sus obras de esta etapa es la sinfonía No 6 en re mayor («*Le matin*», Hob. I:6
+
 #### Segunda etapa (1770-1780)
 Desarrolla las posibilidades de la forma sonata, de los cuartetos de cuerda y de los colores orquestales, aparte de su producción de ópera y música teatral.
 
 Compone con un lenguaje sinfónico más consolidado, tonos menores más dramáticos, más recursos polifónicos, mayor variedad dinámica
 
+Una de sus obras de esta etapa es la ópera conocida como *Le pescatrici*
+
 #### Tercera etapa (1780-1790)
 Época de madurez. Compone, con mayor solidez y manteniendo su particular sentido del humor, empleando en este período adagios más graves en lugar de andantes y finales con melodías populares
+
+Una de sus obras de esta etapa es la ópera conocida como *Armida*
 
 #### Cuarta etapa (1790-1795)
 Viaja a Londres para componer una ópera y compone nuevas composiciones para veinte conciertos.
 
+Una de sus obras de esta etapa es la sinfonía conocida como *El milagro*. 
+
 #### Quinta etapa (1795-1809)
 Haydn tiene en esta época pocas obligaciones y dedica tiempo a sus relaciones con familias aristocráticas influyentes en Austria y Alemania. Para entonces sus ediciones recorren toda Europa. Compone música religiosa, misas, oratorios y música de cámara.
+
+Una de sus obras de esta etapa es el oratorio conocido como *La Creación* que tiene muchos matrigalismos y simbolismos de los animales en el Edén
 
 ### Mozart
 Fue Mozart precisamente el que terminó consolidando el estilo clásico.

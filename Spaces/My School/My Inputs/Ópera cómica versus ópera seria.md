@@ -10,7 +10,7 @@ tags:
   - historia
 Created: 2023-11-08 20:57
 Tema: "3"
-modified: 2024-03-26T17:10:49+01:00
+modified: 2024-11-07T18:29:58+01:00
 ---
 \_Status:: #🟨 
 \_Tags::  #i/unir
@@ -32,9 +32,11 @@ La ópera cómica sirvió para crear óperas con libretos donde la acción estab
 
 En la ópera bufa hay una búsqueda de sencillez y naturalidad en la melodía. La técnica vocal es más modesta.
 
-Una de las diferencias entre la ópera seria y la ópera bufa fue que la primera se concentra en la representación musical de la acción, mientras que la segunda se genera en momentos de acción y momentos de reflexión en el drama (alternancia de recitativos y arias). En la ópera bufa, la acción transcurree de una manera más veloz. Mientras que la seria se detiene en el aria. ^69b63d
+Una de las diferencias entre la ópera seria y la ópera bufa fue que la primera se concentra en la representación musical de la acción, mientras que la segunda se genera en momentos de acción y momentos de reflexión en el drama (alternancia de recitativos y arias). En la ópera bufa, la acción transcurre de una manera más veloz. Mientras que la seria se detiene en el aria. ^69b63d
 
 En la ópera bufa se cantaba casi en su totalidad, exceptuando las breves recitativos en forma de diálogo y acompañado casi siempre por un instrumento de teclado. También habían personajes serios. Se fueron formándose los *concertantes* para los finales de acto, con la participación de todo el reparto y la importancia de la voz del bajo. (a diferencia de la ópera seria donde sobresalían las voces agudas)
+
+Dado que la finalidad más inmediata de la ópera cómica era dar lecciones morales y ridiculizar a personajes de la vida cotidiana, personajes nobles y del Antiguo Régimen, era frecuente que imitase a la ópera seria en determinados pasajes. Por ejemplo, cuando se quería representar a un personaje noble o a un militar de alto rango, se hacía con melodías vocales virtuosísticas, intervalos melódicos amplios en el registro grave y agudo, o recurriendo intencionadamente a encadenamientos de recitativos acompañados que podían ser incluso largos
 
 La ópera bufa tiene sus orígenes en los *intermezzi*, breves composiciones escénicas que se interpretaban entre los actos de una obra más grande. Uno de los intermezzi más conocidos es "*La serva padrona*" (La criada patrona), de Giovanni Battista Pergolesi. Ésta fue una de las primeras óperas cómicas. Con su estreno en París se generó mucha polémica. Ésta se conoció como las "Querelles des Buffons". Una disputa entre los defensores de la obra seria francesa y la ópera cómica italiana.
 
@@ -77,7 +79,7 @@ La ópera metastasiana tiene 3 actos, con alrededor de 6 personajes. Es una alte
 
 La acción se llevaba a cabo con recitativos y estos se alteranaban con arias que expresaban la reflexión o los sentimientos de un personaje sobre un determinado aspecto del desarrollo de la acción.
 
-#### Hasse
+### Hasse
 Usa un [[Spaces/My School/My Concepts/El Estilo Galante|Estilo Galante]] muy refinado. Muchos lo consideran como complemento ideal de los textos metastasianos
 
 Algunos de los compositores musicales que mejor representaron la reforma de la ópera seria en la línea de Metastasio fueron los siguientes:
@@ -87,11 +89,11 @@ Algunos de los compositores musicales que mejor representaron la reforma de la o
 
 Estos 3 compositores buscaron conseguir una mayor flexibilidad en el desarrollo melódico y limitar el virtuosismo de los cantantes en favor de una expresividad más natural
 
-#### Traetta
+### Traetta
 Trató de unificar el estilo el estilo musical de la tragedia lírica francesa con los ideales de la ópera italiana. Centrando la atención en las arias de uno o dos personajes principales en detrimento de los personajes secundarios.
 
 
-#### Gian Francesco de Majo
+### Gian Francesco de Majo
 Su principal aportación fue dotar a la ópera de melodías más sencillas, de aliento más breve y de un estilo vocal equilibrado, alejado de excesos de virtuosismo.
 
 ## Gluck

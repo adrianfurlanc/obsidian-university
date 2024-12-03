@@ -8,10 +8,7 @@ tags:
   - "#i/unir"
 Created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 Tema: 
-modified: 2024-03-04T18:56:05+01:00
+modified: 2024-08-10T16:09:00+02:00
 Semester: 4
 ---
-## Summary
-
-
 ## Notes

@@ -1,6 +1,6 @@
 ---
 aliases: 🏫 My School Dashboard
-modified: 2024-06-04T19:35:43+02:00
+modified: 2024-07-10T11:49:25+02:00
 ---
 Tags:: 
 Links:: [[🏠 My Home]]
@@ -14,5 +14,6 @@ sort file.name asc
 ```
 
 ## Others
+- [[My Courses]]
 - [[My Inputs]]
 - [[My Lectures]]

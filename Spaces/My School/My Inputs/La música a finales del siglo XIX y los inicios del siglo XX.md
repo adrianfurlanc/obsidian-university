@@ -9,7 +9,7 @@ tags:
   - historia3
 Created: 2024-03-08 17:26
 Tema: "1"
-modified: 2024-04-14T20:36:00+02:00
+modified: 2024-06-24T12:00:34+02:00
 Semester: 4
 ---
 ## Summary

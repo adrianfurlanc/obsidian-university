@@ -6,24 +6,14 @@ tags:
   - historia
 Professor: Juan González-Castelao
 Semester: 1
-Year: 2
+Year: 3
 Summary: Historia
 Created: 2023-10-13 15:56
-modified: 2024-06-04T19:27:57+02:00
+modified: 2024-10-28T14:34:37+01:00
 ---
-\_Tags::  #course
-\_Links::  [[My Courses]]
-___
-
-## Info
-\_Summary::  Historia
-\_Year:: 2 
-\_Semester:: 1 
-\_Professor:: Juan González-Castelao
-
 ## Inputs
 ```dataview
-TABLE Tema, Status 
+TABLE Tema, Source, Status 
 FROM "Spaces/My School/My Inputs" AND #historia
 SORT Tema DESC
 ```
@@ -33,6 +23,5 @@ SORT Tema DESC
 table Tema, Created, Status
 FROM #lecture AND !"Extras"
 where contains(Course, [[]])
-SORT Created desc
+SORT Tema desc
 ```
-

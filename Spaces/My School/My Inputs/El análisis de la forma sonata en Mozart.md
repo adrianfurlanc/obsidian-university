@@ -9,7 +9,7 @@ tags:
   - analisis2
 Created: 2024-04-17 12:30
 Tema: "4"
-modified: 2024-04-17T13:11:34+02:00
+modified: 2024-08-27T12:46:55+02:00
 Semester: 4
 ---
 ## Summary
@@ -20,6 +20,8 @@ Semester: 4
 ### La sonata en Mozart
 
 Solo a partir de su establecimiento definitivo en Viena, hacia 1781, Mozart conoció la música de Haydn que supuso una influencia muy beneficiosa en la evolución de su estilo. También fue tardío su conocimiento de la obra de J. S. Bach, cuyo influjo contrapuntístico se deja sentir en las obras finales.
+
+Gran parte de las obras del Clacicismo no tienen clarinete y sólo tiene una sola flauta.
 
 Aunque en alguna de sus obras de juventud aún hay un aliento barroco, la sonata en Mozart enseguida se adscribió al estilo galante de la época a luz del modelo de J. C. Bach. No olvidemos que tanto como Mozart como Haydn fueron siempre músicos de la corte y, como tal, tuvieron que plegar su creatividad al estilo preferido de las élites del momento.
 

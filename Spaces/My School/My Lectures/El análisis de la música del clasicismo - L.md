@@ -5,11 +5,11 @@ tags:
   - analisis2
 Created: 2024-03-19 10:05
 Tema: "2"
-modified: 2024-04-14T18:23:05+02:00
+modified: 2024-07-02T18:57:40+02:00
 Status: 🟥
 Semester: 4
 ---
-Links:: [[My Lectures]]
+ Links:: [[My Lectures]]
 ___
 
 ## Summary
@@ -46,7 +46,7 @@ El periodo no termina en semicadencia
 
 ![[Esquema Frase.png]]
 
-Desarrollo melódico del único motvo de la primera parte. Cuando hay 2 partes iguales ya no puede ser período.
+Desarrollo melódico del único motivo de la primera parte. Cuando hay 2 partes iguales ya no puede ser período.
 
 ![[Beethoven Frase.png]]
 

@@ -5,7 +5,7 @@ tags:
   - "#lecture"
 Created: 2023-11-15 15:43
 Tema: "4"
-modified: 2024-03-01T13:57:11+01:00
+modified: 2024-08-08T16:37:28+02:00
 Status: "#🟨"
 ---
 \_Status:: #🟨  
@@ -45,10 +45,17 @@ Usa las maderas como nota pedal.
 Hay mayor diálogo entre los instrumentos. Sigue usando la melodía acompañada
 
 #### Cuarta etapa
-Se le permiten cargos externos. (el príncipe no es aficionado a la música)
+Se le permiten encargos externos. (el príncipe no es aficionado a la música)
 
 Hace uso del contrapunto para generar interés.
 Tiene una orquestación enorme.
+
+#### Quinta etapa 
+La sinfonía 104 en Re Mayor se parece mucho a la obra de Beethoven.
+
+Uso del contrapunto para generar interés
+
+Hace uso de una orquesta muy grande.
 
 ### Mozart
 
@@ -60,14 +67,35 @@ Las primeras obras fueron más sencillas
 
 Se divide la historia en generaciones. Mozart y Beethoven están en la misma generación
 
-#### Tercera época
+#### Primer etapa
+Textura más homofónica.
+
+Antecedentes y consecuentes. Mucha dinámica y expresión. Preclásico y galante.
+
+#### Segunda etapa
+
+No puede recibir varios encargos de su época en Salzburgo.
+
+Se acaba esta etapa con la pérdida de su puesto en la corte.
+
+Es muy importante la flauta en este período. 
+
+Existe un diálogo entre sus instrumentos, no es solo un acompañamiento.
+
+Los violines usan todo el arco (interpretación), sonido muy tenuto.
+
+Una de sus obras de esta época es la ópera *Idomeneo*. 
+
+#### Tercera etapa
 Hace conciertos e interpretaciones para piano.
 
 Se dedica con más pasión a la composición de óperas
 
 No le da tanta importancia al trabajo  motívico como al flujo de tonalidades, de colores y de contrastes. (más que al trabajo temático)
 
+Se dedica a componer óperas.
 
+Una de sus obras de esta época es la sinfonía "Júpiter" 
 
 
 

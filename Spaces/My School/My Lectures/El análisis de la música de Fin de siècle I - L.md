@@ -4,8 +4,8 @@ tags:
   - "#lecture"
   - analisis2
 Created: 2024-05-29 13:55
-Tema: "10"
-modified: 2024-05-29T17:24:39+02:00
+Tema: "1"
+modified: 2024-06-18T16:00:19+02:00
 Status: 🟥
 Semester: 4
 ---

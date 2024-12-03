@@ -5,6 +5,10 @@
       "relativePath": "/"
     },
     {
+      "name": "1.Inbox",
+      "relativePath": "1.Inbox"
+    },
+    {
       "name": "Atlas",
       "relativePath": "Atlas"
     },
@@ -41,10 +45,6 @@
       "relativePath": "Extras/Templates"
     },
     {
-      "name": "Assignments",
-      "relativePath": "Spaces/Assignments"
-    },
-    {
       "name": "My School",
       "relativePath": "Spaces/My School"
     },
@@ -73,10 +73,6 @@
       "relativePath": "Spaces/My School/My Courses"
     },
     {
-      "name": "My Essays",
-      "relativePath": "Spaces/My School/My Essays"
-    },
-    {
       "name": "My Inputs",
       "relativePath": "Spaces/My School/My Inputs"
     },
@@ -87,21 +83,83 @@
     {
       "name": "La música después de la Segunda Guerra Mundial hasta 1960",
       "relativePath": "Spaces/My School/My Inputs/La música después de la Segunda Guerra Mundial hasta 1960"
-    },
-    {
-      "name": "De 1960",
-      "relativePath": "Spaces/My School/My Lectures/De 1960"
-    },
-    {
-      "name": "La música después de la Segunda Guerra Mundial hasta 1960",
-      "relativePath": "Spaces/My School/My Lectures/La música después de la Segunda Guerra Mundial hasta 1960"
     }
   ],
   "nonMdFiles": [
     {
+      "name": "sync",
+      "basename": "sync",
+      "relativePath": "sync"
+    },
+    {
       "name": "1er Tetracordo Dasiano.png",
       "basename": "1er Tetracordo Dasiano",
       "relativePath": "Extras/Images/1er Tetracordo Dasiano.png"
+    },
+    {
+      "name": "2024-10-0_16.16.16.png",
+      "basename": "2024-10-0_16.16.16",
+      "relativePath": "Extras/Images/2024-10-0_16.16.16.png"
+    },
+    {
+      "name": "2024-10-2_14.33.33.png",
+      "basename": "2024-10-2_14.33.33",
+      "relativePath": "Extras/Images/2024-10-2_14.33.33.png"
+    },
+    {
+      "name": "2024-10-2_16.17.5.png",
+      "basename": "2024-10-2_16.17.5",
+      "relativePath": "Extras/Images/2024-10-2_16.17.5.png"
+    },
+    {
+      "name": "2024-10-2_16.19.37.png",
+      "basename": "2024-10-2_16.19.37",
+      "relativePath": "Extras/Images/2024-10-2_16.19.37.png"
+    },
+    {
+      "name": "2024-10-2_16.20.3.png",
+      "basename": "2024-10-2_16.20.3",
+      "relativePath": "Extras/Images/2024-10-2_16.20.3.png"
+    },
+    {
+      "name": "2024-10-2_16.48.12.png",
+      "basename": "2024-10-2_16.48.12",
+      "relativePath": "Extras/Images/2024-10-2_16.48.12.png"
+    },
+    {
+      "name": "2024-10-4_16.0.47.png",
+      "basename": "2024-10-4_16.0.47",
+      "relativePath": "Extras/Images/2024-10-4_16.0.47.png"
+    },
+    {
+      "name": "2024-10-5_16.39.11.png",
+      "basename": "2024-10-5_16.39.11",
+      "relativePath": "Extras/Images/2024-10-5_16.39.11.png"
+    },
+    {
+      "name": "2024-11-0_13.20.18.png",
+      "basename": "2024-11-0_13.20.18",
+      "relativePath": "Extras/Images/2024-11-0_13.20.18.png"
+    },
+    {
+      "name": "2024-11-0_14.18.57.png",
+      "basename": "2024-11-0_14.18.57",
+      "relativePath": "Extras/Images/2024-11-0_14.18.57.png"
+    },
+    {
+      "name": "2024-11-0_14.20.5.png",
+      "basename": "2024-11-0_14.20.5",
+      "relativePath": "Extras/Images/2024-11-0_14.20.5.png"
+    },
+    {
+      "name": "2024-11-0_14.47.20.png",
+      "basename": "2024-11-0_14.47.20",
+      "relativePath": "Extras/Images/2024-11-0_14.47.20.png"
+    },
+    {
+      "name": "2024-11-0_14.54.15.png",
+      "basename": "2024-11-0_14.54.15",
+      "relativePath": "Extras/Images/2024-11-0_14.54.15.png"
     },
     {
       "name": "2024-4-2_15.2.46.png",
@@ -139,6 +197,11 @@
       "relativePath": "Extras/Images/2024-4-3_12.43.12.png"
     },
     {
+      "name": "2024-4-3_16.13.24.png",
+      "basename": "2024-4-3_16.13.24",
+      "relativePath": "Extras/Images/2024-4-3_16.13.24.png"
+    },
+    {
       "name": "2024-4-3_17.14.37.png",
       "basename": "2024-4-3_17.14.37",
       "relativePath": "Extras/Images/2024-4-3_17.14.37.png"
@@ -154,14 +217,64 @@
       "relativePath": "Extras/Images/2024-4-5_18.35.54.png"
     },
     {
-      "name": "2024-4-3_16.13.24.png",
-      "basename": "2024-4-3_16.13.24",
-      "relativePath": "Extras/Images/2024-4-3_16.13.24.png"
-    },
-    {
       "name": "2024-4-5_22.12.22.png",
       "basename": "2024-4-5_22.12.22",
       "relativePath": "Extras/Images/2024-4-5_22.12.22.png"
+    },
+    {
+      "name": "2024-4-6_15.50.7.png",
+      "basename": "2024-4-6_15.50.7",
+      "relativePath": "Extras/Images/2024-4-6_15.50.7.png"
+    },
+    {
+      "name": "2024-5-3_19.38.23.png",
+      "basename": "2024-5-3_19.38.23",
+      "relativePath": "Extras/Images/2024-5-3_19.38.23.png"
+    },
+    {
+      "name": "2024-9-1_12.46.52.png",
+      "basename": "2024-9-1_12.46.52",
+      "relativePath": "Extras/Images/2024-9-1_12.46.52.png"
+    },
+    {
+      "name": "2024-9-1_12.54.34.png",
+      "basename": "2024-9-1_12.54.34",
+      "relativePath": "Extras/Images/2024-9-1_12.54.34.png"
+    },
+    {
+      "name": "2024-9-1_13.5.3.png",
+      "basename": "2024-9-1_13.5.3",
+      "relativePath": "Extras/Images/2024-9-1_13.5.3.png"
+    },
+    {
+      "name": "2024-9-1_13.5.57.png",
+      "basename": "2024-9-1_13.5.57",
+      "relativePath": "Extras/Images/2024-9-1_13.5.57.png"
+    },
+    {
+      "name": "2024-9-1_13.6.2.png",
+      "basename": "2024-9-1_13.6.2",
+      "relativePath": "Extras/Images/2024-9-1_13.6.2.png"
+    },
+    {
+      "name": "2024-9-1_15.12.4.png",
+      "basename": "2024-9-1_15.12.4",
+      "relativePath": "Extras/Images/2024-9-1_15.12.4.png"
+    },
+    {
+      "name": "2024-9-1_15.18.20.png",
+      "basename": "2024-9-1_15.18.20",
+      "relativePath": "Extras/Images/2024-9-1_15.18.20.png"
+    },
+    {
+      "name": "2024-9-1_17.31.34.png",
+      "basename": "2024-9-1_17.31.34",
+      "relativePath": "Extras/Images/2024-9-1_17.31.34.png"
+    },
+    {
+      "name": "3FDF4F27-6035-421A-B4CF-2415A05C2870.jpeg",
+      "basename": "3FDF4F27-6035-421A-B4CF-2415A05C2870",
+      "relativePath": "Extras/Images/3FDF4F27-6035-421A-B4CF-2415A05C2870.jpeg"
     },
     {
       "name": "6 : 4 por saltos- tdc.png",
@@ -194,24 +307,14 @@
       "relativePath": "Extras/Images/Alemania y Austria.png"
     },
     {
-      "name": "2024-4-6_15.50.7.png",
-      "basename": "2024-4-6_15.50.7",
-      "relativePath": "Extras/Images/2024-4-6_15.50.7.png"
-    },
-    {
-      "name": "3FDF4F27-6035-421A-B4CF-2415A05C2870.jpeg",
-      "basename": "3FDF4F27-6035-421A-B4CF-2415A05C2870",
-      "relativePath": "Extras/Images/3FDF4F27-6035-421A-B4CF-2415A05C2870.jpeg"
+      "name": "Alfabética Latina.png",
+      "basename": "Alfabética Latina",
+      "relativePath": "Extras/Images/Alfabética Latina.png"
     },
     {
       "name": "Alteracion accidental.png",
       "basename": "Alteracion accidental",
       "relativePath": "Extras/Images/Alteracion accidental.png"
-    },
-    {
-      "name": "Alfabética Latina.png",
-      "basename": "Alfabética Latina",
-      "relativePath": "Extras/Images/Alfabética Latina.png"
     },
     {
       "name": "Alteracion.png",
@@ -284,14 +387,14 @@
       "relativePath": "Extras/Images/Cadencia final dominante- tdc.png"
     },
     {
-      "name": "Cadencia final segundo- tdc.png",
-      "basename": "Cadencia final segundo- tdc",
-      "relativePath": "Extras/Images/Cadencia final segundo- tdc.png"
-    },
-    {
       "name": "Cadencia final septima- tdc.png",
       "basename": "Cadencia final septima- tdc",
       "relativePath": "Extras/Images/Cadencia final septima- tdc.png"
+    },
+    {
+      "name": "Cadencia final segundo- tdc.png",
+      "basename": "Cadencia final segundo- tdc",
+      "relativePath": "Extras/Images/Cadencia final segundo- tdc.png"
     },
     {
       "name": "Cadencia interrumpida- tdc.png",
@@ -654,14 +757,14 @@
       "relativePath": "Extras/Images/Evolucion de los neumas.png"
     },
     {
-      "name": "Falsa relacion permitida.png",
-      "basename": "Falsa relacion permitida",
-      "relativePath": "Extras/Images/Falsa relacion permitida.png"
-    },
-    {
       "name": "Falsa relacion permitida 2.png",
       "basename": "Falsa relacion permitida 2",
       "relativePath": "Extras/Images/Falsa relacion permitida 2.png"
+    },
+    {
+      "name": "Falsa relacion permitida.png",
+      "basename": "Falsa relacion permitida",
+      "relativePath": "Extras/Images/Falsa relacion permitida.png"
     },
     {
       "name": "Falsa relacion.png",
@@ -939,14 +1042,14 @@
       "relativePath": "Extras/Images/Matrices Boulez.png"
     },
     {
-      "name": "Minima.png",
-      "basename": "Minima",
-      "relativePath": "Extras/Images/Minima.png"
-    },
-    {
       "name": "Mindsets.png",
       "basename": "Mindsets",
       "relativePath": "Extras/Images/Mindsets.png"
+    },
+    {
+      "name": "Minima.png",
+      "basename": "Minima",
+      "relativePath": "Extras/Images/Minima.png"
     },
     {
       "name": "Modelo Satz desarrollado.png",
@@ -1179,19 +1282,14 @@
       "relativePath": "Extras/Images/Pasted image 20221003070905.png"
     },
     {
-      "name": "Pasted image 20221003121941.png",
-      "basename": "Pasted image 20221003121941",
-      "relativePath": "Extras/Images/Pasted image 20221003121941.png"
-    },
-    {
       "name": "Pasted image 20221003071011.png",
       "basename": "Pasted image 20221003071011",
       "relativePath": "Extras/Images/Pasted image 20221003071011.png"
     },
     {
-      "name": "Pasted image 20221003123646.png",
-      "basename": "Pasted image 20221003123646",
-      "relativePath": "Extras/Images/Pasted image 20221003123646.png"
+      "name": "Pasted image 20221003121941.png",
+      "basename": "Pasted image 20221003121941",
+      "relativePath": "Extras/Images/Pasted image 20221003121941.png"
     },
     {
       "name": "Pasted image 20221003123305.png",
@@ -1199,14 +1297,14 @@
       "relativePath": "Extras/Images/Pasted image 20221003123305.png"
     },
     {
+      "name": "Pasted image 20221003123646.png",
+      "basename": "Pasted image 20221003123646",
+      "relativePath": "Extras/Images/Pasted image 20221003123646.png"
+    },
+    {
       "name": "Pasted image 20221003123818.png",
       "basename": "Pasted image 20221003123818",
       "relativePath": "Extras/Images/Pasted image 20221003123818.png"
-    },
-    {
-      "name": "Pasted image 20221003125923.png",
-      "basename": "Pasted image 20221003125923",
-      "relativePath": "Extras/Images/Pasted image 20221003125923.png"
     },
     {
       "name": "Pasted image 20221003125821.png",
@@ -1214,14 +1312,14 @@
       "relativePath": "Extras/Images/Pasted image 20221003125821.png"
     },
     {
+      "name": "Pasted image 20221003125923.png",
+      "basename": "Pasted image 20221003125923",
+      "relativePath": "Extras/Images/Pasted image 20221003125923.png"
+    },
+    {
       "name": "Pasted image 20221003130118.png",
       "basename": "Pasted image 20221003130118",
       "relativePath": "Extras/Images/Pasted image 20221003130118.png"
-    },
-    {
-      "name": "Pasted image 20221003131006.png",
-      "basename": "Pasted image 20221003131006",
-      "relativePath": "Extras/Images/Pasted image 20221003131006.png"
     },
     {
       "name": "Pasted image 20221003130557.png",
@@ -1229,14 +1327,14 @@
       "relativePath": "Extras/Images/Pasted image 20221003130557.png"
     },
     {
+      "name": "Pasted image 20221003131006.png",
+      "basename": "Pasted image 20221003131006",
+      "relativePath": "Extras/Images/Pasted image 20221003131006.png"
+    },
+    {
       "name": "Pasted image 20221003132025.png",
       "basename": "Pasted image 20221003132025",
       "relativePath": "Extras/Images/Pasted image 20221003132025.png"
-    },
-    {
-      "name": "Pasted image 20221003132432.png",
-      "basename": "Pasted image 20221003132432",
-      "relativePath": "Extras/Images/Pasted image 20221003132432.png"
     },
     {
       "name": "Pasted image 20221003132207.png",
@@ -1244,9 +1342,14 @@
       "relativePath": "Extras/Images/Pasted image 20221003132207.png"
     },
     {
-      "name": "Pasted image 20221003134048.png",
-      "basename": "Pasted image 20221003134048",
-      "relativePath": "Extras/Images/Pasted image 20221003134048.png"
+      "name": "Pasted image 20221003132432.png",
+      "basename": "Pasted image 20221003132432",
+      "relativePath": "Extras/Images/Pasted image 20221003132432.png"
+    },
+    {
+      "name": "Pasted image 20221003132607.png",
+      "basename": "Pasted image 20221003132607",
+      "relativePath": "Extras/Images/Pasted image 20221003132607.png"
     },
     {
       "name": "Pasted image 20221003132853.png",
@@ -1254,9 +1357,19 @@
       "relativePath": "Extras/Images/Pasted image 20221003132853.png"
     },
     {
-      "name": "Pasted image 20221003132607.png",
-      "basename": "Pasted image 20221003132607",
-      "relativePath": "Extras/Images/Pasted image 20221003132607.png"
+      "name": "Pasted image 20221003134048.png",
+      "basename": "Pasted image 20221003134048",
+      "relativePath": "Extras/Images/Pasted image 20221003134048.png"
+    },
+    {
+      "name": "Pasted image 20221003134611.png",
+      "basename": "Pasted image 20221003134611",
+      "relativePath": "Extras/Images/Pasted image 20221003134611.png"
+    },
+    {
+      "name": "Pasted image 20221003134704.png",
+      "basename": "Pasted image 20221003134704",
+      "relativePath": "Extras/Images/Pasted image 20221003134704.png"
     },
     {
       "name": "Pasted image 20230208085254.png",
@@ -1269,14 +1382,9 @@
       "relativePath": "Extras/Images/Pasted image 20230208085454.png"
     },
     {
-      "name": "Pasted image 20221003134704.png",
-      "basename": "Pasted image 20221003134704",
-      "relativePath": "Extras/Images/Pasted image 20221003134704.png"
-    },
-    {
-      "name": "Pasted image 20230218203722.png",
-      "basename": "Pasted image 20230218203722",
-      "relativePath": "Extras/Images/Pasted image 20230218203722.png"
+      "name": "Pasted image 20230208090243.png",
+      "basename": "Pasted image 20230208090243",
+      "relativePath": "Extras/Images/Pasted image 20230208090243.png"
     },
     {
       "name": "Pasted image 20230212085354.png",
@@ -1284,14 +1392,9 @@
       "relativePath": "Extras/Images/Pasted image 20230212085354.png"
     },
     {
-      "name": "Pasted image 20230208090243.png",
-      "basename": "Pasted image 20230208090243",
-      "relativePath": "Extras/Images/Pasted image 20230208090243.png"
-    },
-    {
-      "name": "Pasted image 20221003134611.png",
-      "basename": "Pasted image 20221003134611",
-      "relativePath": "Extras/Images/Pasted image 20221003134611.png"
+      "name": "Pasted image 20230218203722.png",
+      "basename": "Pasted image 20230218203722",
+      "relativePath": "Extras/Images/Pasted image 20230218203722.png"
     },
     {
       "name": "Pasted image 20230218203728.png",
@@ -1304,9 +1407,14 @@
       "relativePath": "Extras/Images/Pasted image 20230218204026.png"
     },
     {
-      "name": "Pasted image 20230526111336.png",
-      "basename": "Pasted image 20230526111336",
-      "relativePath": "Extras/Images/Pasted image 20230526111336.png"
+      "name": "Pasted image 20230323073913.png",
+      "basename": "Pasted image 20230323073913",
+      "relativePath": "Extras/Images/Pasted image 20230323073913.png"
+    },
+    {
+      "name": "Pasted image 20230505191259.png",
+      "basename": "Pasted image 20230505191259",
+      "relativePath": "Extras/Images/Pasted image 20230505191259.png"
     },
     {
       "name": "Pasted image 20230526110352.png",
@@ -1314,14 +1422,19 @@
       "relativePath": "Extras/Images/Pasted image 20230526110352.png"
     },
     {
+      "name": "Pasted image 20230526111336.png",
+      "basename": "Pasted image 20230526111336",
+      "relativePath": "Extras/Images/Pasted image 20230526111336.png"
+    },
+    {
+      "name": "Pasted image 20230803090502.png",
+      "basename": "Pasted image 20230803090502",
+      "relativePath": "Extras/Images/Pasted image 20230803090502.png"
+    },
+    {
       "name": "Penultimo compas- tdc.png",
       "basename": "Penultimo compas- tdc",
       "relativePath": "Extras/Images/Penultimo compas- tdc.png"
-    },
-    {
-      "name": "Pasted image 20230505191259.png",
-      "basename": "Pasted image 20230505191259",
-      "relativePath": "Extras/Images/Pasted image 20230505191259.png"
     },
     {
       "name": "Perfeccion.png",
@@ -1339,11 +1452,6 @@
       "relativePath": "Extras/Images/Periodo repeticion.png"
     },
     {
-      "name": "Pasted image 20230803090502.png",
-      "basename": "Pasted image 20230803090502",
-      "relativePath": "Extras/Images/Pasted image 20230803090502.png"
-    },
-    {
       "name": "Periodo y frecuencia.png",
       "basename": "Periodo y frecuencia",
       "relativePath": "Extras/Images/Periodo y frecuencia.png"
@@ -1354,19 +1462,14 @@
       "relativePath": "Extras/Images/Pes.png"
     },
     {
-      "name": "Porrectus.png",
-      "basename": "Porrectus",
-      "relativePath": "Extras/Images/Porrectus.png"
-    },
-    {
       "name": "Piramide de elementos compositivos.png",
       "basename": "Piramide de elementos compositivos",
       "relativePath": "Extras/Images/Piramide de elementos compositivos.png"
     },
     {
-      "name": "Pasted image 20230323073913.png",
-      "basename": "Pasted image 20230323073913",
-      "relativePath": "Extras/Images/Pasted image 20230323073913.png"
+      "name": "Porrectus.png",
+      "basename": "Porrectus",
+      "relativePath": "Extras/Images/Porrectus.png"
     },
     {
       "name": "Prefranconiana.png",
@@ -1439,11 +1542,6 @@
       "relativePath": "Extras/Images/Quintas consecutivas permitidas- tdc.png"
     },
     {
-      "name": "Quintas directas- tdc.png",
-      "basename": "Quintas directas- tdc",
-      "relativePath": "Extras/Images/Quintas directas- tdc.png"
-    },
-    {
       "name": "Quintas dos blancas- tdc.png",
       "basename": "Quintas dos blancas- tdc",
       "relativePath": "Extras/Images/Quintas dos blancas- tdc.png"
@@ -1457,6 +1555,11 @@
       "name": "Quintas no consecutivas- tdc.png",
       "basename": "Quintas no consecutivas- tdc",
       "relativePath": "Extras/Images/Quintas no consecutivas- tdc.png"
+    },
+    {
+      "name": "Quintas directas- tdc.png",
+      "basename": "Quintas directas- tdc",
+      "relativePath": "Extras/Images/Quintas directas- tdc.png"
     },
     {
       "name": "Quintas orden inverso- tdc.png",
@@ -1769,6 +1872,11 @@
       "relativePath": "Extras/Images/Virgas.png"
     },
     {
+      "name": "Zettelkasten writing jump stage 1.png",
+      "basename": "Zettelkasten writing jump stage 1",
+      "relativePath": "Extras/Images/Zettelkasten writing jump stage 1.png"
+    },
+    {
       "name": "Zettelkasten writing lump stage 1.png",
       "basename": "Zettelkasten writing lump stage 1",
       "relativePath": "Extras/Images/Zettelkasten writing lump stage 1.png"
@@ -1779,24 +1887,19 @@
       "relativePath": "Extras/Images/alfabetica comun.png"
     },
     {
-      "name": "ejercicio resuelto.png",
-      "basename": "ejercicio resuelto",
-      "relativePath": "Extras/Images/ejercicio resuelto.png"
-    },
-    {
       "name": "ejemplo 1.png",
       "basename": "ejemplo 1",
       "relativePath": "Extras/Images/ejemplo 1.png"
     },
     {
+      "name": "ejercicio resuelto.png",
+      "basename": "ejercicio resuelto",
+      "relativePath": "Extras/Images/ejercicio resuelto.png"
+    },
+    {
       "name": "extensio fracti.png",
       "basename": "extensio fracti",
       "relativePath": "Extras/Images/extensio fracti.png"
-    },
-    {
-      "name": "Zettelkasten writing jump stage 1.png",
-      "basename": "Zettelkasten writing jump stage 1",
-      "relativePath": "Extras/Images/Zettelkasten writing jump stage 1.png"
     },
     {
       "name": "fractio modi.png",
@@ -1824,9 +1927,14 @@
       "relativePath": "Spaces/My School/My Assignments/context.mdb"
     },
     {
-      "name": "sync",
-      "basename": "sync",
-      "relativePath": "sync"
+      "name": "y",
+      "basename": "y",
+      "relativePath": "y"
+    },
+    {
+      "name": "y.pub",
+      "basename": "y",
+      "relativePath": "y.pub"
     }
   ]
 }

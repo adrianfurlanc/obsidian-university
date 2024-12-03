@@ -5,7 +5,7 @@ tags:
   - analisis2
 Created: 2024-05-01 12:50
 Tema: "5"
-modified: 2024-05-02T13:44:34+02:00
+modified: 2024-06-23T13:59:24+02:00
 Status: 🟥
 Semester: 4
 ---
@@ -32,7 +32,7 @@ La Coda aparece después del segundo temas conclusivos de la Recapitulación
 
 La Opertura es parte de la exposición
 
-En sus últimos años Beethoven pasó a componer música del barroco. (fugas) Introducir formas barroas al Clacisismo.
+En sus últimos años Beethoven pasó a componer música del barroco. (fugas) Introducir formas barrocas al Clacisismo.
 
 El clímax de la sonata si es en tonalidad mayor es el grado VI o su dominante respectiva. Si la tonalidad es menor es su propio V.
 

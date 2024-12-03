@@ -1,11 +1,11 @@
 ---
-Course: "[[Historia de la Música II]]"
+Course: "[[Historia de la Música siglo XX y XXI]]"
 tags:
   - "#lecture"
   - historia3
 Created: 2024-05-31 14:48
 Tema: "7"
-modified: 2024-05-31T18:38:19+02:00
+modified: 2024-06-05T16:25:06+02:00
 Status: 🟥
 Semester: 4
 ---

@@ -5,7 +5,7 @@ tags:
   - "#lecture"
 Created: 2024-01-17 11:16
 Tema: "9"
-modified: 2024-03-01T13:52:50+01:00
+modified: 2024-08-28T19:54:00+02:00
 Status: "#🟨"
 ---
 
@@ -41,11 +41,18 @@ El concerto no es una obra polifónica pero sí tiene influencias de la fuga. La
 
 El **concerto grosso** es el más antiguo. Suele ser concertino-tutti, es decir todos y el concertino un grupo pequeño de solistas y el **concerto solista** es lo mismo pero el concertino es un solo solista.
 
-La diferencia entre una suite instrumento y un concerto en forma de suite es que el concerto en forma de suite es con orquesta. La suite es para un solo instrumento.
-
-El estilo ritornello no tiene dobles barras porque es alternancia entre ritornello y episodio.
 
 El estilo ritornello toma la forma de la fuga.
+
+#### Concerto en forma de Suite
+
+- Esquema en cuatro movimientos: (Grave-Allegro-Adagio-Allegro).
+- Esquema en forma de *suite*: (Preludio, Allemande, Courante, Sarabande, Gavotte, Gigue).
+- Esquema en tres tiempos, con estilo ritornello: (Allegro-Adagio-Allegro).
+
+La diferencia entre una suite instrumental y un concerto en forma de suite es que el concerto en forma de suite es con orquesta. La suite es para un solo instrumento.
+
+El estilo ritornello no tiene dobles barras porque es alternancia entre ritornello y episodio.
 
 #### Estilo ritornello 
 
@@ -56,24 +63,13 @@ Los episodios siempre son libres mientras que los ritornello tienen estructura. 
 Los ritornellos no se escuchan todos enteros. El del primero y el final sí pero los del medio aparte de cambiar de tonalidad puede salir solo un trocito.
 
 La estructura del ritornello tiene 3 partes
-- Frase principal en la tonalidad principal donde se expone el tema principal del ritornello.
- - Fortspinnung: sección de secuencia armónica, generalmente por cuartas o quintas, y desarrollo melódico de la frase anterior. Le da movimiento sin modular. (do-fa-si-mi-la-re-sol-do)
-- Epílogo o cadena: vuelta al tema principal del ritornello y cadencia sobre la tonalidad principal previa al inicio del episodio.
+- Frase principal en la tonalidad principal donde se expone el tema principal del ritornello. (*Vordersatz*)
+ - *Fortspinnung*: sección de secuencia armónica, generalmente por cuartas o quintas, y desarrollo melódico de la frase anterior. Le da movimiento a la armonía sin modular. (do-fa-si-mi-la-re-sol-do)
+- Epílogo o cadencia: vuelta al tema principal del ritornello y cadencia sobre la tonalidad principal previa al inicio del episodio.
 
 En las tonalidades vecinas no se componen ni en el III ni en el VII grado. El III grado no porque contiene dos notas de la tónica y dos notas de la dominante. (función ambigua).
 
 Las tonalidades vecinas son el V, el VI, el IV y con mucho menos frecuencia el II. (en menor al II nunca - por ser semidisminuido)
-
-
-
-
-
-
-
-
-
-
-
 
 
 

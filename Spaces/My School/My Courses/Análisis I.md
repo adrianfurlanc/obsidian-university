@@ -5,9 +5,9 @@ Semester: 1
 Year: 2
 Summary: Análisis
 Created: 2023-10-04 19:59
-modified: 2024-06-04T19:25:52+02:00
+modified: 2024-08-12T17:22:37+02:00
 ---
-\_Tags::  #course
+\_Tags::  #course #extra
 \_Links::  [[My Courses]]
 ___
 

@@ -10,7 +10,7 @@ tags:
   - "#historia"
 Created: 2023-11-08 17:52
 Tema: "2"
-modified: 2024-03-01T14:05:10+01:00
+modified: 2024-07-22T18:21:42+02:00
 ---
 \_Status:: #🟧
 \_Tags::  #i/unir
@@ -53,7 +53,9 @@ La música de Giovanni Battista Platti presenta una estructura de frases breves
 
 Por su parte, en Baldassare Galuppi las melodías de sus obras tienen un cierto paralelismo con las líneas melódicas operísticas de una soprano y su discurso está lleno de contrastes, como la repetición de pasajes, pero en modo menor.
 
-Las sonatas de Domenico Paradisi constan de dos movimientos y están compuestas con variaciones muy sutiles y con una presencia implícita del contraste en primer y segundo tema, especialmente en los movimientos rápidos. Por último, las primeras sonatas de Giovanni Marco Rutini presentan algunas características originales como la interrupción del discurso musical mediante acordes disonantes de séptima disminuida, algunos recitativos instrumentales y el uso de pasajes en tonalidades menores
+Las sonatas de Domenico Paradisi constan de dos movimientos y están compuestas con variaciones muy sutiles y con una presencia implícita del contraste en primer y segundo tema, especialmente en los movimientos rápidos. 
+
+Por último, las primeras sonatas de Giovanni Marco Rutini presentan algunas características originales como la interrupción del discurso musical mediante acordes disonantes de séptima disminuida, algunos recitativos instrumentales y el uso de pasajes en tonalidades menores
 
 Aparte del foco italiano hubo también un importante centro de producción de música para teclado en Alemania. De entre los principales compositores sobresalieron, entre otros, los hijos de Bach:
 

@@ -5,8 +5,8 @@ tags:
   - empresa
 Created: 2024-05-02 16:53
 Tema: "7"
-modified: 2024-05-02T18:18:21+02:00
-Status: 🟥
+modified: 2024-06-21T15:56:02+02:00
+Status: 🟨
 Semester: 4
 ---
 Links:: [[My Lectures]]

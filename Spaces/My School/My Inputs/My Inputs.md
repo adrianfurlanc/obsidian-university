@@ -2,7 +2,7 @@
 semester: 3
 Links: "[[My School|🏫 My School]]"
 Tags: "#🔍"
-modified: 2024-05-21T12:58:56+02:00
+modified: 2024-08-27T14:42:18+02:00
 ---
 \_Tags::  #🔍 
 \_Links::  [[My School|🏫 My School]]

@@ -139,9 +139,6 @@ function destroy_each(iterations, detaching) {
 function element(name) {
   return document.createElement(name);
 }
-function svg_element(name) {
-  return document.createElementNS("http://www.w3.org/2000/svg", name);
-}
 function text(data) {
   return document.createTextNode(data);
 }
@@ -177,89 +174,6 @@ function set_style(node, key, value, important) {
 function custom_event(type, detail, { bubbles = false, cancelable = false } = {}) {
   return new CustomEvent(type, { detail, bubbles, cancelable });
 }
-var HtmlTag = class {
-  constructor(is_svg = false) {
-    /**
-     * @private
-     * @default false
-     */
-    __publicField(this, "is_svg", false);
-    /** parent for creating node */
-    __publicField(this, "e");
-    /** html tag nodes */
-    __publicField(this, "n");
-    /** target */
-    __publicField(this, "t");
-    /** anchor */
-    __publicField(this, "a");
-    this.is_svg = is_svg;
-    this.e = this.n = null;
-  }
-  /**
-   * @param {string} html
-   * @returns {void}
-   */
-  c(html) {
-    this.h(html);
-  }
-  /**
-   * @param {string} html
-   * @param {HTMLElement | SVGElement} target
-   * @param {HTMLElement | SVGElement} anchor
-   * @returns {void}
-   */
-  m(html, target, anchor = null) {
-    if (!this.e) {
-      if (this.is_svg)
-        this.e = svg_element(
-          /** @type {keyof SVGElementTagNameMap} */
-          target.nodeName
-        );
-      else
-        this.e = element(
-          /** @type {keyof HTMLElementTagNameMap} */
-          target.nodeType === 11 ? "TEMPLATE" : target.nodeName
-        );
-      this.t = target.tagName !== "TEMPLATE" ? target : (
-        /** @type {HTMLTemplateElement} */
-        target.content
-      );
-      this.c(html);
-    }
-    this.i(anchor);
-  }
-  /**
-   * @param {string} html
-   * @returns {void}
-   */
-  h(html) {
-    this.e.innerHTML = html;
-    this.n = Array.from(
-      this.e.nodeName === "TEMPLATE" ? this.e.content.childNodes : this.e.childNodes
-    );
-  }
-  /**
-   * @returns {void} */
-  i(anchor) {
-    for (let i = 0; i < this.n.length; i += 1) {
-      insert(this.t, this.n[i], anchor);
-    }
-  }
-  /**
-   * @param {string} html
-   * @returns {void}
-   */
-  p(html) {
-    this.d();
-    this.h(html);
-    this.i(this.a);
-  }
-  /**
-   * @returns {void} */
-  d() {
-    this.n.forEach(detach);
-  }
-};
 function get_custom_elements_slots(element2) {
   const result = {};
   element2.childNodes.forEach(
@@ -2616,11 +2530,9 @@ function create_if_block_3(ctx) {
 }
 function create_if_block_2(ctx) {
   let span1;
-  let t0_value = " ";
-  let t0;
+  let t_value = " ";
+  let t;
   let span0;
-  let t1;
-  let html_tag;
   let raw_value = highlightMatches(
     "aliases",
     /*aliases*/
@@ -2631,20 +2543,16 @@ function create_if_block_2(ctx) {
   return {
     c() {
       span1 = element("span");
-      t0 = text(t0_value);
+      t = text(t_value);
       span0 = element("span");
-      t1 = text("@");
-      html_tag = new HtmlTag(false);
-      html_tag.a = null;
       attr(span0, "class", "alias");
       attr(span1, "class", "suggestion-note qsp-note");
     },
     m(target, anchor) {
       insert(target, span1, anchor);
-      append(span1, t0);
+      append(span1, t);
       append(span1, span0);
-      append(span0, t1);
-      html_tag.m(raw_value, span0);
+      span0.innerHTML = raw_value;
     },
     p(ctx2, dirty) {
       if (dirty[0] & /*searchResults*/
@@ -2655,7 +2563,8 @@ function create_if_block_2(ctx) {
         /*matches*/
         ctx2[33]
       ) + ""))
-        html_tag.p(raw_value);
+        span0.innerHTML = raw_value;
+      ;
     },
     d(detaching) {
       if (detaching) {
@@ -2966,7 +2875,7 @@ function instance($$self, $$props, $$invalidate) {
           }
           if (settings === null || settings === void 0 ? void 0 : settings.enableAliasSearch) {
             const fileCache = app.metadataCache.getFileCache(file);
-            if ((_c = fileCache === null || fileCache === void 0 ? void 0 : fileCache.frontmatter) === null || _c === void 0 ? void 0 : _c.aliases) {
+            if (((_c = fileCache === null || fileCache === void 0 ? void 0 : fileCache.frontmatter) === null || _c === void 0 ? void 0 : _c.aliases) && fileCache.frontmatter.aliases.length > 0) {
               aliases = "@" + fileCache.frontmatter.aliases.join(" @");
             }
           }

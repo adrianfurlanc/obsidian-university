@@ -5,10 +5,10 @@ tags:
   - "#lecture"
 Created: 2024-01-15 17:40
 Tema: "8"
-modified: 2024-03-01T13:53:02+01:00
+modified: 2024-08-07T13:44:20+02:00
 Status: "#🟨"
 ---
-\_Tags::  #lecture 
+Tags::  #lecture 
 Links:: [[My Lectures]]
 ___
 
@@ -101,7 +101,7 @@ La música alemana como tal no existe para el siglo XVIII
 
 Una suite es simétrica si hay simetría en el final de la dos partes.
 
-
+En la Coda la cadencia no se repite.
 
 
 

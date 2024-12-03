@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "407d735f19307e4f",
+        "id": "317638226c0bf2b6",
         "type": "tabs",
         "children": [
           {
-            "id": "e2fcef9a862aa8d2",
+            "id": "0ee827fcfdf68866",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏠 My Home.md",
+                "file": "Spaces/My School/My Lectures/Politonalidad, pantonalidad y otros sistemas - L.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Politonalidad, pantonalidad y otros sistemas - L"
             }
           }
         ]
@@ -37,15 +39,19 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
-            "id": "12768664b0e0eb57",
+            "id": "3df5e83fe4f0914a",
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -60,13 +66,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "assignment",
+                "query": "examen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,8 +83,10 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "byCreatedTime"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -87,10 +97,13 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏠 My Home.md",
+                "file": "Spaces/My School/My Concepts/El fin del mecenazgo musical.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for El fin del mecenazgo musical"
             }
           },
           {
@@ -127,10 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🏠 My Home.md",
+                "file": "Spaces/My School/My Concepts/El fin del mecenazgo musical.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from El fin del mecenazgo musical"
             }
           },
           {
@@ -138,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "Strange New Worlds",
-              "state": {}
+              "state": {},
+              "icon": "file-digit",
+              "title": "Strange New Worlds"
             }
           },
           {
@@ -150,7 +169,9 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -159,8 +180,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "🏠 My Home.md"
-              }
+                "file": "Spaces/My School/My Lectures/Pasando a la acción I. Composición para un corto de animación - L.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Pasando a la acción I. Composición para un corto de animación - L"
             }
           },
           {
@@ -168,10 +191,13 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "e2182da6534c8d08",
@@ -183,8 +209,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏠 My Home.md"
-              }
+                "file": "Spaces/My School/My Lectures/Pasando a la acción I. Composición para un corto de animación - L.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Pasando a la acción I. Composición para un corto de animación - L"
             }
           },
           {
@@ -193,7 +221,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "🏠 My Home.md",
+                "file": "Spaces/My School/My Concepts/El fin del mecenazgo musical.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,86 +247,80 @@
                   "scale": 0.8854674932955561,
                   "close": true
                 }
-              }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of El fin del mecenazgo musical"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 395.5
+    "width": 395.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "janitor:Janitor: scan vault": false,
-      "templates:Insert template": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "daily-notes:Open today's daily note": false,
-      "workspaces:Manage workspace layouts": false,
-      "smart-random-note:Open Random Note from Search": false,
-      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
-      "media-extended:Open media": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "obsidian-kanban:Create new board": false,
-      "open-vscode:VSCode": false,
-      "obsidian42-brat:BRAT": false,
-      "obsidian-book-search-plugin:Create new book note": false,
-      "omnisearch:Omnisearch": false
+      "janitor:Janitor: scan vault": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "omnisearch:Omnisearch": false,
+      "media-extended:Open media": false,
+      "cmdr:Open another vault": false
     }
   },
-  "active": "e2fcef9a862aa8d2",
+  "active": "0ee827fcfdf68866",
   "lastOpenFiles": [
-    "Notes/Dataview Plugin.md",
-    "🏠 My Home.md",
-    "Notes/How To Identify Note Type And Status.md",
-    "Notes/Managing the different note types.md",
-    "Notes/Metadata Menu Plugin.md",
-    "Notes/Note Explanations.md",
-    "Notes/Module - The Seven Obsidian Plug Ins That Will Explode Your Notetaking.md",
-    "Notes/Why Student’s Waste Their Semesters.md",
-    "Notes/The Cookie Cutter Student Mindset.md",
-    "Notes/The 3 Step Process I Use To Write Essays In Record Time With My Obsidian Notes.md",
-    "Notes/Templater Plugin.md",
-    "Notes/Obsidian Core Features.md",
-    "Notes/QuickAdd Plugin.md",
-    "Extras/Templates/Periodic/Weekly Review Template.md",
-    "Notes/Module - How To Easily Personalize Obsidian For School.md",
-    "Notes/Responses to Lesson Action Items.md",
-    "Spaces/My School/My Assignments/Research paper on an important figure.md",
-    "Spaces/My School/My Courses/Notación y Transcripción.md",
-    "Spaces/My School/My Essays/My Essays.md",
-    "Spaces/My School/My School.md",
-    "🎓 Obsidian University MOC.md",
-    "Spaces/My School/My Concepts/Examenes online UNIR.md",
-    "Notes/5 Levels of Idea Emergence Creation Checklist.md",
-    "Spaces/My School/My Lectures/My Lectures.md",
-    "Notes/My Hotkeys.md",
-    "Notes/Module - Learning Obsidian Core Features.md",
+    "Extras/Images/2024-11-2_12.58.36.png",
+    "y.pub",
+    "y",
+    "README.md",
+    "Spaces/My School/My Courses/Composición I.md",
+    "Spaces/My School/My Lectures/Politonalidad, pantonalidad y otros sistemas - L.md",
+    "Spaces/My School/My Courses/My Courses.md",
+    "Spaces/My School/My Lectures/La modulación de amplitud - L.md",
+    "Spaces/My School/My Courses/Síntesis de sonido.md",
+    "Spaces/My School/My Inputs/La modulación de amplitud.md",
+    "Extras/Images/2024-11-0_13.20.18.png",
+    "Extras/Images/2024-11-0_14.47.20.png",
+    "Extras/Images/2024-11-0_14.18.57.png",
+    "Extras/Images/2024-11-0_14.20.5.png",
+    "Extras/Images/2024-11-0_14.54.15.png",
+    "Spaces/My School/My Courses/Historia de la Música II.md",
+    "Spaces/My School/My Inputs/La transición del Clasicismo al Romanticismo.md",
+    "Spaces/My School/My Inputs/El Clasicismo vienés.md",
+    "Spaces/My School/My Lectures/La transición del Clasicismo al Romanticismo -  Ludwig van Beethoven - L.md",
+    "Spaces/My School/My Lectures/El Clasicismo vienés - L.md",
+    "Spaces/My School/My Courses/Instrumentación y Orquestación.md",
+    "Spaces/My School/My Lectures/Instrumentos de cuerda frotada - L.md",
+    "Spaces/My School/My Inputs/Instrumentos de cuerda frotada.md",
+    "Spaces/My School/My Inputs/Claves sobre la ópera II..md",
+    "Spaces/My School/My Lectures/Pasando a la acción I. Composición para un corto de animación - L.md",
+    "Spaces/My School/My Courses/Música Para la Escena .md",
+    "Spaces/My School/My Lectures/Claves sobre la ópera II - L.md",
+    "Spaces/My School/My Inputs/Claves sobre la ópera I.md",
+    "Spaces/My School/My Lectures/Claves sobre la ópera I - L.md",
+    "1.Inbox/Música Para la Escena.md",
+    "1.Inbox/Audición de HM2.md",
+    "1.Inbox/Actividad 1 - Escena.md",
+    "1.Inbox/Trippy —.md",
+    "Extras/Images/2024-10-0_16.16.16.png",
+    "Extras/Images/2024-10-5_16.39.11.png",
+    "Extras/Images/2024-10-2_16.48.12.png",
+    "Extras/Images/2024-10-2_16.20.3.png",
+    "Extras/Images/2024-10-2_16.19.37.png",
+    "1.Inbox",
     "Note-Making Station.canvas",
     "sync",
-    "Extras/Images/2024-4-3_12.43.12.png",
-    "Extras/Images/2024-4-3_17.14.37.png",
-    "Extras/Images/2024-4-3_16.13.24.png",
-    "Extras/Images/2024-4-2_16.18.56.png",
-    "Extras/Images/2024-4-2_16.15.24.png",
-    "Extras/Images/2024-4-2_16.14.20.png",
-    "Extras/Images/2024-4-2_17.8.12.png",
-    "Extras/Images/2024-4-2_16.23.27.png",
-    "Extras/Images/2024-4-2_15.2.46.png",
-    "Extras/Images/2024-4-5_22.12.22.png",
     "Spaces/My School/My Lectures/De 1960",
     "Extras/Images/Obsidian Images",
     "Spaces/My School/My Lectures/La música después de la Segunda Guerra Mundial hasta 1960",
     "Spaces/My School/My Inputs/La música después de la Segunda Guerra Mundial hasta 1960",
     "Beethoven - Sonata Op.27",
     "Spaces/My School/My Inputs/Armonía I",
-    "Spaces/My School/My Inputs/Historia",
-    "Spaces/Assignments",
-    "Untitled.canvas",
-    "Atlas/MOCs"
+    "Untitled.canvas"
   ]
 }
