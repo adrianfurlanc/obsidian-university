@@ -11,8 +11,6 @@ Status: 🟨
 Links:: [[My Lectures]]
 ___
 
-## Summary
-
 ## Notes
 
 ### Cifrado armónico

@@ -13,8 +13,6 @@ modified: 2024-04-21T19:13:02+02:00
 Semester: 4
 ---
 
-## Summary
-
 
 ## Notes
 

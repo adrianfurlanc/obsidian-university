@@ -14,8 +14,6 @@ Semester: 4
 ---
 Links:: [[Contrapunto riguroso IV - Tercera especie]]
 
-## Summary
-
 
 ## Notes
 

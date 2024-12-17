@@ -9,12 +9,9 @@ tags:
   - historia3
 Created: 2024-05-03 12:05
 Tema: "4"
-modified: 2024-05-03T14:42:11+02:00
+modified: 2024-12-17T12:12:47+01:00
 Semester: 4
 ---
-## Summary
-
-
 ## Notes
 
 ### Innovaciones en la textura y la forma: micropolifonía y música estocástica

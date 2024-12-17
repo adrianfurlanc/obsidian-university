@@ -12,8 +12,6 @@ Semester: 4
 Links:: [[My Lectures]]
 ___
 
-## Summary
-
 ## Notes
 
 Las paredes que son paralelos pueden presentar problemas (las ondas rebotan - desfase)

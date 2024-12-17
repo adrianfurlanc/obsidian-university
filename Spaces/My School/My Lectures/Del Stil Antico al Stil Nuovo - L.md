@@ -13,8 +13,6 @@ Status: "#🟨"
 Links:: [[My Lectures]]
 ___
 
-## Summary
-
 ## Notes
 La polifonía del Renacimiento culmina en el siglo XVII. No vuelve a ser el estilo preminente nunca más.
 

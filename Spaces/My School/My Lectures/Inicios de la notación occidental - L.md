@@ -12,8 +12,6 @@ ___
 
 \_Course::  [[Notación y Transcripción]]
 
-## Summary
-
 Exposición de la notación de la Antiguedad Griega y la Edad Media.
 
 ## Notes

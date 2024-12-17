@@ -12,8 +12,6 @@ Semester: 4
 Links:: [[My Lectures]]
 ___
 
-## Summary
-
 ## Notes
 
 ### Contexto socio-cultural: la Guerra Fría y sus consecuencias

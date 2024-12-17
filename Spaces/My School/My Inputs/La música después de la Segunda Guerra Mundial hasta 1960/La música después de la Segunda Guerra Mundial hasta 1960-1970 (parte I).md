@@ -9,12 +9,9 @@ tags:
   - historia3
 Created: 2024-04-13 13:57
 Tema: "3"
-modified: 2024-04-21T18:37:40+02:00
+modified: 2024-12-17T12:10:58+01:00
 Semester: 4
 ---
-## Summary
-
-
 ## Notes
 
 ### Contexto socio-cultural: la Guerra Fría y sus consecuencias

@@ -5,7 +5,7 @@ tags:
   - orquestacion
 Created: 2024-11-19 16:06
 Tema: "4"
-modified: 2024-11-28T12:58:14+01:00
+modified: 2024-12-05T13:49:08+01:00
 Status: 🟥
 Semester: 4
 ---
@@ -42,7 +42,7 @@ En las cuerdas lo más importante es el dominio del arco y la afinación
 
 Es lo que no es legato. 
 
-Si no tiene ligadura es no legato.
+Si no tiene ligadura es non legato.
 
 #### Staccato
 
@@ -72,12 +72,42 @@ Cuando hay un divisi o dobles cuerdas es para hacer una textura uniforme durante
 
 Suena infinitamente más grande porque se dedica a llevar la gente al límite.  
 
-Actividad 1
-Concerto Grosso. Tendrá un ritornello y un episodio (a lo mejor viene un segundo ritornello)
-
 Todos los instrumentos tienen la misma importancia
 
 La eroica es la primera sinfonia que usa una tercera trompa.
+
+### Violoncello
+
+Cuerdas al aire (Do, Sol, Re, La)
+
+Cello y contrabajo se separan en la cuarta sinfonia de beethoven (principios del siglo XIX)
+
+A veces se puede considerar un instrumento melódico. De hecho puede ser un solo (éste suele hacerse en el registro agudo)
+
+Se usa Clave de Fa. Clave de Do en cuarta para registros agudos (sube la tesitura)
+
+### Contrabajo
+
+Cuerdas al aire (Mi, La, Re, Sol). La cuerda Do aparece cuando aparece un contrabajp con 5 cuerdas.
+
+Se usa la clave de Fa.
+
+Se lee en la misma partitura que el cello pero una octava más abajo de él mismo.
+
+El arco alemán se coge al reves de un violinista (con la palma de la mano hacia arriba)
+
+El arco francés se toca como lo cogería un violinista
+
+Solo puede usar sólo un tipo de estos arcos.
+
+
+A 2 dos indica unísono. Las plicas hacia arriba implican voces separadas.
+
+Las cuerdas son la mas homogenea. Las cuerdas van a ser un gran acompañador.
+
+El trino son dos notas conjuntas
+
+El trémolo pueden ser cuando las dos notas están separadas.
 
 
 

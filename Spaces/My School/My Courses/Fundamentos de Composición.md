@@ -4,16 +4,14 @@ Tags: "#course"
 Professor: José Luis Centeno
 Semester: 1
 Year: 2
-Summary: Composición
 Created: 2023-10-16 11:42
-modified: 2024-06-04T19:27:40+02:00
+modified: 2024-12-17T12:17:33+01:00
 ---
 \_Tags::  #course
 \_Links::  [[My Courses]]
 ___
 
 ## Info
-\_Summary::  Composición
 \_Year:: 2
 \_Semester:: 1
 \_Professor:: José Luis Centeno

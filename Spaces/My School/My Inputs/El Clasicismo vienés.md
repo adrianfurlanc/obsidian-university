@@ -10,7 +10,7 @@ tags:
   - historia
 Created: 2023-11-15 15:33
 Tema: "4"
-modified: 2024-08-13T12:53:33+02:00
+modified: 2024-12-09T15:01:39+01:00
 ---
 \_Status:: #🟥
 \_Tags::  #i/unir
@@ -33,7 +33,7 @@ Comienza componiendo en los estilos barroco y galante que después irán evolu
 
 Hay en sus sinfonías una deuda de la estructura de la sonata da chiesa y un intercambio de las formas de sinfonía y de concierto
 
-Una de sus obras de esta etapa es la sinfonía No 6 en re mayor («*Le matin*», Hob. I:6
+Una de sus obras de esta etapa es la sinfonía No 6 en re mayor («*Le matin*», Hob. I:6)
 
 #### Segunda etapa (1770-1780)
 Desarrolla las posibilidades de la forma sonata, de los cuartetos de cuerda y de los colores orquestales, aparte de su producción de ópera y música teatral.

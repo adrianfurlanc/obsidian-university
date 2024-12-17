@@ -12,8 +12,6 @@ Semester: 4
 Links:: [[My Lectures]]
 ___
 
-## Summary
-
 ## Notes
 
 Interferencia constructiva es cuando dos ondas son iguales. Éstas se suman

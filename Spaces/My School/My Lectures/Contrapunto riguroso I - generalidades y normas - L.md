@@ -12,8 +12,6 @@ Semester: 4
 Links:: [[My Lectures]]
 ___
 
-## Summary
-
 ## Notes
 
 Cuando si una voz se mueve, la otra se detiene (suelen ser figuras más largas, redondas o blancas). Puede ser puntual o más extensa, pero pueden haber momentos de coincidencia.

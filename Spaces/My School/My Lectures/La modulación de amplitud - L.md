@@ -5,11 +5,11 @@ tags:
   - sintesis
 Created: 2024-12-01 13:13
 Tema: "5"
-modified: 2024-12-01T22:22:57+01:00
+modified: 2024-12-04T17:07:42+01:00
 Status: 🟥
 Semester: 4
 ---
-Links:: [[My Lectures]]
+ Links:: [[My Lectures]]
 ___
 ## Notes
 

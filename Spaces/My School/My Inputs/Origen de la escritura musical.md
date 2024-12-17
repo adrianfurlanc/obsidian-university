@@ -19,8 +19,6 @@ ___
 \_Source:: UNIR 
 \_Course:: [[Notación y Transcripción]]
 
-## Summary
-
 
 ## Notes
 

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "317638226c0bf2b6",
+        "id": "8eca33ce145372c0",
         "type": "tabs",
         "children": [
           {
-            "id": "0ee827fcfdf68866",
+            "id": "5e689daaf2275650",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/My School/My Lectures/Politonalidad, pantonalidad y otros sistemas - L.md",
+                "file": "Spaces/My School/My Lectures/Dodecafonismo serial - L.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Politonalidad, pantonalidad y otros sistemas - L"
+              "title": "Dodecafonismo serial - L"
             }
           }
         ]
@@ -54,7 +54,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "03195c1cb51b65ce",
@@ -66,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "examen",
+                "query": "summary",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +103,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,10 +180,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Spaces/My School/My Lectures/Pasando a la acción I. Composición para un corto de animación - L.md"
+                "file": "Spaces/My School/My Lectures/Dodecafonismo serial - L.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Pasando a la acción I. Composición para un corto de animación - L"
+              "title": "File properties for Dodecafonismo serial - L"
             }
           },
           {
@@ -209,10 +209,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/My School/My Lectures/Pasando a la acción I. Composición para un corto de animación - L.md"
+                "file": "Spaces/My School/My Lectures/Dodecafonismo serial - L.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasando a la acción I. Composición para un corto de animación - L"
+              "title": "Outline of Dodecafonismo serial - L"
             }
           },
           {
@@ -256,8 +256,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.5,
-    "collapsed": true
+    "width": 395.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -272,55 +271,55 @@
       "cmdr:Open another vault": false
     }
   },
-  "active": "0ee827fcfdf68866",
+  "active": "5e689daaf2275650",
   "lastOpenFiles": [
+    "Extras/Templates/Periodic/Weekly Review Template.md",
+    "Spaces/My School/My Courses/Filosofía.md",
+    "Extras/FileClass/course.md",
+    "🎓 Obsidian University MOC.md",
+    "Spaces/My School/My Lectures/Dodecafonismo serial - L.md",
+    "Spaces/My School/My Lectures/Atonalidad - L.md",
+    "Spaces/My School/My Courses/Composición I.md",
+    "Spaces/My School/My Inputs/Armonía del siglo XX (1ª parte) - Tonal.md",
+    "Spaces/My School/My Courses/Contrapunto.md",
+    "Spaces/My School/My Courses/Armonía I.md",
+    "Spaces/My School/My Courses/Armonía II.md",
+    "Spaces/My School/My Courses/Análisis II.md",
+    "Spaces/My School/My Courses/Análisis I.md",
+    "Spaces/My School/My Courses/Acústica Musical y Organología.md",
+    "Spaces/My School/My Courses/Síntesis de sonido.md",
+    "Extras/Templates/School/Course Template.md",
+    "Extras/Templates/Periodic/Daily Note Template.md",
+    "Spaces/My School/My Courses/Instrumentación y Orquestación.md",
+    "Spaces/My School/My Courses/Gestión de Empresas.md",
+    "Spaces/My School/My Courses/Fundamentos de Composición.md",
+    "Spaces/My School/My Courses/Notación y Transcripción.md",
+    "Spaces/My School/My Courses/Música Para la Escena .md",
+    "Spaces/My School/My Courses/Historia de la Música siglo XX y XXI.md",
+    "Spaces/My School/My Courses/Historia de la Música II.md",
+    "Spaces/My School/My Inputs/La música después de la Segunda Guerra Mundial hasta 1960/La música después de la Segunda Guerra Mundial hasta 1960-1970 (parte II).md",
+    "Spaces/My School/My Courses/My Courses.md",
+    "Spaces/My School/My Inputs/deleteSummary.zsh",
+    "Spaces/My School/deleteSummary.zsh",
+    "deleteSummary.zsh",
+    "Extras/Images/2024-11-5_10.33.10.png",
+    "Extras/Images/2024-11-4_18.50.28.png",
     "Extras/Images/2024-11-2_12.58.36.png",
     "y.pub",
     "y",
-    "README.md",
-    "Spaces/My School/My Courses/Composición I.md",
-    "Spaces/My School/My Lectures/Politonalidad, pantonalidad y otros sistemas - L.md",
-    "Spaces/My School/My Courses/My Courses.md",
-    "Spaces/My School/My Lectures/La modulación de amplitud - L.md",
-    "Spaces/My School/My Courses/Síntesis de sonido.md",
-    "Spaces/My School/My Inputs/La modulación de amplitud.md",
     "Extras/Images/2024-11-0_13.20.18.png",
     "Extras/Images/2024-11-0_14.47.20.png",
     "Extras/Images/2024-11-0_14.18.57.png",
     "Extras/Images/2024-11-0_14.20.5.png",
     "Extras/Images/2024-11-0_14.54.15.png",
-    "Spaces/My School/My Courses/Historia de la Música II.md",
-    "Spaces/My School/My Inputs/La transición del Clasicismo al Romanticismo.md",
-    "Spaces/My School/My Inputs/El Clasicismo vienés.md",
-    "Spaces/My School/My Lectures/La transición del Clasicismo al Romanticismo -  Ludwig van Beethoven - L.md",
-    "Spaces/My School/My Lectures/El Clasicismo vienés - L.md",
-    "Spaces/My School/My Courses/Instrumentación y Orquestación.md",
-    "Spaces/My School/My Lectures/Instrumentos de cuerda frotada - L.md",
-    "Spaces/My School/My Inputs/Instrumentos de cuerda frotada.md",
-    "Spaces/My School/My Inputs/Claves sobre la ópera II..md",
-    "Spaces/My School/My Lectures/Pasando a la acción I. Composición para un corto de animación - L.md",
-    "Spaces/My School/My Courses/Música Para la Escena .md",
-    "Spaces/My School/My Lectures/Claves sobre la ópera II - L.md",
-    "Spaces/My School/My Inputs/Claves sobre la ópera I.md",
-    "Spaces/My School/My Lectures/Claves sobre la ópera I - L.md",
-    "1.Inbox/Música Para la Escena.md",
-    "1.Inbox/Audición de HM2.md",
-    "1.Inbox/Actividad 1 - Escena.md",
-    "1.Inbox/Trippy —.md",
     "Extras/Images/2024-10-0_16.16.16.png",
     "Extras/Images/2024-10-5_16.39.11.png",
-    "Extras/Images/2024-10-2_16.48.12.png",
-    "Extras/Images/2024-10-2_16.20.3.png",
-    "Extras/Images/2024-10-2_16.19.37.png",
     "1.Inbox",
     "Note-Making Station.canvas",
     "sync",
     "Spaces/My School/My Lectures/De 1960",
     "Extras/Images/Obsidian Images",
     "Spaces/My School/My Lectures/La música después de la Segunda Guerra Mundial hasta 1960",
-    "Spaces/My School/My Inputs/La música después de la Segunda Guerra Mundial hasta 1960",
-    "Beethoven - Sonata Op.27",
-    "Spaces/My School/My Inputs/Armonía I",
     "Untitled.canvas"
   ]
 }

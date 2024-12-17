@@ -13,8 +13,6 @@ Status: "#🟨"
 Links:: [[My Lectures]]
 ___
 
-## Summary
-
 ## Notes
 
 La *Ciaccona* se mueve por grado conjunto de manera descendente. La *passacaglia* se mueve por saltos y usa dominantes secundarias.

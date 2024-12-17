@@ -6,9 +6,8 @@ tags:
 Professor: Alberto Rodríguez Molina
 Semester: 2
 Year: 2
-Summary: 
 Created: 2024-03-04 14:15
-modified: 2024-06-04T19:25:42+02:00
+modified: 2024-12-17T12:18:36+01:00
 ---
 \_Tags::  #course
 \_Links::  [[My Courses]]

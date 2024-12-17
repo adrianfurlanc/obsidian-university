@@ -12,8 +12,6 @@ ___
 
 \_Course::  [[Historia de la Música II]]
 
-## Summary
-
 ## Notes
 
 Género para cada instrumento (sonata para piano, cuarteto de cuerdas, [[La ópera del barroco - L#La Ópera|la ópera]] y la cantata)

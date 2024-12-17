@@ -3,7 +3,7 @@ Semester: 3
 Course: "[[Análisis I]]"
 Created: 2023-10-19 14:33
 Tema: 1
-modified: 2024-03-01T13:58:13+01:00
+modified: 2024-12-17T12:10:08+01:00
 ---
 Status:: #🟨
 Tags:: #lecture
@@ -11,11 +11,6 @@ Links:: [[My Lectures]]
 ___
 
 \_Course::  [[Análisis I]]
-
-## Summary
-- Definición de  lo que es textura y los tipos que existen.
-- Las partes en las que se desglosa el análisis musical
-
 
 ## Notes
 Melodía concebida horizontalmente

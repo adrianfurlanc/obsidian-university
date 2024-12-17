@@ -12,8 +12,6 @@ Semester: 4
  Links:: [[My Lectures]]
 ___
 
-## Summary
-
 ## Notes
 
 Al agregar armónicos lo que pasa es que la onda se va a parecer cada vez más a una onda triangular

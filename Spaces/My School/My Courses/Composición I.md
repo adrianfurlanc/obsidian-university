@@ -7,9 +7,8 @@ tags:
 Professor: Ana Vázquez Silva Silva
 Semester: 1
 Year: 3
-Summary: Composición
 Created: 2024-10-11 14:52
-modified: 2024-10-31T11:29:34+01:00
+modified: 2024-12-17T12:19:15+01:00
 ---
 
 \_Links::  [[My Courses]]

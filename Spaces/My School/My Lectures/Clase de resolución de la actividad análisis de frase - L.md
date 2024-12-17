@@ -12,8 +12,6 @@ Semester: 4
 Links:: [[My Lectures]]
 ___
 
-## Summary
-
 ## Notes
 
 Solo hay 3 acordes disminuidos. Hay 3 funciones tonales en nuestro sistema. Estos 3 acordes disminuidos son la dominante disminuida de cada uno de los 3 acordes principales de las 3 funciones I, IV y V.

@@ -7,9 +7,8 @@ tags:
 Professor: Alejandro Rodríguez Antolín
 Semester: 1
 Year: 3
-Summary: 
 Created: 2024-10-11 14:56
-modified: 2024-12-01T13:15:45+01:00
+modified: 2024-12-17T12:18:19+01:00
 ---
 \_Links::  [[My Courses]]
 ___

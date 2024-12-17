@@ -5,15 +5,13 @@ tags:
   - "#lecture"
 Created: 2023-12-05 17:04
 Tema: "5"
-modified: 2024-08-10T22:45:18+02:00
+modified: 2024-12-05T11:09:47+01:00
 Status: "#🟨"
 ---
 
 \_Tags::  #lecture 
 Links:: [[My Lectures]]
 ___
-
-## Summary
 
 ## Notes
 
@@ -28,7 +26,28 @@ Factores en el contexto histórico
 - Aumenta el público en los conciertos
 - La burguesía quiere disfrutar de la música
 
+Con el texto se expresa sonoramente lo que se dice (Madrigalismos).
+
+Ilustracion es razon y romanticismo es sentimientos
+
+la musica instrumental es mas importante que la vocal
+
+lo romantico pasaa a ser un lo caracteristico de in estilo
+
+En el siglo XIX busca innovar a partir de tiempos pasados
+
+- Tres principales contradicciones
+- Forma
+- Armonía 
+- Melodía
+
+La forma romantica tiene 2 tipos intentan basrase en obras el pasado con algo nuevo (sonata ciclic). Otra forma es crear formas distintas (pequeñas formas, lieder, etc.)
+
+La armonia se va a expander mucho mas. se va a modular a tonalidades mas lejanas. Se hace uso de acordes de séptima. Mayor contraste y variedad.
+
 ### Beethoven
+
+
 
 Fue un compositor muy renombrado.
 
@@ -36,7 +55,11 @@ Sus obras presentan las siguientes características:
 - Tiene mucho tiempo para dedicarle a sus obras (obras largas y muy trabajadas)
 - Se centra en la forma sonata (la va a ampliar dándole mayor complejidad)
 
-#### Primera etapa
+Solo tiene una opera. 
+#### Primera etapa (hasta 1802)
+
+Estudió contrapunto. Tuvo una formación muy grande. Tuvo patrocinio de varios aristocratas.
+
 Comparte mucho con Haydn y Mozart. También tiene influencias de la música de los hijos de J.S. Bach.
 
 Inicio de la sordera, cae en depresión.
@@ -47,13 +70,13 @@ Beethoven con su sonata patética hace cosas distintas. Comienza a introducir va
 
 Entre sus obras de esta época destaca la sonata "Patética"
 
-#### Segunda etapa
+#### Segunda etapa (1803 a 1814)
 
 El vibrato para esta época no era habitual. Le da calidad a los instrumentos modernos.
 
 Entre sus obras de esta época destaca la sinfonía "Eroica" ( Mucho contraste y velocidad.)
 
-#### Tercera Etapa
+#### Tercera Etapa (1815 al 1827)
 
 
 

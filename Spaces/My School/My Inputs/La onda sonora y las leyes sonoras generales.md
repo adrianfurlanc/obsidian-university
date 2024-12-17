@@ -12,8 +12,6 @@ Tema: "2"
 modified: 2024-04-14T18:21:50+02:00
 Semester: 4
 ---
-## Summary
-
 ## Notes
 
 ### Concepto de onda sonora y su generación

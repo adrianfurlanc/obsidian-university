@@ -14,8 +14,6 @@ Semester: 4
 ---
 Links:: [[Contrapunto riguroso II - generalidades y normas (continuación)]]
 
-## Summary
-
 
 ## Notes
 

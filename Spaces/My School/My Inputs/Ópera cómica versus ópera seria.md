@@ -20,8 +20,6 @@ ___
 \_Source:: UNIR 
 \_Course:: 
 
-## Summary
-
 ## Notes
 
 El auge de la ópera cómica fue una reacción a los cambios de gusto del público generado por las ideas ilustradas y los cambios sociales de la época.

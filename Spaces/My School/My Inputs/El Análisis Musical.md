@@ -20,8 +20,6 @@ ___
 \_Source:: UNIR 
 \_Course:: [[Análisis I]]
 
-## Summary
-
 Esboza los 3 distintos de análisis que se pueden realizar y los elementos y características que los componen.
 ## Notes
 

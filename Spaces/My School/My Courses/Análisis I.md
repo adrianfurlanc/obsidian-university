@@ -3,16 +3,14 @@ Tags: course
 Professor: Marta Vela González
 Semester: 1
 Year: 2
-Summary: Análisis
 Created: 2023-10-04 19:59
-modified: 2024-08-12T17:22:37+02:00
+modified: 2024-12-17T12:18:47+01:00
 ---
 \_Tags::  #course #extra
 \_Links::  [[My Courses]]
 ___
 
 ## Info
-\_Summary::  Análisis
 \_Year:: 2 
 \_Semester:: 1 
 \_Professor:: Marta Vela González

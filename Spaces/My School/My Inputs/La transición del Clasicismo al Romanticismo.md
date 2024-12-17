@@ -19,8 +19,6 @@ ___
 
 \_Source:: UNIR 
 
-## Summary
-
 
 ## Notes
 

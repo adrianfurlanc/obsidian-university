@@ -13,8 +13,6 @@ modified: 2024-04-14T20:34:56+02:00
 Semester: 4
 ---
 Links:: [[My Lectures]]
-## Summary
-
 ## Notes
 
 ### Contrapunto a dos voces

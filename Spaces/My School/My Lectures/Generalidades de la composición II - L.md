@@ -13,8 +13,6 @@ ___
 
 \_Course::  [[Fundamentos de Composición]]
 
-## Summary
-
 ## Notes
 
 ### Textura
