@@ -13,8 +13,6 @@ ___
 
 \_Course::  [[Análisis I]]
 
-## Summary
-
 ## Notes
 
 ### Renacimiento: Escuela franco-flamenca, siglo XV

@@ -4,16 +4,14 @@ Tags: "#course"
 Professor: Manuel Martínez
 Semester: 2
 Year: 1
-Summary: Principios de armonía
 Created: 2023-10-11 19:02
-modified: 2024-06-04T19:26:12+02:00
+modified: 2024-12-17T12:18:57+01:00
 ---
 \_Tags::  #course
 \_Links::  [[My Courses]]
 ___
 
 ## Info
-\_Summary::  Principios de armonía
 \_Year::  1
 \_Semester::  2
 \_Professor:: Manuel Martínez

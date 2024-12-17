@@ -11,8 +11,6 @@ Semester: 4
 Links:: [[My Lectures]]
 ___
 
-## Summary
-
 ## Notes
 
 El clacisismo es claridad, belleza y proporción.

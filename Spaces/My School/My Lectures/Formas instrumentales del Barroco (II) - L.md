@@ -12,8 +12,6 @@ Tags::  #lecture
 Links:: [[My Lectures]]
 ___
 
-## Summary
-
 ## Notes
 
 ### Sonata (italiana del siglo XVII)

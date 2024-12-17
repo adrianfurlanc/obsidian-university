@@ -12,8 +12,6 @@ ___
 
 \_Course::  [[Notación y Transcripción]]
 
-## Summary
-
 ## Notes
 
 ### Notación Neumática

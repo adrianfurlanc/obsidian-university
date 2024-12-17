@@ -15,8 +15,6 @@ ___
 
 \_Course::  [[Fundamentos de Composición]]
 
-## Summary
-
 ## Notes
 
 ![[Piramide de elementos compositivos.png]]

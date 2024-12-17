@@ -1,6 +1,8 @@
 ---
-Summary: [[<%tp.file.title%>#Summary]]
+Summary:
+  - - <%tp.file.title%>
 Created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
+modified: 2024-12-17T12:30:36+01:00
 ---
 Tags:: #reviews/weekly
 Links:: [[My Periodic Reviews]]
@@ -8,12 +10,6 @@ ___
 
 [[Calendar/WeeklyNotes/<% moment(tp.file.title, "YYYY-[W]WW").add(-1, 'weeks').format("YYYY-[W]WW") %>|<% moment(tp.file.title, "YYYY-[W]WW").add(-1, 'weeks').format("YYYY-[W]WW") %>]] ⬅️ [[Calendar/MonthlyNotes/<% moment(tp.file.title,'YYYY-[W]WW').format('YYYY-[M]MM') %>|<% moment(tp.file.title,'YYYY-[W]WW').format('YYYY-[M]MM') %>]] ➡️ [[Calendar/WeeklyNotes/<% moment(tp.file.title, "YYYY-[W]WW").add(1, 'weeks').format("YYYY-[W]WW") %>|<% moment(tp.file.title, "YYYY-[W]WW").add(1, 'weeks').format("YYYY-[W]WW") %>]]
 ## Recap
-### Days
-```dataview
-table Summary
-from [[<%tp.file.title%>]] AND "Calendar/DailyNotes"
-sort file.name asc
-```
 ### Assignments
 - 
 ### New Notes Created
@@ -32,7 +28,6 @@ SORT Created asc
 ```
 ## Reflection
 Rating:: 
-Summary:: 
 ### Review
 **3 great things that happened to me last week were**
 - 

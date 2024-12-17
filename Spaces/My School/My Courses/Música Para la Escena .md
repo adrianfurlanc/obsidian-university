@@ -7,9 +7,8 @@ tags:
 Professor: Carolina Fontecha
 Semester: 1
 Year: 3
-Summary: 
 Created: 2024-10-11 14:57
-modified: 2024-11-24T14:16:33+01:00
+modified: 2024-12-17T12:17:22+01:00
 ---
 \_Links::  [[My Courses]]
 ___

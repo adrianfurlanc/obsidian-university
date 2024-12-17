@@ -13,8 +13,6 @@ Status: "#🟨"
 Links:: [[My Lectures]]
 ___
 
-## Summary
-
 ## Notes
 
 La diferencia entre ópera y oratorio es que la segunda no tiene representación teatral. En el oratorio hay personajes pero no se disfrazan de nada, no hay escenario. Se interpretaban dentro de la iglesia

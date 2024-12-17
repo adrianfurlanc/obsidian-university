@@ -7,9 +7,8 @@ tags:
 Professor: Sara Escuel Salcedo
 Semester: 2
 Year: 2
-Summary: 
 Created: 2024-03-07 09:58
-modified: 2024-06-19T15:49:31+02:00
+modified: 2024-12-17T12:17:15+01:00
 ---
 \_Tags::  #course
 \_Links::  [[My Courses]]

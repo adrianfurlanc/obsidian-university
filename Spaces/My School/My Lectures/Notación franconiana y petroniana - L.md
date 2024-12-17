@@ -13,8 +13,6 @@ Status: "#🟨"
 Links:: [[My Lectures]]
 ___
 
-## Summary
-
 ## Notes
 
 ### Notación franconiana

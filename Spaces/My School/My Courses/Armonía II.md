@@ -4,15 +4,13 @@ tags:
 Professor: Manuel Martínez
 Semester: 1
 Year: 2
-Summary: Armonía
-modified: 2024-06-04T19:26:20+02:00
+modified: 2024-12-17T12:19:04+01:00
 ---
 \_Tags::  #course
 \_Links::  [[My Courses]]
 ___
 
 ## Info
-\_Summary::  Armonía
 \_Year:: 2 
 \_Semester:: 1
 \_Professor:: 

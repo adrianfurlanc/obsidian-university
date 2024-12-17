@@ -1,3 +1,6 @@
+---
+modified: 2024-12-17T12:28:25+01:00
+---
 up:: [[🏠 My Home]]
 Tags: #🗺️ 
 
@@ -70,9 +73,9 @@ Welcome to the new student era.
 
 ### 🎁Bonus Items For Getting Obsidian University
 - [[ChatGPT Prompts We Are Using To Level Up Our Notetaking]]
-- Ultimate Checklist And Summary Guides For Workflows In The Course
+- Ultimate Checklist And Guides For Workflows In The Course
 	- [[Creating Conceptual Notes Checklist]]
-	- [[Methods For Growing Concept Notes Summary]]
+	- [[Methods For Growing Concept Notes]]
 	- [[5 Levels of Idea Emergence Creation Checklist]]
 	- [[3 Step Process I Use To Write Anything In Record Time Checklist]]
 - [[Our Best Outside Recommended Resources On Obsidian PKM And Studying]]

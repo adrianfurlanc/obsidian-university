@@ -13,8 +13,6 @@ Semester: 4
 Links:: [[My Lectures]]
 ___
 
-## Summary
-
 ## Notes
 
 ### Análisis de la música de Brahms: la tradición

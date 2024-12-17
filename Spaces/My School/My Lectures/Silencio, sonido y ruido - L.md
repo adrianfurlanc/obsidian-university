@@ -12,8 +12,6 @@ Semester: 4
 Links:: [[My Lectures]]
 ___
 
-## Summary
-
 ## Notes
 
 Los sonidos de 0db no implican el silencio completo sino 

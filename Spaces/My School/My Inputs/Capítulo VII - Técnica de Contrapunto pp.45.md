@@ -13,8 +13,6 @@ modified: 2024-03-13T19:19:24+01:00
 Semester: 4
 ---
 Links:: [[Contrapunto riguroso II - generalidades y normas (continuación)]]
-## Summary
-
 
 ## Notes
 

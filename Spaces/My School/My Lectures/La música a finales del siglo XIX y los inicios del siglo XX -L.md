@@ -12,8 +12,6 @@ Semester: 4
 Links:: [[My Lectures]]
 ___
 
-## Summary
-
 ## Notes
 
 El fonógrafo aparte de grabar sonidos también podía reproducirlos.

@@ -12,8 +12,6 @@ Semester: 4
 Links:: [[My Lectures]]
 ___
 
-## Summary
-
 ## Notes
 
 La economía es organización, administración de dinero. Disciplina que estudia relaciones comerciales.

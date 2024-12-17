@@ -4,9 +4,8 @@ Links:
 Professor: Eva Esteve Roldan
 Semester: 1
 Year: 2
-Summary: Notacion
 Created: 2023-10-04 22:39
-modified: 2024-06-04T19:38:41+02:00
+modified: 2024-12-17T12:17:27+01:00
 tags:
   - course
 ---
@@ -15,7 +14,6 @@ tags:
 ___
 
 ## Info
-\_Summary::  Notacion
 \_Year:: 2 
 \_Semester:: 1 
 \_Professor:: Eva Esteve Roldan

@@ -12,8 +12,6 @@ Semester: 4
 Links:: [[My Lectures]]
 ___
 
-## Summary
-
 ## Notes
 
 ### Análisis de forma lied-forma ternaria-pequeña forma

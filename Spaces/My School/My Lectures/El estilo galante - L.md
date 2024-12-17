@@ -18,8 +18,6 @@ ___
 
 \_Course::  [[Historia de la Música II]]
 
-## Summary
-
 ## Notes
 
 En la Edad Moderna los estilos musicales preporendamente el Renacimiento, Manierismo, Barroco, Rococó y Neoclacisimo. El período precedente es la Edad Media. 

@@ -5,16 +5,13 @@ tags:
   - "#lecture"
 Created: 2023-11-15 15:43
 Tema: "4"
-modified: 2024-08-08T16:37:28+02:00
+modified: 2024-12-09T15:18:06+01:00
 Status: "#🟨"
 ---
 \_Status:: #🟨  
 \_Tags::  #lecture 
 Links:: [[My Lectures]]
 ___
-
-## Summary
-
 ## Notes
 
 

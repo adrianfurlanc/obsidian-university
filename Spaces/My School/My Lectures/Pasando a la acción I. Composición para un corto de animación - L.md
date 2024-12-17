@@ -5,7 +5,7 @@ tags:
   - escena
 Created: 2024-11-24 14:40
 Tema: "11"
-modified: 2024-11-25T13:22:42+01:00
+modified: 2024-12-05T16:48:45+01:00
 Status: 🟥
 Semester: 4
 ---
@@ -23,4 +23,8 @@ https://www.youtube.com/watch?v=UQNY_J6jEEg
 
 30 clichés musicales en Logic
 https://www.youtube.com/watch?v=vODMPEGhHYU
+
+A wild hare (1940)
+https://www.dailymotion.com/video/x8s5u34
+
 

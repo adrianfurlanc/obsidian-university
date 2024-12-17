@@ -12,8 +12,6 @@ Semester: 4
 Links:: [[My Lectures]]
 ___
 
-## Summary
-
 ## Notes
 
 Cuando hago movimiento directo me estoy buscando un problema (quintas y octavas directas, por ejemplo)

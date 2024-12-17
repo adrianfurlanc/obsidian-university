@@ -4,7 +4,7 @@ Status: "#🟨"
 Course: "[[Análisis I]]"
 Created: 2023-10-26 12:57
 Tema: "2"
-modified: 2024-03-01T13:58:02+01:00
+modified: 2024-12-17T12:11:06+01:00
 ---
 \_Status::  #🟨 
 Tags:: #lecture
@@ -12,9 +12,6 @@ Links:: [[My Lectures]]
 ___
 
 \_Course::  [[Análisis I]]
-
-## Summary
-Características musicales de la Edad Media
 
 ## Notes
 

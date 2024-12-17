@@ -20,8 +20,6 @@ ___
 \_Source:: UNIR 
 \_Course:: [[Historia de la Música II]]
 
-## Summary
-
 ## Notes
 
 El «principio retórico», en el sentido de construcción del discurso mediante frases y períodos, fue una de las novedades y características fundamentales del período clásico respecto del período inmediato anterior, el Barroco.

@@ -20,8 +20,6 @@ ___
 \_Source:: UNIR 
 \_Course:: [[Análisis I]]
 \_Tema:: Tema 2 
-## Summary
-
 
 ## Notes
  

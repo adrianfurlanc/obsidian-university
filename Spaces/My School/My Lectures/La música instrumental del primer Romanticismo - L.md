@@ -14,8 +14,6 @@ Status: "#🟨"
 Links:: [[My Lectures]]
 ___
 
-## Summary
-
 ## Notes
 
 ### El Romanticismo temprano

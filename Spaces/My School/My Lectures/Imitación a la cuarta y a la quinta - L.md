@@ -12,8 +12,6 @@ Semester: 4
 Links:: [[My Lectures]]
 ___
 
-## Summary
-
 ## Notes
 
 Cuando se haga una imitación regular a la cuarta se evita el cuarto grado en el consecuente. Si es una imitación a quinta evitar el séptimo grado en el consecuente.

@@ -13,8 +13,6 @@ Status: "#🟨"
 Links:: [[My Lectures]]
 ___
 
-## Summary
-
 ## Notes
 
 La notación musical comienza a tener en cuenta el ritmo. Ya las alturas de las notas están precisadas con líneas de tinta (o en seco) y neumas.

@@ -12,8 +12,6 @@ Tema: "3"
 modified: 2024-04-14T20:35:03+02:00
 Semester: 4
 ---
-## Summary
-
 
 ## Notes
 

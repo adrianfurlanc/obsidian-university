@@ -6,9 +6,8 @@ tags:
 Professor: " Rafael Guzmán Barrios"
 Semester: 2
 Year: 2
-Summary: 
 Created: 2024-03-06 13:36
-modified: 2024-06-20T17:59:18+02:00
+modified: 2024-12-17T12:19:20+01:00
 ---
  \_Tags::  #course
 \_Links::  [[My Courses]]

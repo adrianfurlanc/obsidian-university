@@ -5,7 +5,7 @@ tags:
   - escena
 Created: 2024-11-12 15:37
 Tema: "9"
-modified: 2024-11-16T18:45:24+01:00
+modified: 2024-12-05T16:03:22+01:00
 Status: 🟥
 Semester: 4
 ---
@@ -30,4 +30,7 @@ Averiguar:
 	  - Add new automation button to the bottom-left of an automation lane
   }
 
+- Importar video en Musescore
+- Quitar audio del video
+- Averiguar como cambiar el tempo o cambios de compás para marcar los hitpoints.
 

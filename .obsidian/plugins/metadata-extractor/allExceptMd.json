@@ -25,10 +25,6 @@
       "relativePath": "Spaces"
     },
     {
-      "name": "MOCs",
-      "relativePath": "Atlas/MOCs"
-    },
-    {
       "name": "Context",
       "relativePath": "Extras/Context"
     },
@@ -43,6 +39,10 @@
     {
       "name": "Templates",
       "relativePath": "Extras/Templates"
+    },
+    {
+      "name": "MOCs",
+      "relativePath": "Atlas/MOCs"
     },
     {
       "name": "My School",
@@ -87,19 +87,39 @@
   ],
   "nonMdFiles": [
     {
+      "name": "deleteSummary.zsh",
+      "basename": "deleteSummary",
+      "relativePath": "deleteSummary.zsh"
+    },
+    {
       "name": "sync",
       "basename": "sync",
       "relativePath": "sync"
     },
     {
-      "name": "1er Tetracordo Dasiano.png",
-      "basename": "1er Tetracordo Dasiano",
-      "relativePath": "Extras/Images/1er Tetracordo Dasiano.png"
+      "name": "y",
+      "basename": "y",
+      "relativePath": "y"
+    },
+    {
+      "name": "y.pub",
+      "basename": "y",
+      "relativePath": "y.pub"
+    },
+    {
+      "name": "deleteSummary.zsh",
+      "basename": "deleteSummary",
+      "relativePath": "Spaces/My School/deleteSummary.zsh"
     },
     {
       "name": "2024-10-0_16.16.16.png",
       "basename": "2024-10-0_16.16.16",
       "relativePath": "Extras/Images/2024-10-0_16.16.16.png"
+    },
+    {
+      "name": "1er Tetracordo Dasiano.png",
+      "basename": "1er Tetracordo Dasiano",
+      "relativePath": "Extras/Images/1er Tetracordo Dasiano.png"
     },
     {
       "name": "2024-10-2_14.33.33.png",
@@ -162,6 +182,21 @@
       "relativePath": "Extras/Images/2024-11-0_14.54.15.png"
     },
     {
+      "name": "2024-11-2_12.58.36.png",
+      "basename": "2024-11-2_12.58.36",
+      "relativePath": "Extras/Images/2024-11-2_12.58.36.png"
+    },
+    {
+      "name": "2024-11-4_18.50.28.png",
+      "basename": "2024-11-4_18.50.28",
+      "relativePath": "Extras/Images/2024-11-4_18.50.28.png"
+    },
+    {
+      "name": "2024-11-5_10.33.10.png",
+      "basename": "2024-11-5_10.33.10",
+      "relativePath": "Extras/Images/2024-11-5_10.33.10.png"
+    },
+    {
       "name": "2024-4-2_15.2.46.png",
       "basename": "2024-4-2_15.2.46",
       "relativePath": "Extras/Images/2024-4-2_15.2.46.png"
@@ -197,14 +232,14 @@
       "relativePath": "Extras/Images/2024-4-3_12.43.12.png"
     },
     {
-      "name": "2024-4-3_16.13.24.png",
-      "basename": "2024-4-3_16.13.24",
-      "relativePath": "Extras/Images/2024-4-3_16.13.24.png"
-    },
-    {
       "name": "2024-4-3_17.14.37.png",
       "basename": "2024-4-3_17.14.37",
       "relativePath": "Extras/Images/2024-4-3_17.14.37.png"
+    },
+    {
+      "name": "2024-4-3_16.13.24.png",
+      "basename": "2024-4-3_16.13.24",
+      "relativePath": "Extras/Images/2024-4-3_16.13.24.png"
     },
     {
       "name": "2024-4-4_16.30.18.png",
@@ -222,14 +257,14 @@
       "relativePath": "Extras/Images/2024-4-5_22.12.22.png"
     },
     {
-      "name": "2024-4-6_15.50.7.png",
-      "basename": "2024-4-6_15.50.7",
-      "relativePath": "Extras/Images/2024-4-6_15.50.7.png"
-    },
-    {
       "name": "2024-5-3_19.38.23.png",
       "basename": "2024-5-3_19.38.23",
       "relativePath": "Extras/Images/2024-5-3_19.38.23.png"
+    },
+    {
+      "name": "2024-4-6_15.50.7.png",
+      "basename": "2024-4-6_15.50.7",
+      "relativePath": "Extras/Images/2024-4-6_15.50.7.png"
     },
     {
       "name": "2024-9-1_12.46.52.png",
@@ -242,19 +277,14 @@
       "relativePath": "Extras/Images/2024-9-1_12.54.34.png"
     },
     {
-      "name": "2024-9-1_13.5.3.png",
-      "basename": "2024-9-1_13.5.3",
-      "relativePath": "Extras/Images/2024-9-1_13.5.3.png"
-    },
-    {
       "name": "2024-9-1_13.5.57.png",
       "basename": "2024-9-1_13.5.57",
       "relativePath": "Extras/Images/2024-9-1_13.5.57.png"
     },
     {
-      "name": "2024-9-1_13.6.2.png",
-      "basename": "2024-9-1_13.6.2",
-      "relativePath": "Extras/Images/2024-9-1_13.6.2.png"
+      "name": "2024-9-1_13.5.3.png",
+      "basename": "2024-9-1_13.5.3",
+      "relativePath": "Extras/Images/2024-9-1_13.5.3.png"
     },
     {
       "name": "2024-9-1_15.12.4.png",
@@ -265,6 +295,11 @@
       "name": "2024-9-1_15.18.20.png",
       "basename": "2024-9-1_15.18.20",
       "relativePath": "Extras/Images/2024-9-1_15.18.20.png"
+    },
+    {
+      "name": "2024-9-1_13.6.2.png",
+      "basename": "2024-9-1_13.6.2",
+      "relativePath": "Extras/Images/2024-9-1_13.6.2.png"
     },
     {
       "name": "2024-9-1_17.31.34.png",
@@ -387,14 +422,14 @@
       "relativePath": "Extras/Images/Cadencia final dominante- tdc.png"
     },
     {
-      "name": "Cadencia final septima- tdc.png",
-      "basename": "Cadencia final septima- tdc",
-      "relativePath": "Extras/Images/Cadencia final septima- tdc.png"
-    },
-    {
       "name": "Cadencia final segundo- tdc.png",
       "basename": "Cadencia final segundo- tdc",
       "relativePath": "Extras/Images/Cadencia final segundo- tdc.png"
+    },
+    {
+      "name": "Cadencia final septima- tdc.png",
+      "basename": "Cadencia final septima- tdc",
+      "relativePath": "Extras/Images/Cadencia final septima- tdc.png"
     },
     {
       "name": "Cadencia interrumpida- tdc.png",
@@ -442,14 +477,14 @@
       "relativePath": "Extras/Images/CleanShot 2023-10-25 - Brave Browser - Clases en directo 4.png"
     },
     {
-      "name": "CleanShot 2024-05-03 - Safari -.png",
-      "basename": "CleanShot 2024-05-03 - Safari -",
-      "relativePath": "Extras/Images/CleanShot 2024-05-03 - Safari -.png"
-    },
-    {
       "name": "Climacus.png",
       "basename": "Climacus",
       "relativePath": "Extras/Images/Climacus.png"
+    },
+    {
+      "name": "CleanShot 2024-05-03 - Safari -.png",
+      "basename": "CleanShot 2024-05-03 - Safari -",
+      "relativePath": "Extras/Images/CleanShot 2024-05-03 - Safari -.png"
     },
     {
       "name": "Clivis .png",
@@ -477,14 +512,14 @@
       "relativePath": "Extras/Images/Conductus.png"
     },
     {
-      "name": "Consonancia- tdc.png",
-      "basename": "Consonancia- tdc",
-      "relativePath": "Extras/Images/Consonancia- tdc.png"
-    },
-    {
       "name": "Contrapunto 1.png",
       "basename": "Contrapunto 1",
       "relativePath": "Extras/Images/Contrapunto 1.png"
+    },
+    {
+      "name": "Consonancia- tdc.png",
+      "basename": "Consonancia- tdc",
+      "relativePath": "Extras/Images/Consonancia- tdc.png"
     },
     {
       "name": "Contrapunto 2.png",
@@ -572,14 +607,14 @@
       "relativePath": "Extras/Images/Cuartos de tono.png"
     },
     {
-      "name": "Diseños cromáticos permitidos - tdc.png",
-      "basename": "Diseños cromáticos permitidos - tdc",
-      "relativePath": "Extras/Images/Diseños cromáticos permitidos - tdc.png"
-    },
-    {
       "name": "Disposicion de voces.png",
       "basename": "Disposicion de voces",
       "relativePath": "Extras/Images/Disposicion de voces.png"
+    },
+    {
+      "name": "Diseños cromáticos permitidos - tdc.png",
+      "basename": "Diseños cromáticos permitidos - tdc",
+      "relativePath": "Extras/Images/Diseños cromáticos permitidos - tdc.png"
     },
     {
       "name": "Distorsion armonica.png",
@@ -592,6 +627,11 @@
       "relativePath": "Extras/Images/Distorsion por intermodulacion.png"
     },
     {
+      "name": "Doble salto cuartas- tdc.png",
+      "basename": "Doble salto cuartas- tdc",
+      "relativePath": "Extras/Images/Doble salto cuartas- tdc.png"
+    },
+    {
       "name": "Division de la breve.png",
       "basename": "Division de la breve",
       "relativePath": "Extras/Images/Division de la breve.png"
@@ -600,11 +640,6 @@
       "name": "Doble floreo- tdc.png",
       "basename": "Doble floreo- tdc",
       "relativePath": "Extras/Images/Doble floreo- tdc.png"
-    },
-    {
-      "name": "Doble salto cuartas- tdc.png",
-      "basename": "Doble salto cuartas- tdc",
-      "relativePath": "Extras/Images/Doble salto cuartas- tdc.png"
     },
     {
       "name": "Doble salto de cuarta - tdc.png",
@@ -622,14 +657,14 @@
       "relativePath": "Extras/Images/Doble salto de sexta - tdc.png"
     },
     {
-      "name": "Dodecafonismo.png",
-      "basename": "Dodecafonismo",
-      "relativePath": "Extras/Images/Dodecafonismo.png"
-    },
-    {
       "name": "Duracion sonido.png",
       "basename": "Duracion sonido",
       "relativePath": "Extras/Images/Duracion sonido.png"
+    },
+    {
+      "name": "Dodecafonismo.png",
+      "basename": "Dodecafonismo",
+      "relativePath": "Extras/Images/Dodecafonismo.png"
     },
     {
       "name": "Ejemplo 2.png",
@@ -642,14 +677,14 @@
       "relativePath": "Extras/Images/Ejemplo 3.png"
     },
     {
-      "name": "Ejemplo Franconiana.png",
-      "basename": "Ejemplo Franconiana",
-      "relativePath": "Extras/Images/Ejemplo Franconiana.png"
-    },
-    {
       "name": "Ejemplo Lied.png",
       "basename": "Ejemplo Lied",
       "relativePath": "Extras/Images/Ejemplo Lied.png"
+    },
+    {
+      "name": "Ejemplo Franconiana.png",
+      "basename": "Ejemplo Franconiana",
+      "relativePath": "Extras/Images/Ejemplo Franconiana.png"
     },
     {
       "name": "Ejemplo Modelo Periode.png",
@@ -682,14 +717,14 @@
       "relativePath": "Extras/Images/Ejemplo tercera especia tres voces- tdc.png"
     },
     {
-      "name": "Ejemplo tercera especie- tdc.png",
-      "basename": "Ejemplo tercera especie- tdc",
-      "relativePath": "Extras/Images/Ejemplo tercera especie- tdc.png"
-    },
-    {
       "name": "Ejercicio 2.png",
       "basename": "Ejercicio 2",
       "relativePath": "Extras/Images/Ejercicio 2.png"
+    },
+    {
+      "name": "Ejemplo tercera especie- tdc.png",
+      "basename": "Ejemplo tercera especie- tdc",
+      "relativePath": "Extras/Images/Ejemplo tercera especie- tdc.png"
     },
     {
       "name": "Ejercicio coloracion.png",
@@ -712,14 +747,14 @@
       "relativePath": "Extras/Images/Equivalencias.png"
     },
     {
-      "name": "Esquema Frase.png",
-      "basename": "Esquema Frase",
-      "relativePath": "Extras/Images/Esquema Frase.png"
-    },
-    {
       "name": "Esquema periodo.png",
       "basename": "Esquema periodo",
       "relativePath": "Extras/Images/Esquema periodo.png"
+    },
+    {
+      "name": "Esquema Frase.png",
+      "basename": "Esquema Frase",
+      "relativePath": "Extras/Images/Esquema Frase.png"
     },
     {
       "name": "Esquena forma sonata.png",
@@ -747,24 +782,24 @@
       "relativePath": "Extras/Images/Evolucion de ligaduras.png"
     },
     {
-      "name": "Evolucion de los neumas 2.png",
-      "basename": "Evolucion de los neumas 2",
-      "relativePath": "Extras/Images/Evolucion de los neumas 2.png"
-    },
-    {
       "name": "Evolucion de los neumas.png",
       "basename": "Evolucion de los neumas",
       "relativePath": "Extras/Images/Evolucion de los neumas.png"
     },
     {
-      "name": "Falsa relacion permitida 2.png",
-      "basename": "Falsa relacion permitida 2",
-      "relativePath": "Extras/Images/Falsa relacion permitida 2.png"
+      "name": "Evolucion de los neumas 2.png",
+      "basename": "Evolucion de los neumas 2",
+      "relativePath": "Extras/Images/Evolucion de los neumas 2.png"
     },
     {
       "name": "Falsa relacion permitida.png",
       "basename": "Falsa relacion permitida",
       "relativePath": "Extras/Images/Falsa relacion permitida.png"
+    },
+    {
+      "name": "Falsa relacion permitida 2.png",
+      "basename": "Falsa relacion permitida 2",
+      "relativePath": "Extras/Images/Falsa relacion permitida 2.png"
     },
     {
       "name": "Falsa relacion.png",
@@ -780,11 +815,6 @@
       "name": "Figuras menores.png",
       "basename": "Figuras menores",
       "relativePath": "Extras/Images/Figuras menores.png"
-    },
-    {
-      "name": "Figuras.png",
-      "basename": "Figuras",
-      "relativePath": "Extras/Images/Figuras.png"
     },
     {
       "name": "Floreos y ndp- tdc.png",
@@ -812,9 +842,9 @@
       "relativePath": "Extras/Images/Forma rondo.png"
     },
     {
-      "name": "Forma sonata binario.png",
-      "basename": "Forma sonata binario",
-      "relativePath": "Extras/Images/Forma sonata binario.png"
+      "name": "Figuras.png",
+      "basename": "Figuras",
+      "relativePath": "Extras/Images/Figuras.png"
     },
     {
       "name": "Forma sonata esquema.png",
@@ -847,19 +877,19 @@
       "relativePath": "Extras/Images/Franconiana 5.png"
     },
     {
-      "name": "Frase - Periode.png",
-      "basename": "Frase - Periode",
-      "relativePath": "Extras/Images/Frase - Periode.png"
-    },
-    {
       "name": "Frase - satz.png",
       "basename": "Frase - satz",
       "relativePath": "Extras/Images/Frase - satz.png"
     },
     {
-      "name": "Fuga 1.png",
-      "basename": "Fuga 1",
-      "relativePath": "Extras/Images/Fuga 1.png"
+      "name": "Frase - Periode.png",
+      "basename": "Frase - Periode",
+      "relativePath": "Extras/Images/Frase - Periode.png"
+    },
+    {
+      "name": "Forma sonata binario.png",
+      "basename": "Forma sonata binario",
+      "relativePath": "Extras/Images/Forma sonata binario.png"
     },
     {
       "name": "Fuga 2.png",
@@ -867,14 +897,14 @@
       "relativePath": "Extras/Images/Fuga 2.png"
     },
     {
-      "name": "Garlandia 2.png",
-      "basename": "Garlandia 2",
-      "relativePath": "Extras/Images/Garlandia 2.png"
-    },
-    {
       "name": "Garlandia 3.png",
       "basename": "Garlandia 3",
       "relativePath": "Extras/Images/Garlandia 3.png"
+    },
+    {
+      "name": "Garlandia 2.png",
+      "basename": "Garlandia 2",
+      "relativePath": "Extras/Images/Garlandia 2.png"
     },
     {
       "name": "Garlandia.png",
@@ -882,14 +912,14 @@
       "relativePath": "Extras/Images/Garlandia.png"
     },
     {
-      "name": "Giro melodico- tdc.png",
-      "basename": "Giro melodico- tdc",
-      "relativePath": "Extras/Images/Giro melodico- tdc.png"
-    },
-    {
       "name": "Haydn sonata 1.png",
       "basename": "Haydn sonata 1",
       "relativePath": "Extras/Images/Haydn sonata 1.png"
+    },
+    {
+      "name": "Giro melodico- tdc.png",
+      "basename": "Giro melodico- tdc",
+      "relativePath": "Extras/Images/Giro melodico- tdc.png"
     },
     {
       "name": "Haydn sonata 10.png",
@@ -902,9 +932,9 @@
       "relativePath": "Extras/Images/Haydn sonata 11.png"
     },
     {
-      "name": "Haydn sonata 12.png",
-      "basename": "Haydn sonata 12",
-      "relativePath": "Extras/Images/Haydn sonata 12.png"
+      "name": "Fuga 1.png",
+      "basename": "Fuga 1",
+      "relativePath": "Extras/Images/Fuga 1.png"
     },
     {
       "name": "Haydn sonata 13.png",
@@ -912,14 +942,19 @@
       "relativePath": "Extras/Images/Haydn sonata 13.png"
     },
     {
-      "name": "Haydn sonata 14.png",
-      "basename": "Haydn sonata 14",
-      "relativePath": "Extras/Images/Haydn sonata 14.png"
-    },
-    {
       "name": "Haydn sonata 15.png",
       "basename": "Haydn sonata 15",
       "relativePath": "Extras/Images/Haydn sonata 15.png"
+    },
+    {
+      "name": "Haydn sonata 12.png",
+      "basename": "Haydn sonata 12",
+      "relativePath": "Extras/Images/Haydn sonata 12.png"
+    },
+    {
+      "name": "Haydn sonata 14.png",
+      "basename": "Haydn sonata 14",
+      "relativePath": "Extras/Images/Haydn sonata 14.png"
     },
     {
       "name": "Haydn sonata 16.png",
@@ -930,11 +965,6 @@
       "name": "Haydn sonata 17.png",
       "basename": "Haydn sonata 17",
       "relativePath": "Extras/Images/Haydn sonata 17.png"
-    },
-    {
-      "name": "Haydn sonata 18.png",
-      "basename": "Haydn sonata 18",
-      "relativePath": "Extras/Images/Haydn sonata 18.png"
     },
     {
       "name": "Haydn sonata 19.png",
@@ -950,6 +980,11 @@
       "name": "Haydn sonata 20.png",
       "basename": "Haydn sonata 20",
       "relativePath": "Extras/Images/Haydn sonata 20.png"
+    },
+    {
+      "name": "Haydn sonata 18.png",
+      "basename": "Haydn sonata 18",
+      "relativePath": "Extras/Images/Haydn sonata 18.png"
     },
     {
       "name": "Haydn sonata 3.png",
@@ -1017,19 +1052,14 @@
       "relativePath": "Extras/Images/Las 3 reglas de .png"
     },
     {
-      "name": "Las 3 reglas.png",
-      "basename": "Las 3 reglas",
-      "relativePath": "Extras/Images/Las 3 reglas.png"
-    },
-    {
       "name": "Letras significativas de St. Gall y Laon.png",
       "basename": "Letras significativas de St. Gall y Laon",
       "relativePath": "Extras/Images/Letras significativas de St. Gall y Laon.png"
     },
     {
-      "name": "Ligaduras 2.png",
-      "basename": "Ligaduras 2",
-      "relativePath": "Extras/Images/Ligaduras 2.png"
+      "name": "Las 3 reglas.png",
+      "basename": "Las 3 reglas",
+      "relativePath": "Extras/Images/Las 3 reglas.png"
     },
     {
       "name": "Marchas melódicas - tdc.png",
@@ -1037,19 +1067,24 @@
       "relativePath": "Extras/Images/Marchas melódicas - tdc.png"
     },
     {
+      "name": "Ligaduras 2.png",
+      "basename": "Ligaduras 2",
+      "relativePath": "Extras/Images/Ligaduras 2.png"
+    },
+    {
       "name": "Matrices Boulez.png",
       "basename": "Matrices Boulez",
       "relativePath": "Extras/Images/Matrices Boulez.png"
     },
     {
-      "name": "Mindsets.png",
-      "basename": "Mindsets",
-      "relativePath": "Extras/Images/Mindsets.png"
-    },
-    {
       "name": "Minima.png",
       "basename": "Minima",
       "relativePath": "Extras/Images/Minima.png"
+    },
+    {
+      "name": "Mindsets.png",
+      "basename": "Mindsets",
+      "relativePath": "Extras/Images/Mindsets.png"
     },
     {
       "name": "Modelo Satz desarrollado.png",
@@ -1072,11 +1107,6 @@
       "relativePath": "Extras/Images/Modos ritmicos.png"
     },
     {
-      "name": "Modulacion por acordes comunes.png",
-      "basename": "Modulacion por acordes comunes",
-      "relativePath": "Extras/Images/Modulacion por acordes comunes.png"
-    },
-    {
       "name": "Modulacion.png",
       "basename": "Modulacion",
       "relativePath": "Extras/Images/Modulacion.png"
@@ -1087,14 +1117,9 @@
       "relativePath": "Extras/Images/Motete.png"
     },
     {
-      "name": "Movimiento contrario - tdc.png",
-      "basename": "Movimiento contrario - tdc",
-      "relativePath": "Extras/Images/Movimiento contrario - tdc.png"
-    },
-    {
-      "name": "Movimiento directo.png",
-      "basename": "Movimiento directo",
-      "relativePath": "Extras/Images/Movimiento directo.png"
+      "name": "Modulacion por acordes comunes.png",
+      "basename": "Modulacion por acordes comunes",
+      "relativePath": "Extras/Images/Modulacion por acordes comunes.png"
     },
     {
       "name": "Movimiento oblicuo - tdc.png",
@@ -1110,6 +1135,16 @@
       "name": "Mozart Periodo.png",
       "basename": "Mozart Periodo",
       "relativePath": "Extras/Images/Mozart Periodo.png"
+    },
+    {
+      "name": "Movimiento contrario - tdc.png",
+      "basename": "Movimiento contrario - tdc",
+      "relativePath": "Extras/Images/Movimiento contrario - tdc.png"
+    },
+    {
+      "name": "Movimiento directo.png",
+      "basename": "Movimiento directo",
+      "relativePath": "Extras/Images/Movimiento directo.png"
     },
     {
       "name": "Música Enchiriadis.png",
@@ -1157,14 +1192,14 @@
       "relativePath": "Extras/Images/Notacion francesa.png"
     },
     {
-      "name": "Notacion ligaduras de dos corcheas.png",
-      "basename": "Notacion ligaduras de dos corcheas",
-      "relativePath": "Extras/Images/Notacion ligaduras de dos corcheas.png"
-    },
-    {
       "name": "Notas extrañas - tdc.png",
       "basename": "Notas extrañas - tdc",
       "relativePath": "Extras/Images/Notas extrañas - tdc.png"
+    },
+    {
+      "name": "Notacion ligaduras de dos corcheas.png",
+      "basename": "Notacion ligaduras de dos corcheas",
+      "relativePath": "Extras/Images/Notacion ligaduras de dos corcheas.png"
     },
     {
       "name": "Novena entre puntos extremos - tdc.png",
@@ -1247,24 +1282,19 @@
       "relativePath": "Extras/Images/Oido.png"
     },
     {
-      "name": "Ordines.png",
-      "basename": "Ordines",
-      "relativePath": "Extras/Images/Ordines.png"
-    },
-    {
       "name": "Organum Purum.png",
       "basename": "Organum Purum",
       "relativePath": "Extras/Images/Organum Purum.png"
     },
     {
+      "name": "Ordines.png",
+      "basename": "Ordines",
+      "relativePath": "Extras/Images/Ordines.png"
+    },
+    {
       "name": "Organum Quatriplum.png",
       "basename": "Organum Quatriplum",
       "relativePath": "Extras/Images/Organum Quatriplum.png"
-    },
-    {
-      "name": "Otras variantes Dasiana.png",
-      "basename": "Otras variantes Dasiana",
-      "relativePath": "Extras/Images/Otras variantes Dasiana.png"
     },
     {
       "name": "Otros recursos.png",
@@ -1277,9 +1307,9 @@
       "relativePath": "Extras/Images/Paralelismo permitido.png"
     },
     {
-      "name": "Pasted image 20221003070905.png",
-      "basename": "Pasted image 20221003070905",
-      "relativePath": "Extras/Images/Pasted image 20221003070905.png"
+      "name": "Otras variantes Dasiana.png",
+      "basename": "Otras variantes Dasiana",
+      "relativePath": "Extras/Images/Otras variantes Dasiana.png"
     },
     {
       "name": "Pasted image 20221003071011.png",
@@ -1287,14 +1317,14 @@
       "relativePath": "Extras/Images/Pasted image 20221003071011.png"
     },
     {
+      "name": "Pasted image 20221003070905.png",
+      "basename": "Pasted image 20221003070905",
+      "relativePath": "Extras/Images/Pasted image 20221003070905.png"
+    },
+    {
       "name": "Pasted image 20221003121941.png",
       "basename": "Pasted image 20221003121941",
       "relativePath": "Extras/Images/Pasted image 20221003121941.png"
-    },
-    {
-      "name": "Pasted image 20221003123305.png",
-      "basename": "Pasted image 20221003123305",
-      "relativePath": "Extras/Images/Pasted image 20221003123305.png"
     },
     {
       "name": "Pasted image 20221003123646.png",
@@ -1302,14 +1332,14 @@
       "relativePath": "Extras/Images/Pasted image 20221003123646.png"
     },
     {
+      "name": "Pasted image 20221003123305.png",
+      "basename": "Pasted image 20221003123305",
+      "relativePath": "Extras/Images/Pasted image 20221003123305.png"
+    },
+    {
       "name": "Pasted image 20221003123818.png",
       "basename": "Pasted image 20221003123818",
       "relativePath": "Extras/Images/Pasted image 20221003123818.png"
-    },
-    {
-      "name": "Pasted image 20221003125821.png",
-      "basename": "Pasted image 20221003125821",
-      "relativePath": "Extras/Images/Pasted image 20221003125821.png"
     },
     {
       "name": "Pasted image 20221003125923.png",
@@ -1317,9 +1347,9 @@
       "relativePath": "Extras/Images/Pasted image 20221003125923.png"
     },
     {
-      "name": "Pasted image 20221003130118.png",
-      "basename": "Pasted image 20221003130118",
-      "relativePath": "Extras/Images/Pasted image 20221003130118.png"
+      "name": "Pasted image 20221003125821.png",
+      "basename": "Pasted image 20221003125821",
+      "relativePath": "Extras/Images/Pasted image 20221003125821.png"
     },
     {
       "name": "Pasted image 20221003130557.png",
@@ -1350,6 +1380,11 @@
       "name": "Pasted image 20221003132607.png",
       "basename": "Pasted image 20221003132607",
       "relativePath": "Extras/Images/Pasted image 20221003132607.png"
+    },
+    {
+      "name": "Pasted image 20221003130118.png",
+      "basename": "Pasted image 20221003130118",
+      "relativePath": "Extras/Images/Pasted image 20221003130118.png"
     },
     {
       "name": "Pasted image 20221003132853.png",
@@ -1412,11 +1447,6 @@
       "relativePath": "Extras/Images/Pasted image 20230323073913.png"
     },
     {
-      "name": "Pasted image 20230505191259.png",
-      "basename": "Pasted image 20230505191259",
-      "relativePath": "Extras/Images/Pasted image 20230505191259.png"
-    },
-    {
       "name": "Pasted image 20230526110352.png",
       "basename": "Pasted image 20230526110352",
       "relativePath": "Extras/Images/Pasted image 20230526110352.png"
@@ -1425,6 +1455,11 @@
       "name": "Pasted image 20230526111336.png",
       "basename": "Pasted image 20230526111336",
       "relativePath": "Extras/Images/Pasted image 20230526111336.png"
+    },
+    {
+      "name": "Pasted image 20230505191259.png",
+      "basename": "Pasted image 20230505191259",
+      "relativePath": "Extras/Images/Pasted image 20230505191259.png"
     },
     {
       "name": "Pasted image 20230803090502.png",
@@ -1437,14 +1472,14 @@
       "relativePath": "Extras/Images/Penultimo compas- tdc.png"
     },
     {
-      "name": "Perfeccion.png",
-      "basename": "Perfeccion",
-      "relativePath": "Extras/Images/Perfeccion.png"
-    },
-    {
       "name": "Periodo contrastante.png",
       "basename": "Periodo contrastante",
       "relativePath": "Extras/Images/Periodo contrastante.png"
+    },
+    {
+      "name": "Perfeccion.png",
+      "basename": "Perfeccion",
+      "relativePath": "Extras/Images/Perfeccion.png"
     },
     {
       "name": "Periodo repeticion.png",
@@ -1542,6 +1577,11 @@
       "relativePath": "Extras/Images/Quintas consecutivas permitidas- tdc.png"
     },
     {
+      "name": "Quintas directas- tdc.png",
+      "basename": "Quintas directas- tdc",
+      "relativePath": "Extras/Images/Quintas directas- tdc.png"
+    },
+    {
       "name": "Quintas dos blancas- tdc.png",
       "basename": "Quintas dos blancas- tdc",
       "relativePath": "Extras/Images/Quintas dos blancas- tdc.png"
@@ -1555,11 +1595,6 @@
       "name": "Quintas no consecutivas- tdc.png",
       "basename": "Quintas no consecutivas- tdc",
       "relativePath": "Extras/Images/Quintas no consecutivas- tdc.png"
-    },
-    {
-      "name": "Quintas directas- tdc.png",
-      "basename": "Quintas directas- tdc",
-      "relativePath": "Extras/Images/Quintas directas- tdc.png"
     },
     {
       "name": "Quintas orden inverso- tdc.png",
@@ -1742,14 +1777,14 @@
       "relativePath": "Extras/Images/Serie intensidades.png"
     },
     {
-      "name": "Sexta aumentada.png",
-      "basename": "Sexta aumentada",
-      "relativePath": "Extras/Images/Sexta aumentada.png"
-    },
-    {
       "name": "Sexta menor- tdc.png",
       "basename": "Sexta menor- tdc",
       "relativePath": "Extras/Images/Sexta menor- tdc.png"
+    },
+    {
+      "name": "Sexta aumentada.png",
+      "basename": "Sexta aumentada",
+      "relativePath": "Extras/Images/Sexta aumentada.png"
     },
     {
       "name": "Séptima entre puntos extremos - tdc.png",
@@ -1927,14 +1962,9 @@
       "relativePath": "Spaces/My School/My Assignments/context.mdb"
     },
     {
-      "name": "y",
-      "basename": "y",
-      "relativePath": "y"
-    },
-    {
-      "name": "y.pub",
-      "basename": "y",
-      "relativePath": "y.pub"
+      "name": "deleteSummary.zsh",
+      "basename": "deleteSummary",
+      "relativePath": "Spaces/My School/My Inputs/deleteSummary.zsh"
     }
   ]
 }

@@ -6,9 +6,8 @@ tags:
 Professor: Marta Vela González
 Semester: 2
 Year: 2
-Summary: 
 Created: 2024-03-04 17:22
-modified: 2024-06-04T19:26:02+02:00
+modified: 2024-12-17T12:18:52+01:00
 ---
 \_Tags::  #course
 \_Links::  [[My Courses]]

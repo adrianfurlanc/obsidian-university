@@ -19,8 +19,6 @@ ___
 
 \_Source:: UNIR 
 
-## Summary
-
 ## Notes
 
 La música sacra tuvo un gran cambio a partir del protestantismo iniciado por Lutero. Como oposición a la Reforma, la iglesia cristiana respondió con la Contrarreforma. Estos eventos afectaron la música del momento.

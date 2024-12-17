@@ -13,8 +13,6 @@ Status: "#🟨"
 Links:: [[My Lectures]]
 ___
 
-## Summary
-
 ## Notes
 
 La música instrumental surge por primera vez como una música sin texto.

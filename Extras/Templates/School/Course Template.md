@@ -4,9 +4,8 @@ Tags: "#course"
 Professor: 
 Semester: 
 Year: 
-Summary: 
 Created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
-modified: 2024-10-11T14:56:18+02:00
+modified: 2024-12-17T12:18:08+01:00
 ---
 \_Links::  [[My Courses]]
 ___

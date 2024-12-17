@@ -1,3 +1,6 @@
+---
+modified: 2024-12-17T12:18:02+01:00
+---
 Tags:: #dailyNote
 ___
 
@@ -18,4 +21,3 @@ from ""
 where contains(Created, "<%tp.file.title%>")
 ```
 ## Reflection
-Summary::

@@ -1,15 +1,5 @@
 [
   {
-    "fileName": "README",
-    "relativePath": "README.md",
-    "headings": [
-      {
-        "heading": "obsidian-university",
-        "level": 1
-      }
-    ]
-  },
-  {
     "fileName": "🏠 My Home",
     "relativePath": "🏠 My Home.md",
     "frontmatter": {
@@ -64,6 +54,9 @@
     "tags": [
       "🗺️"
     ],
+    "frontmatter": {
+      "modified": "2024-12-17T12:19:35+01:00"
+    },
     "headings": [
       {
         "heading": "Before You Start",
@@ -203,6 +196,54 @@
         "link": "My School",
         "relativePath": "Spaces/My School/My Courses/My Courses.md",
         "displayText": "🏫 My School"
+      }
+    ]
+  },
+  {
+    "fileName": "Síntesis por modulación de frecuencia (FM) - L",
+    "relativePath": "Spaces/My School/My Lectures/Síntesis por modulación de frecuencia (FM) - L.md",
+    "tags": [
+      "lecture",
+      "sintesis"
+    ],
+    "frontmatter": {
+      "Course": "[[Síntesis de sonido]]",
+      "Created": "2024-12-05 17:20",
+      "Tema": "6",
+      "modified": "2024-12-05T19:07:57+01:00",
+      "Status": "🟥",
+      "Semester": 4
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      },
+      {
+        "heading": "Síntesis por modulación de frecuencia (FM)",
+        "level": 3
+      },
+      {
+        "heading": "Definición y experiencias de interés",
+        "level": 4
+      },
+      {
+        "heading": "Aplicaciones",
+        "level": 4
+      },
+      {
+        "heading": "Un caso particular: la modulación de fase",
+        "level": 4
+      },
+      {
+        "heading": "Sintetizadores de FM",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
       }
     ]
   },
@@ -351,10 +392,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       }
@@ -383,10 +420,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       }
@@ -414,10 +447,6 @@
       "modified": "2024-03-01T13:57:41+01:00"
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -463,10 +492,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       }
@@ -489,7 +514,7 @@
       "Course": "[[Composición I]]",
       "Created": "2024-11-28 13:49",
       "Tema": "5",
-      "modified": "2024-11-28T14:09:28+01:00",
+      "modified": "2024-12-03T14:15:36+01:00",
       "Status": "🟥",
       "Semester": 4
     },
@@ -497,6 +522,66 @@
       {
         "heading": "Notes",
         "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Pasando a la acción II -  composición para un anuncio televisivo - L",
+    "relativePath": "Spaces/My School/My Lectures/Pasando a la acción II -  composición para un anuncio televisivo - L.md",
+    "tags": [
+      "lecture",
+      "escena"
+    ],
+    "frontmatter": {
+      "Course": "[[Música Para la Escena ]]",
+      "Created": "2024-12-05 14:09",
+      "Tema": "12",
+      "modified": "2024-12-05T14:09:42+01:00",
+      "Status": "🟥",
+      "Semester": 4
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Organología Musical - generalidades - L",
+    "relativePath": "Spaces/My School/My Lectures/Organología Musical - generalidades - L.md",
+    "tags": [
+      "lecture",
+      "acustica"
+    ],
+    "frontmatter": {
+      "Course": "[[Acústica Musical y Organología]]",
+      "Created": "2024-05-21 12:59",
+      "Tema": "10",
+      "modified": "2024-05-21T16:41:27+02:00",
+      "Status": "🟥",
+      "Semester": 4
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      },
+      {
+        "heading": "Disposición instrumental",
+        "level": 3
       }
     ],
     "links": [
@@ -517,7 +602,7 @@
       "Course": "[[Música Para la Escena ]]",
       "Created": "2024-11-24 14:40",
       "Tema": "11",
-      "modified": "2024-11-25T13:22:42+01:00",
+      "modified": "2024-12-05T16:48:45+01:00",
       "Status": "🟥",
       "Semester": 4
     },
@@ -558,10 +643,6 @@
       "Status": "#🟨"
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -607,42 +688,6 @@
     ]
   },
   {
-    "fileName": "Organología Musical - generalidades - L",
-    "relativePath": "Spaces/My School/My Lectures/Organología Musical - generalidades - L.md",
-    "tags": [
-      "lecture",
-      "acustica"
-    ],
-    "frontmatter": {
-      "Course": "[[Acústica Musical y Organología]]",
-      "Created": "2024-05-21 12:59",
-      "Tema": "10",
-      "modified": "2024-05-21T16:41:27+02:00",
-      "Status": "🟥",
-      "Semester": 4
-    },
-    "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
-        "heading": "Notes",
-        "level": 2
-      },
-      {
-        "heading": "Disposición instrumental",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "My Lectures",
-        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
-      }
-    ]
-  },
-  {
     "fileName": "Notación prefranconiana - L",
     "relativePath": "Spaces/My School/My Lectures/Notación prefranconiana - L.md",
     "tags": [
@@ -657,10 +702,6 @@
       "Status": "#🟨"
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -704,6 +745,37 @@
     ]
   },
   {
+    "fileName": "Notación italiana y mixta - L",
+    "relativePath": "Spaces/My School/My Lectures/Notación italiana y mixta - L.md",
+    "tags": [
+      "lecture"
+    ],
+    "frontmatter": {
+      "Semester": 3,
+      "Course": "[[Notación y Transcripción]]",
+      "Created": "2024-01-18 14:27",
+      "Tema": "10",
+      "modified": "2024-03-01T13:52:29+01:00",
+      "Status": "#🟨"
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      },
+      {
+        "heading": "Características generales",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
+      }
+    ]
+  },
+  {
     "fileName": "Notación neumática monódica - L",
     "relativePath": "Spaces/My School/My Lectures/Notación neumática monódica - L.md",
     "tags": [
@@ -718,10 +790,6 @@
       "modified": "2024-03-01T13:57:47+01:00"
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -778,51 +846,12 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       },
       {
         "heading": "Notación Mixta",
         "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "My Lectures",
-        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Notación italiana y mixta - L",
-    "relativePath": "Spaces/My School/My Lectures/Notación italiana y mixta - L.md",
-    "tags": [
-      "lecture"
-    ],
-    "frontmatter": {
-      "Semester": 3,
-      "Course": "[[Notación y Transcripción]]",
-      "Created": "2024-01-18 14:27",
-      "Tema": "10",
-      "modified": "2024-03-01T13:52:29+01:00",
-      "Status": "#🟨"
-    },
-    "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
-        "heading": "Notes",
-        "level": 2
-      },
-      {
-        "heading": "Características generales",
-        "level": 4
       }
     ],
     "links": [
@@ -847,10 +876,6 @@
       "Status": "#🟨"
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -903,10 +928,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       },
@@ -920,49 +941,6 @@
       },
       {
         "heading": "La Coloración",
-        "level": 4
-      }
-    ],
-    "links": [
-      {
-        "link": "My Lectures",
-        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Notación de transición - L",
-    "relativePath": "Spaces/My School/My Lectures/Notación de transición - L.md",
-    "tags": [
-      "lecture"
-    ],
-    "frontmatter": {
-      "Semester": 3,
-      "Course": "[[Notación y Transcripción]]",
-      "Created": "2023-12-18 11:43",
-      "Tema": "8",
-      "modified": "2024-03-01T13:53:52+01:00",
-      "Status": "#🟨"
-    },
-    "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
-        "heading": "Notes",
-        "level": 2
-      },
-      {
-        "heading": "Notación posfranconiana",
-        "level": 3
-      },
-      {
-        "heading": "Le Roman de Fauvel",
-        "level": 4
-      },
-      {
-        "heading": "Características notacionales",
         "level": 4
       }
     ],
@@ -989,10 +967,6 @@
       "Status": "#🟨"
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -1073,6 +1047,45 @@
     ]
   },
   {
+    "fileName": "Notación de transición - L",
+    "relativePath": "Spaces/My School/My Lectures/Notación de transición - L.md",
+    "tags": [
+      "lecture"
+    ],
+    "frontmatter": {
+      "Semester": 3,
+      "Course": "[[Notación y Transcripción]]",
+      "Created": "2023-12-18 11:43",
+      "Tema": "8",
+      "modified": "2024-03-01T13:53:52+01:00",
+      "Status": "#🟨"
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      },
+      {
+        "heading": "Notación posfranconiana",
+        "level": 3
+      },
+      {
+        "heading": "Le Roman de Fauvel",
+        "level": 4
+      },
+      {
+        "heading": "Características notacionales",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
+      }
+    ]
+  },
+  {
     "fileName": "Notación cuadrada (continuación) - L",
     "relativePath": "Spaces/My School/My Lectures/Notación cuadrada (continuación) - L.md",
     "tags": [
@@ -1087,10 +1100,6 @@
       "Status": "#🟨"
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -1156,10 +1165,6 @@
       "Status": "#🟨"
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -1234,6 +1239,11 @@
         "relativePath": "Spaces/My School/My School.md"
       },
       {
+        "fileName": "Síntesis por modulación de frecuencia (FM) - L",
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/Síntesis por modulación de frecuencia (FM) - L.md"
+      },
+      {
         "fileName": "Vocabulario técnico de la síntesis - L",
         "link": "My Lectures",
         "relativePath": "Spaces/My School/My Lectures/Vocabulario técnico de la síntesis - L.md"
@@ -1269,6 +1279,16 @@
         "relativePath": "Spaces/My School/My Lectures/Politonalidad, pantonalidad y otros sistemas - L.md"
       },
       {
+        "fileName": "Pasando a la acción II -  composición para un anuncio televisivo - L",
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/Pasando a la acción II -  composición para un anuncio televisivo - L.md"
+      },
+      {
+        "fileName": "Organología Musical - generalidades - L",
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/Organología Musical - generalidades - L.md"
+      },
+      {
         "fileName": "Pasando a la acción I. Composición para un corto de animación - L",
         "link": "My Lectures",
         "relativePath": "Spaces/My School/My Lectures/Pasando a la acción I. Composición para un corto de animación - L.md"
@@ -1279,14 +1299,14 @@
         "relativePath": "Spaces/My School/My Lectures/Ópera cómica versus ópera seria -L.md"
       },
       {
-        "fileName": "Organología Musical - generalidades - L",
-        "link": "My Lectures",
-        "relativePath": "Spaces/My School/My Lectures/Organología Musical - generalidades - L.md"
-      },
-      {
         "fileName": "Notación prefranconiana - L",
         "link": "My Lectures",
         "relativePath": "Spaces/My School/My Lectures/Notación prefranconiana - L.md"
+      },
+      {
+        "fileName": "Notación italiana y mixta - L",
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/Notación italiana y mixta - L.md"
       },
       {
         "fileName": "Notación neumática monódica - L",
@@ -1299,11 +1319,6 @@
         "relativePath": "Spaces/My School/My Lectures/Notación mixta y manierista - L.md"
       },
       {
-        "fileName": "Notación italiana y mixta - L",
-        "link": "My Lectures",
-        "relativePath": "Spaces/My School/My Lectures/Notación italiana y mixta - L.md"
-      },
-      {
         "fileName": "Notación franconiana y petroniana - L",
         "link": "My Lectures",
         "relativePath": "Spaces/My School/My Lectures/Notación franconiana y petroniana - L.md"
@@ -1314,14 +1329,14 @@
         "relativePath": "Spaces/My School/My Lectures/Notación francesa del siglo XIV - L.md"
       },
       {
-        "fileName": "Notación de transición - L",
-        "link": "My Lectures",
-        "relativePath": "Spaces/My School/My Lectures/Notación de transición - L.md"
-      },
-      {
         "fileName": "Notación cuadrada - L",
         "link": "My Lectures",
         "relativePath": "Spaces/My School/My Lectures/Notación cuadrada - L.md"
+      },
+      {
+        "fileName": "Notación de transición - L",
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/Notación de transición - L.md"
       },
       {
         "fileName": "Notación cuadrada (continuación) - L",
@@ -1339,6 +1354,11 @@
         "relativePath": "Spaces/My School/My Lectures/Música y tecnología - L.md"
       },
       {
+        "fileName": "La música instrumental de la segunda mitad del siglo XIX - L",
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/La música instrumental de la segunda mitad del siglo XIX - L.md"
+      },
+      {
         "fileName": "Música instrumental de la Edad Media - L",
         "link": "My Lectures",
         "relativePath": "Spaces/My School/My Lectures/Música instrumental de la Edad Media - L.md"
@@ -1349,6 +1369,11 @@
         "relativePath": "Spaces/My School/My Lectures/Monodia religiosa y primeras polifonías - L.md"
       },
       {
+        "fileName": "Marketing, clave en todo proyecto cultural - L",
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/Marketing, clave en todo proyecto cultural - L.md"
+      },
+      {
         "fileName": "Medios técnicos para la composición II - L",
         "link": "My Lectures",
         "relativePath": "Spaces/My School/My Lectures/Medios técnicos para la composición II - L.md"
@@ -1357,11 +1382,6 @@
         "fileName": "Medios técnicos actuales en la composición para la imagen I - L",
         "link": "My Lectures",
         "relativePath": "Spaces/My School/My Lectures/Medios técnicos actuales en la composición para la imagen I - L.md"
-      },
-      {
-        "fileName": "Marketing, clave en todo proyecto cultural - L",
-        "link": "My Lectures",
-        "relativePath": "Spaces/My School/My Lectures/Marketing, clave en todo proyecto cultural - L.md"
       },
       {
         "fileName": "Las síntesis aditiva y sustractiva - L",
@@ -1409,11 +1429,6 @@
         "relativePath": "Spaces/My School/My Lectures/La notación neumática polifónica - L.md"
       },
       {
-        "fileName": "La música instrumental de la segunda mitad del siglo XIX - L",
-        "link": "My Lectures",
-        "relativePath": "Spaces/My School/My Lectures/La música instrumental de la segunda mitad del siglo XIX - L.md"
-      },
-      {
         "fileName": "La música nacionalista - L",
         "link": "My Lectures",
         "relativePath": "Spaces/My School/My Lectures/La música nacionalista - L.md"
@@ -1429,24 +1444,19 @@
         "relativePath": "Spaces/My School/My Lectures/La música instrumental del primer Romanticismo - L.md"
       },
       {
-        "fileName": "La música entre las dos guerras mundiales - L",
-        "link": "My Lectures",
-        "relativePath": "Spaces/My School/My Lectures/La música entre las dos guerras mundiales - L.md"
-      },
-      {
         "fileName": "La música después de la Segunda Guerra Mundial hasta 1960-1970 (parte II)",
         "link": "My Lectures",
         "relativePath": "Spaces/My School/My Lectures/La música después de la Segunda Guerra Mundial hasta 1960-1970 (parte II).md"
       },
       {
+        "fileName": "La música entre las dos guerras mundiales - L",
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/La música entre las dos guerras mundiales - L.md"
+      },
+      {
         "fileName": "La música después de la Segunda Guerra Mundial hasta 1960-1970 (parte I) - L",
         "link": "My Lectures",
         "relativePath": "Spaces/My School/My Lectures/La música después de la Segunda Guerra Mundial hasta 1960-1970 (parte I) - L.md"
-      },
-      {
-        "fileName": "La música a finales del siglo XIX y los inicios del siglo XX -L",
-        "link": "My Lectures",
-        "relativePath": "Spaces/My School/My Lectures/La música a finales del siglo XIX y los inicios del siglo XX -L.md"
       },
       {
         "fileName": "La modulación de amplitud - L",
@@ -1459,9 +1469,9 @@
         "relativePath": "Spaces/My School/My Lectures/La estrategia, base de toda dirección empresarial - L.md"
       },
       {
-        "fileName": "La empresa y el ámbito jurídico - L",
+        "fileName": "La música a finales del siglo XIX y los inicios del siglo XX -L",
         "link": "My Lectures",
-        "relativePath": "Spaces/My School/My Lectures/La empresa y el ámbito jurídico - L.md"
+        "relativePath": "Spaces/My School/My Lectures/La música a finales del siglo XIX y los inicios del siglo XX -L.md"
       },
       {
         "fileName": "La ampliación del significado de la música - L",
@@ -1474,14 +1484,29 @@
         "relativePath": "Spaces/My School/My Lectures/J. S. Bach, música instrumental.md"
       },
       {
-        "fileName": "J. S. Bach, la música vocal - L",
+        "fileName": "La empresa y el ámbito jurídico - L",
         "link": "My Lectures",
-        "relativePath": "Spaces/My School/My Lectures/J. S. Bach, la música vocal - L.md"
+        "relativePath": "Spaces/My School/My Lectures/La empresa y el ámbito jurídico - L.md"
       },
       {
         "fileName": "Instrumentos de cuerda frotada - L",
         "link": "My Lectures",
         "relativePath": "Spaces/My School/My Lectures/Instrumentos de cuerda frotada - L.md"
+      },
+      {
+        "fileName": "Instrumentos de viento-madera - L",
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/Instrumentos de viento-madera - L.md"
+      },
+      {
+        "fileName": "J. S. Bach, la música vocal - L",
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/J. S. Bach, la música vocal - L.md"
+      },
+      {
+        "fileName": "Historia de la síntesis y de los sintetizadores - L",
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/Historia de la síntesis y de los sintetizadores - L.md"
       },
       {
         "fileName": "Inicios de la notación occidental - L",
@@ -1494,19 +1519,14 @@
         "relativePath": "Spaces/My School/My Lectures/Influencias populares y extraoccidentales - L.md"
       },
       {
-        "fileName": "Imitación a la cuarta y a la quinta - L",
-        "link": "My Lectures",
-        "relativePath": "Spaces/My School/My Lectures/Imitación a la cuarta y a la quinta - L.md"
-      },
-      {
-        "fileName": "Historia de la síntesis y de los sintetizadores - L",
-        "link": "My Lectures",
-        "relativePath": "Spaces/My School/My Lectures/Historia de la síntesis y de los sintetizadores - L.md"
-      },
-      {
         "fileName": "Generalidades. Discurso y lectura orquestal - L",
         "link": "My Lectures",
         "relativePath": "Spaces/My School/My Lectures/Generalidades. Discurso y lectura orquestal - L.md"
+      },
+      {
+        "fileName": "Imitación a la cuarta y a la quinta - L",
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/Imitación a la cuarta y a la quinta - L.md"
       },
       {
         "fileName": "Generalidades de la composición II - L",
@@ -1519,19 +1539,24 @@
         "relativePath": "Spaces/My School/My Lectures/Generalidades de la composición I - L.md"
       },
       {
-        "fileName": "Formas instrumentales del Barroco - L",
-        "link": "My Lectures",
-        "relativePath": "Spaces/My School/My Lectures/Formas instrumentales del Barroco - L.md"
-      },
-      {
         "fileName": "Formas instrumentales del Barroco (continuación) - L",
         "link": "My Lectures",
         "relativePath": "Spaces/My School/My Lectures/Formas instrumentales del Barroco (continuación) - L.md"
       },
       {
+        "fileName": "Formas instrumentales del Barroco - L",
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/Formas instrumentales del Barroco - L.md"
+      },
+      {
         "fileName": "Formas instrumentales del Barroco (III) - L ",
         "link": "My Lectures",
         "relativePath": "Spaces/My School/My Lectures/Formas instrumentales del Barroco (III) - L .md"
+      },
+      {
+        "fileName": "El proyecto - punto de partida -L",
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/El proyecto - punto de partida -L.md"
       },
       {
         "fileName": "Formas instrumentales del Barroco (II) - L",
@@ -1547,11 +1572,6 @@
         "fileName": "El proyecto gestionado - L",
         "link": "My Lectures",
         "relativePath": "Spaces/My School/My Lectures/El proyecto gestionado - L.md"
-      },
-      {
-        "fileName": "El proyecto - punto de partida -L",
-        "link": "My Lectures",
-        "relativePath": "Spaces/My School/My Lectures/El proyecto - punto de partida -L.md"
       },
       {
         "fileName": "El presupuesto. Estimación de ingresos - L",
@@ -1584,6 +1604,11 @@
         "relativePath": "Spaces/My School/My Lectures/El análisis de la música romántica - L.md"
       },
       {
+        "fileName": "El análisis de la música de Fin de siècle I - L",
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/El análisis de la música de Fin de siècle I - L.md"
+      },
+      {
         "fileName": "El análisis de la música programática - L",
         "link": "My Lectures",
         "relativePath": "Spaces/My School/My Lectures/El análisis de la música programática - L.md"
@@ -1604,9 +1629,9 @@
         "relativePath": "Spaces/My School/My Lectures/El análisis de la música del clasicismo - L.md"
       },
       {
-        "fileName": "El análisis de la música de Fin de siècle I - L",
+        "fileName": "El Romanticismo tardío y los nacionalismos musicales - L",
         "link": "My Lectures",
-        "relativePath": "Spaces/My School/My Lectures/El análisis de la música de Fin de siècle I - L.md"
+        "relativePath": "Spaces/My School/My Lectures/El Romanticismo tardío y los nacionalismos musicales - L.md"
       },
       {
         "fileName": "El análisis de la música a partir de 1850 - Brahms y Wagner - L",
@@ -1634,11 +1659,6 @@
         "relativePath": "Spaces/My School/My Lectures/El Stile Antico - L.md"
       },
       {
-        "fileName": "El Romanticismo tardío y los nacionalismos musicales - L",
-        "link": "My Lectures",
-        "relativePath": "Spaces/My School/My Lectures/El Romanticismo tardío y los nacionalismos musicales - L.md"
-      },
-      {
         "fileName": "El Romanticismo musical - L",
         "link": "My Lectures",
         "relativePath": "Spaces/My School/My Lectures/El Romanticismo musical - L.md"
@@ -1649,6 +1669,11 @@
         "relativePath": "Spaces/My School/My Lectures/El Clasicismo vienés - L.md"
       },
       {
+        "fileName": "Contrapunto riguroso II - generalidades y normas (continuación) - L",
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/Contrapunto riguroso II - generalidades y normas (continuación) - L.md"
+      },
+      {
         "fileName": "El Análisis Musical - L",
         "link": "My Lectures",
         "relativePath": "Spaces/My School/My Lectures/El Análisis Musical - L.md"
@@ -1657,11 +1682,6 @@
         "fileName": "Diseño de sonido - la electroacústica - L",
         "link": "My Lectures",
         "relativePath": "Spaces/My School/My Lectures/Diseño de sonido - la electroacústica - L.md"
-      },
-      {
-        "fileName": "Del comienzo de los tiempos al futuro - la voz humana e instrumentos digitales - L",
-        "link": "My Lectures",
-        "relativePath": "Spaces/My School/My Lectures/Del comienzo de los tiempos al futuro - la voz humana e instrumentos digitales - L.md"
       },
       {
         "fileName": "Del Stil Antico al Stil Nuovo - L",
@@ -1687,11 +1707,6 @@
         "fileName": "Contrapunto riguroso III - Segunda especie - L",
         "link": "My Lectures",
         "relativePath": "Spaces/My School/My Lectures/Contrapunto riguroso III - Segunda especie - L.md"
-      },
-      {
-        "fileName": "Contrapunto riguroso II - generalidades y normas (continuación) - L",
-        "link": "My Lectures",
-        "relativePath": "Spaces/My School/My Lectures/Contrapunto riguroso II - generalidades y normas (continuación) - L.md"
       },
       {
         "fileName": "Contrapunto riguroso I - generalidades y normas - L",
@@ -1734,6 +1749,11 @@
         "relativePath": "Spaces/My School/My Lectures/Composición de tema y variaciones - L.md"
       },
       {
+        "fileName": "Composicion de un minuetto - L",
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/Composicion de un minuetto - L.md"
+      },
+      {
         "fileName": "Composición de tema y variaciones (continuacion) - L",
         "link": "My Lectures",
         "relativePath": "Spaces/My School/My Lectures/Composición de tema y variaciones (continuacion) - L.md"
@@ -1744,9 +1764,9 @@
         "relativePath": "Spaces/My School/My Lectures/Claves sobre la ópera II - L.md"
       },
       {
-        "fileName": "Composicion de un minuetto - L",
+        "fileName": " Instrumentos de viento metal - L",
         "link": "My Lectures",
-        "relativePath": "Spaces/My School/My Lectures/Composicion de un minuetto - L.md"
+        "relativePath": "Spaces/My School/My Lectures/ Instrumentos de viento metal - L.md"
       },
       {
         "fileName": "Claves sobre la ópera I - L",
@@ -1769,6 +1789,11 @@
         "relativePath": "Spaces/My School/My Lectures/Armonía tonal del siglo XX (2ª parte) - Tonal - L.md"
       },
       {
+        "fileName": "Atonalidad - L",
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/Atonalidad - L.md"
+      },
+      {
         "fileName": "Armonía del siglo XX (3ª parte) - No tonal - L",
         "link": "My Lectures",
         "relativePath": "Spaces/My School/My Lectures/Armonía del siglo XX (3ª parte) - No tonal - L.md"
@@ -1782,6 +1807,11 @@
         "fileName": "Acústica del espacio musical - L",
         "link": "My Lectures",
         "relativePath": "Spaces/My School/My Lectures/Acústica del espacio musical - L.md"
+      },
+      {
+        "fileName": " El siglo XX y las revoluciones de la escena. - L",
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/ El siglo XX y las revoluciones de la escena. - L.md"
       },
       {
         "fileName": " Análisis de orquestación - L",
@@ -1802,6 +1832,16 @@
         "fileName": "Lecture Template",
         "link": "My Lectures",
         "relativePath": "Extras/Templates/School/Lecture Template.md"
+      },
+      {
+        "fileName": "El análisis de la música de Fin de siècle I - L 1",
+        "link": "My Lectures",
+        "relativePath": "1.Inbox/El análisis de la música de Fin de siècle I - L 1.md"
+      },
+      {
+        "fileName": "Del comienzo de los tiempos al futuro - la voz humana e instrumentos digitales - L",
+        "link": "My Lectures",
+        "relativePath": "1.Inbox/Del comienzo de los tiempos al futuro - la voz humana e instrumentos digitales - L.md"
       }
     ]
   },
@@ -1821,10 +1861,6 @@
       "Semester": 4
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -1866,6 +1902,62 @@
     ]
   },
   {
+    "fileName": "La música instrumental de la segunda mitad del siglo XIX - L",
+    "relativePath": "Spaces/My School/My Lectures/La música instrumental de la segunda mitad del siglo XIX - L.md",
+    "tags": [
+      "lecture",
+      "historia"
+    ],
+    "frontmatter": {
+      "Course": "[[Historia de la Música II]]",
+      "Created": "2024-08-19 12:16",
+      "Tema": "10",
+      "modified": "2024-08-21T14:11:49+02:00",
+      "Status": "🟥",
+      "Semester": 4
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      },
+      {
+        "heading": "Los poemas sinfónicos: Franz Liszt",
+        "level": 3
+      },
+      {
+        "heading": "Johannes Brahms y la música absoluta",
+        "level": 3
+      },
+      {
+        "heading": "Los wagnerianos: Anton Bruckner, Hugo Wolf, Gustav Mahler y Richard Strauss",
+        "level": 3
+      },
+      {
+        "heading": "Bruckner",
+        "level": 4
+      },
+      {
+        "heading": "Wolf",
+        "level": 4
+      },
+      {
+        "heading": "Gustav Mahler",
+        "level": 4
+      },
+      {
+        "heading": "Richard Strauss",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
+      }
+    ]
+  },
+  {
     "fileName": "Música instrumental de la Edad Media - L",
     "relativePath": "Spaces/My School/My Lectures/Música instrumental de la Edad Media - L.md",
     "tags": [
@@ -1880,10 +1972,6 @@
       "Status": "#🟨"
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -1925,13 +2013,9 @@
       "Course": "[[Análisis I]]",
       "Created": "2023-10-26 12:57",
       "Tema": "2",
-      "modified": "2024-03-01T13:58:02+01:00"
+      "modified": "2024-12-17T12:11:06+01:00"
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -1945,6 +2029,34 @@
       {
         "link": "Análisis I",
         "relativePath": "Spaces/My School/My Courses/Análisis I.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Marketing, clave en todo proyecto cultural - L",
+    "relativePath": "Spaces/My School/My Lectures/Marketing, clave en todo proyecto cultural - L.md",
+    "tags": [
+      "lecture",
+      "empresa"
+    ],
+    "frontmatter": {
+      "Course": "Gestión de Empresas",
+      "Created": "2024-05-09 12:26",
+      "Tema": "8",
+      "modified": "2024-05-09T12:28:16+02:00",
+      "Status": "🟥",
+      "Semester": 4
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
       }
     ]
   },
@@ -1987,7 +2099,7 @@
       "Course": "[[Música Para la Escena ]]",
       "Created": "2024-11-12 15:37",
       "Tema": "9",
-      "modified": "2024-11-16T18:45:24+01:00",
+      "modified": "2024-12-05T16:03:22+01:00",
       "Status": "🟥",
       "Semester": 4
     },
@@ -1999,38 +2111,6 @@
       {
         "heading": "Los secuenciadores. Estructura y funcionamiento",
         "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "My Lectures",
-        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Marketing, clave en todo proyecto cultural - L",
-    "relativePath": "Spaces/My School/My Lectures/Marketing, clave en todo proyecto cultural - L.md",
-    "tags": [
-      "lecture",
-      "empresa"
-    ],
-    "frontmatter": {
-      "Course": "Gestión de Empresas",
-      "Created": "2024-05-09 12:26",
-      "Tema": "8",
-      "modified": "2024-05-09T12:28:16+02:00",
-      "Status": "🟥",
-      "Semester": 4
-    },
-    "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
-        "heading": "Notes",
-        "level": 2
       }
     ],
     "links": [
@@ -2099,14 +2179,10 @@
       "Course": "[[Historia de la Música II]]",
       "Created": "2023-12-05 17:04",
       "Tema": "5",
-      "modified": "2024-08-10T22:45:18+02:00",
+      "modified": "2024-12-05T11:09:47+01:00",
       "Status": "#🟨"
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -2116,15 +2192,15 @@
         "level": 3
       },
       {
-        "heading": "Primera etapa",
+        "heading": "Primera etapa (hasta 1802)",
         "level": 4
       },
       {
-        "heading": "Segunda etapa",
+        "heading": "Segunda etapa (1803 a 1814)",
         "level": 4
       },
       {
-        "heading": "Tercera Etapa",
+        "heading": "Tercera Etapa (1815 al 1827)",
         "level": 4
       }
     ],
@@ -2151,10 +2227,6 @@
       "Semester": 4
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -2184,10 +2256,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       }
@@ -2215,10 +2283,6 @@
       "Semester": 4
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -2258,10 +2322,6 @@
       "Status": "#🟥"
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -2318,10 +2378,6 @@
       "Status": "#🟨"
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -2407,10 +2463,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       },
@@ -2449,10 +2501,6 @@
       "modified": "2024-03-01T13:57:31+01:00"
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -2494,62 +2542,6 @@
     ]
   },
   {
-    "fileName": "La música instrumental de la segunda mitad del siglo XIX - L",
-    "relativePath": "Spaces/My School/My Lectures/La música instrumental de la segunda mitad del siglo XIX - L.md",
-    "tags": [
-      "lecture",
-      "historia"
-    ],
-    "frontmatter": {
-      "Course": "[[Historia de la Música II]]",
-      "Created": "2024-08-19 12:16",
-      "Tema": "10",
-      "modified": "2024-08-21T14:11:49+02:00",
-      "Status": "🟥",
-      "Semester": 4
-    },
-    "headings": [
-      {
-        "heading": "Notes",
-        "level": 2
-      },
-      {
-        "heading": "Los poemas sinfónicos: Franz Liszt",
-        "level": 3
-      },
-      {
-        "heading": "Johannes Brahms y la música absoluta",
-        "level": 3
-      },
-      {
-        "heading": "Los wagnerianos: Anton Bruckner, Hugo Wolf, Gustav Mahler y Richard Strauss",
-        "level": 3
-      },
-      {
-        "heading": "Bruckner",
-        "level": 4
-      },
-      {
-        "heading": "Wolf",
-        "level": 4
-      },
-      {
-        "heading": "Gustav Mahler",
-        "level": 4
-      },
-      {
-        "heading": "Richard Strauss",
-        "level": 4
-      }
-    ],
-    "links": [
-      {
-        "link": "My Lectures",
-        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
-      }
-    ]
-  },
-  {
     "fileName": "La música nacionalista - L",
     "relativePath": "Spaces/My School/My Lectures/La música nacionalista - L.md",
     "tags": [
@@ -2565,10 +2557,6 @@
       "Semester": 4
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -2608,10 +2596,6 @@
       "modified": "2024-10-31T17:29:33+01:00"
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -2677,10 +2661,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       },
@@ -2725,6 +2705,66 @@
     ]
   },
   {
+    "fileName": "La música después de la Segunda Guerra Mundial hasta 1960-1970 (parte II)",
+    "relativePath": "Spaces/My School/My Lectures/La música después de la Segunda Guerra Mundial hasta 1960-1970 (parte II).md",
+    "tags": [
+      "lecture",
+      "historia3"
+    ],
+    "frontmatter": {
+      "Course": "[[Historia de la Música siglo XX y XXI]]",
+      "Created": "2024-05-03 13:16",
+      "Tema": "4",
+      "modified": "2024-06-21T15:50:21+02:00",
+      "Status": "🟥",
+      "Semester": 4
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      },
+      {
+        "heading": "Innovaciones en la textura y la forma: micropolifonía y música estocástica",
+        "level": 3
+      },
+      {
+        "heading": "György Ligeti (1923-2006)",
+        "level": 4
+      },
+      {
+        "heading": "Iannis Xenakis (1922-2001)",
+        "level": 4
+      },
+      {
+        "heading": "Helmut Lachenmann (1935- )",
+        "level": 4
+      },
+      {
+        "heading": "Música y compromiso político: Luigi Nono, Hans Werner Henze",
+        "level": 3
+      },
+      {
+        "heading": "Luigi Nono",
+        "level": 4
+      },
+      {
+        "heading": "Hans Werner Henze",
+        "level": 4
+      },
+      {
+        "heading": "Libre improvisación",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
+      }
+    ]
+  },
+  {
     "fileName": "La música entre las dos guerras mundiales - L",
     "relativePath": "Spaces/My School/My Lectures/La música entre las dos guerras mundiales - L.md",
     "tags": [
@@ -2740,10 +2780,6 @@
       "Semester": 4
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -2805,70 +2841,6 @@
     ]
   },
   {
-    "fileName": "La música después de la Segunda Guerra Mundial hasta 1960-1970 (parte II)",
-    "relativePath": "Spaces/My School/My Lectures/La música después de la Segunda Guerra Mundial hasta 1960-1970 (parte II).md",
-    "tags": [
-      "lecture",
-      "historia3"
-    ],
-    "frontmatter": {
-      "Course": "[[Historia de la Música siglo XX y XXI]]",
-      "Created": "2024-05-03 13:16",
-      "Tema": "4",
-      "modified": "2024-06-21T15:50:21+02:00",
-      "Status": "🟥",
-      "Semester": 4
-    },
-    "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
-        "heading": "Notes",
-        "level": 2
-      },
-      {
-        "heading": "Innovaciones en la textura y la forma: micropolifonía y música estocástica",
-        "level": 3
-      },
-      {
-        "heading": "György Ligeti (1923-2006)",
-        "level": 4
-      },
-      {
-        "heading": "Iannis Xenakis (1922-2001)",
-        "level": 4
-      },
-      {
-        "heading": "Helmut Lachenmann (1935- )",
-        "level": 4
-      },
-      {
-        "heading": "Música y compromiso político: Luigi Nono, Hans Werner Henze",
-        "level": 3
-      },
-      {
-        "heading": "Luigi Nono",
-        "level": 4
-      },
-      {
-        "heading": "Hans Werner Henze",
-        "level": 4
-      },
-      {
-        "heading": "Libre improvisación",
-        "level": 4
-      }
-    ],
-    "links": [
-      {
-        "link": "My Lectures",
-        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
-      }
-    ]
-  },
-  {
     "fileName": "La música después de la Segunda Guerra Mundial hasta 1960-1970 (parte I) - L",
     "relativePath": "Spaces/My School/My Lectures/La música después de la Segunda Guerra Mundial hasta 1960-1970 (parte I) - L.md",
     "tags": [
@@ -2884,10 +2856,6 @@
       "Semester": 4
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -2937,38 +2905,6 @@
     ]
   },
   {
-    "fileName": "La música a finales del siglo XIX y los inicios del siglo XX -L",
-    "relativePath": "Spaces/My School/My Lectures/La música a finales del siglo XIX y los inicios del siglo XX -L.md",
-    "tags": [
-      "lecture",
-      "historia3"
-    ],
-    "frontmatter": {
-      "Course": "[[Historia de la Música siglo XX y XXI]]",
-      "Created": "2024-03-08 18:03",
-      "Tema": "1",
-      "modified": "2024-04-14T20:37:10+02:00",
-      "Status": "🟥",
-      "Semester": 4
-    },
-    "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
-        "heading": "Notes",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "My Lectures",
-        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
-      }
-    ]
-  },
-  {
     "fileName": "La modulación de amplitud - L",
     "relativePath": "Spaces/My School/My Lectures/La modulación de amplitud - L.md",
     "tags": [
@@ -2979,7 +2915,7 @@
       "Course": "[[Síntesis de sonido]]",
       "Created": "2024-12-01 13:13",
       "Tema": "5",
-      "modified": "2024-12-01T22:22:57+01:00",
+      "modified": "2024-12-04T17:07:42+01:00",
       "Status": "🟥",
       "Semester": 4
     },
@@ -3029,10 +2965,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       }
@@ -3045,25 +2977,21 @@
     ]
   },
   {
-    "fileName": "La empresa y el ámbito jurídico - L",
-    "relativePath": "Spaces/My School/My Lectures/La empresa y el ámbito jurídico - L.md",
+    "fileName": "La música a finales del siglo XIX y los inicios del siglo XX -L",
+    "relativePath": "Spaces/My School/My Lectures/La música a finales del siglo XIX y los inicios del siglo XX -L.md",
     "tags": [
       "lecture",
-      "empresa"
+      "historia3"
     ],
     "frontmatter": {
-      "Course": "Gestión de Empresas",
-      "Created": "2024-03-21 11:04",
-      "Tema": "2",
-      "modified": "2024-03-21T12:03:50+01:00",
+      "Course": "[[Historia de la Música siglo XX y XXI]]",
+      "Created": "2024-03-08 18:03",
+      "Tema": "1",
+      "modified": "2024-04-14T20:37:10+02:00",
       "Status": "🟥",
       "Semester": 4
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -3092,10 +3020,6 @@
       "Semester": 4
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -3148,10 +3072,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       },
@@ -3168,39 +3088,24 @@
     ]
   },
   {
-    "fileName": "J. S. Bach, la música vocal - L",
-    "relativePath": "Spaces/My School/My Lectures/J. S. Bach, la música vocal - L.md",
+    "fileName": "La empresa y el ámbito jurídico - L",
+    "relativePath": "Spaces/My School/My Lectures/La empresa y el ámbito jurídico - L.md",
     "tags": [
-      "lecture"
+      "lecture",
+      "empresa"
     ],
     "frontmatter": {
-      "Semester": 3,
-      "Course": "[[Análisis I]]",
-      "Created": "2024-01-25 14:46",
-      "Tema": "11",
-      "modified": "2024-03-01T13:52:17+01:00",
-      "Status": "#🟨"
+      "Course": "Gestión de Empresas",
+      "Created": "2024-03-21 11:04",
+      "Tema": "2",
+      "modified": "2024-03-21T12:03:50+01:00",
+      "Status": "🟥",
+      "Semester": 4
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
-      },
-      {
-        "heading": "El coral",
-        "level": 3
-      },
-      {
-        "heading": "La cantata",
-        "level": 3
-      },
-      {
-        "heading": "El oratorio",
-        "level": 3
       }
     ],
     "links": [
@@ -3221,7 +3126,7 @@
       "Course": "[[Instrumentación y Orquestación]]",
       "Created": "2024-11-19 16:06",
       "Tema": "4",
-      "modified": "2024-11-28T12:58:14+01:00",
+      "modified": "2024-12-05T13:49:08+01:00",
       "Status": "🟥",
       "Semester": 4
     },
@@ -3265,6 +3170,14 @@
       {
         "heading": "La Orquesta de Beethoven",
         "level": 3
+      },
+      {
+        "heading": "Violoncello",
+        "level": 3
+      },
+      {
+        "heading": "Contrabajo",
+        "level": 3
       }
     ],
     "links": [
@@ -3275,111 +3188,83 @@
     ]
   },
   {
-    "fileName": "Inicios de la notación occidental - L",
-    "relativePath": "Spaces/My School/My Lectures/Inicios de la notación occidental - L.md",
+    "fileName": "Instrumentos de viento-madera - L",
+    "relativePath": "Spaces/My School/My Lectures/Instrumentos de viento-madera - L.md",
     "tags": [
-      "🟨",
+      "lecture",
+      "orquestacion"
+    ],
+    "frontmatter": {
+      "Course": "[[Instrumentación y Orquestación]]",
+      "Created": "2024-12-10 15:14",
+      "Tema": "5",
+      "modified": "2024-12-10T15:58:37+01:00",
+      "Status": "🟥",
+      "Semester": 4
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      },
+      {
+        "heading": "Flauta",
+        "level": 3
+      },
+      {
+        "heading": "Oboe",
+        "level": 3
+      },
+      {
+        "heading": "Corno inglés",
+        "level": 3
+      },
+      {
+        "heading": "Clarinete",
+        "level": 3
+      },
+      {
+        "heading": "Fagot",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
+      }
+    ]
+  },
+  {
+    "fileName": "J. S. Bach, la música vocal - L",
+    "relativePath": "Spaces/My School/My Lectures/J. S. Bach, la música vocal - L.md",
+    "tags": [
       "lecture"
     ],
     "frontmatter": {
       "Semester": 3,
-      "Course": "[[Notación y Transcripción]]",
-      "Created": "2023-10-25 14:05",
-      "Tema": "2",
-      "modified": "2024-03-01T13:58:07+01:00"
+      "Course": "[[Análisis I]]",
+      "Created": "2024-01-25 14:46",
+      "Tema": "11",
+      "modified": "2024-03-01T13:52:17+01:00",
+      "Status": "#🟨"
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
       },
       {
-        "heading": "Notación Dasiana",
+        "heading": "El coral",
         "level": 3
       },
       {
-        "heading": "Alfabética Latina",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "My Lectures",
-        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
-      },
-      {
-        "link": "Notación y Transcripción",
-        "relativePath": "Spaces/My School/My Courses/Notación y Transcripción.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Influencias populares y extraoccidentales - L",
-    "relativePath": "Spaces/My School/My Lectures/Influencias populares y extraoccidentales - L.md",
-    "tags": [
-      "lecture",
-      "historia3"
-    ],
-    "frontmatter": {
-      "Course": "[[Historia de la Música siglo XX y XXI]]",
-      "Created": "2024-05-31 14:48",
-      "Tema": "7",
-      "modified": "2024-06-05T16:25:06+02:00",
-      "Status": "🟥",
-      "Semester": 4
-    },
-    "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
-        "heading": "Notes",
-        "level": 2
-      },
-      {
-        "heading": "El Oriente y otras culturas no occidentales",
+        "heading": "La cantata",
         "level": 3
       },
       {
-        "heading": "La música en el cine",
+        "heading": "El oratorio",
         "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "My Lectures",
-        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Imitación a la cuarta y a la quinta - L",
-    "relativePath": "Spaces/My School/My Lectures/Imitación a la cuarta y a la quinta - L.md",
-    "tags": [
-      "lecture",
-      "contrapunto"
-    ],
-    "frontmatter": {
-      "Course": "[[Contrapunto]]",
-      "Created": "2024-05-02 12:05",
-      "Tema": "8",
-      "modified": "2024-05-02T12:06:11+02:00",
-      "Status": "🟥",
-      "Semester": 4
-    },
-    "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
-        "heading": "Notes",
-        "level": 2
       }
     ],
     "links": [
@@ -3454,6 +3339,81 @@
     ]
   },
   {
+    "fileName": "Inicios de la notación occidental - L",
+    "relativePath": "Spaces/My School/My Lectures/Inicios de la notación occidental - L.md",
+    "tags": [
+      "🟨",
+      "lecture"
+    ],
+    "frontmatter": {
+      "Semester": 3,
+      "Course": "[[Notación y Transcripción]]",
+      "Created": "2023-10-25 14:05",
+      "Tema": "2",
+      "modified": "2024-03-01T13:58:07+01:00"
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      },
+      {
+        "heading": "Notación Dasiana",
+        "level": 3
+      },
+      {
+        "heading": "Alfabética Latina",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
+      },
+      {
+        "link": "Notación y Transcripción",
+        "relativePath": "Spaces/My School/My Courses/Notación y Transcripción.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Influencias populares y extraoccidentales - L",
+    "relativePath": "Spaces/My School/My Lectures/Influencias populares y extraoccidentales - L.md",
+    "tags": [
+      "lecture",
+      "historia3"
+    ],
+    "frontmatter": {
+      "Course": "[[Historia de la Música siglo XX y XXI]]",
+      "Created": "2024-05-31 14:48",
+      "Tema": "7",
+      "modified": "2024-06-05T16:25:06+02:00",
+      "Status": "🟥",
+      "Semester": 4
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      },
+      {
+        "heading": "El Oriente y otras culturas no occidentales",
+        "level": 3
+      },
+      {
+        "heading": "La música en el cine",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
+      }
+    ]
+  },
+  {
     "fileName": "Generalidades. Discurso y lectura orquestal - L",
     "relativePath": "Spaces/My School/My Lectures/Generalidades. Discurso y lectura orquestal - L.md",
     "tags": [
@@ -3498,6 +3458,34 @@
     ]
   },
   {
+    "fileName": "Imitación a la cuarta y a la quinta - L",
+    "relativePath": "Spaces/My School/My Lectures/Imitación a la cuarta y a la quinta - L.md",
+    "tags": [
+      "lecture",
+      "contrapunto"
+    ],
+    "frontmatter": {
+      "Course": "[[Contrapunto]]",
+      "Created": "2024-05-02 12:05",
+      "Tema": "8",
+      "modified": "2024-05-02T12:06:11+02:00",
+      "Status": "🟥",
+      "Semester": 4
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
+      }
+    ]
+  },
+  {
     "fileName": "Generalidades de la composición II - L",
     "relativePath": "Spaces/My School/My Lectures/Generalidades de la composición II - L.md",
     "tags": [
@@ -3513,10 +3501,6 @@
       "modified": "2024-03-01T13:57:36+01:00"
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -3585,10 +3569,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       },
@@ -3637,63 +3617,6 @@
     ]
   },
   {
-    "fileName": "Formas instrumentales del Barroco - L",
-    "relativePath": "Spaces/My School/My Lectures/Formas instrumentales del Barroco - L.md",
-    "tags": [
-      "lecture"
-    ],
-    "frontmatter": {
-      "Semester": 3,
-      "Course": "[[Análisis I]]",
-      "Created": "2023-12-11 16:31",
-      "Tema": "7",
-      "modified": "2024-08-15T15:06:15+02:00",
-      "Status": "#🟨"
-    },
-    "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
-        "heading": "Notes",
-        "level": 2
-      },
-      {
-        "heading": "La fuga",
-        "level": 3
-      },
-      {
-        "heading": "Parte temática",
-        "level": 3
-      },
-      {
-        "heading": "Primera sección:",
-        "level": 4
-      },
-      {
-        "heading": "Segunda sección",
-        "level": 4
-      },
-      {
-        "heading": "Tercera sección",
-        "level": 4
-      }
-    ],
-    "links": [
-      {
-        "link": "My Lectures",
-        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
-      },
-      {
-        "link": "Notación cuadrada - L#El motete",
-        "cleanLink": "Notación cuadrada - L",
-        "displayText": "motetes",
-        "relativePath": "Spaces/My School/My Lectures/Notación cuadrada - L.md"
-      }
-    ]
-  },
-  {
     "fileName": "Formas instrumentales del Barroco (continuación) - L",
     "relativePath": "Spaces/My School/My Lectures/Formas instrumentales del Barroco (continuación) - L.md",
     "tags": [
@@ -3708,10 +3631,6 @@
       "Status": "#🟨"
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -3763,6 +3682,59 @@
     ]
   },
   {
+    "fileName": "Formas instrumentales del Barroco - L",
+    "relativePath": "Spaces/My School/My Lectures/Formas instrumentales del Barroco - L.md",
+    "tags": [
+      "lecture"
+    ],
+    "frontmatter": {
+      "Semester": 3,
+      "Course": "[[Análisis I]]",
+      "Created": "2023-12-11 16:31",
+      "Tema": "7",
+      "modified": "2024-08-15T15:06:15+02:00",
+      "Status": "#🟨"
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      },
+      {
+        "heading": "La fuga",
+        "level": 3
+      },
+      {
+        "heading": "Parte temática",
+        "level": 3
+      },
+      {
+        "heading": "Primera sección:",
+        "level": 4
+      },
+      {
+        "heading": "Segunda sección",
+        "level": 4
+      },
+      {
+        "heading": "Tercera sección",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
+      },
+      {
+        "link": "Notación cuadrada - L#El motete",
+        "cleanLink": "Notación cuadrada - L",
+        "displayText": "motetes",
+        "relativePath": "Spaces/My School/My Lectures/Notación cuadrada - L.md"
+      }
+    ]
+  },
+  {
     "fileName": "Formas instrumentales del Barroco (III) - L ",
     "relativePath": "Spaces/My School/My Lectures/Formas instrumentales del Barroco (III) - L .md",
     "tags": [
@@ -3777,10 +3749,6 @@
       "Status": "#🟨"
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -3806,6 +3774,34 @@
     ]
   },
   {
+    "fileName": "El proyecto - punto de partida -L",
+    "relativePath": "Spaces/My School/My Lectures/El proyecto - punto de partida -L.md",
+    "tags": [
+      "lecture",
+      "empresa"
+    ],
+    "frontmatter": {
+      "Course": "Gestión de Empresas",
+      "Created": "2024-03-21 10:51",
+      "Tema": "3",
+      "modified": "2024-03-21T10:51:31+01:00",
+      "Status": "🟥",
+      "Semester": 4
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
+      }
+    ]
+  },
+  {
     "fileName": "Formas instrumentales del Barroco (II) - L",
     "relativePath": "Spaces/My School/My Lectures/Formas instrumentales del Barroco (II) - L.md",
     "tags": [
@@ -3820,10 +3816,6 @@
       "Status": "#🟨"
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -3916,10 +3908,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       },
@@ -3972,48 +3960,12 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       },
       {
         "heading": "Proyecto ya gestionado",
         "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "My Lectures",
-        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
-      }
-    ]
-  },
-  {
-    "fileName": "El proyecto - punto de partida -L",
-    "relativePath": "Spaces/My School/My Lectures/El proyecto - punto de partida -L.md",
-    "tags": [
-      "lecture",
-      "empresa"
-    ],
-    "frontmatter": {
-      "Course": "Gestión de Empresas",
-      "Created": "2024-03-21 10:51",
-      "Tema": "3",
-      "modified": "2024-03-21T10:51:31+01:00",
-      "Status": "🟥",
-      "Semester": 4
-    },
-    "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
-        "heading": "Notes",
-        "level": 2
       }
     ],
     "links": [
@@ -4039,10 +3991,6 @@
       "Semester": 4
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -4074,10 +4022,6 @@
       "Status": "#🟨"
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -4127,10 +4071,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       }
@@ -4162,10 +4102,6 @@
       "Status": "#🟨"
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -4221,10 +4157,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       },
@@ -4265,10 +4197,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       },
@@ -4297,6 +4225,62 @@
     ]
   },
   {
+    "fileName": "El análisis de la música de Fin de siècle I - L",
+    "relativePath": "Spaces/My School/My Lectures/El análisis de la música de Fin de siècle I - L.md",
+    "tags": [
+      "lecture",
+      "analisis2"
+    ],
+    "frontmatter": {
+      "Course": "[[Análisis II]]",
+      "Created": "2024-05-29 13:55",
+      "Tema": "1",
+      "modified": "2024-06-18T16:00:19+02:00",
+      "Status": "🟥",
+      "Semester": 4
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      },
+      {
+        "heading": "Concepto fin de siècle",
+        "level": 3
+      },
+      {
+        "heading": "Fin de siècle en Francia",
+        "level": 3
+      },
+      {
+        "heading": "Debussy: Arabesque n ° 1",
+        "level": 4
+      },
+      {
+        "heading": "Satie: Gymnopédie n ° 1",
+        "level": 4
+      },
+      {
+        "heading": "Ravel: Jeux d'eaux",
+        "level": 4
+      },
+      {
+        "heading": "Ravel: Le tombe",
+        "level": 4
+      },
+      {
+        "heading": "Fin de siècle en Rusia",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
+      }
+    ]
+  },
+  {
     "fileName": "El análisis de la música programática - L",
     "relativePath": "Spaces/My School/My Lectures/El análisis de la música programática - L.md",
     "tags": [
@@ -4312,10 +4296,6 @@
       "Semester": 4
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -4347,10 +4327,6 @@
       "Semester": 4
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -4403,10 +4379,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       },
@@ -4439,10 +4411,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       },
@@ -4459,276 +4427,6 @@
       {
         "link": "My Lectures",
         "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
-      }
-    ]
-  },
-  {
-    "fileName": "El análisis de la música de Fin de siècle I - L",
-    "relativePath": "Spaces/My School/My Lectures/El análisis de la música de Fin de siècle I - L.md",
-    "tags": [
-      "lecture",
-      "analisis2"
-    ],
-    "frontmatter": {
-      "Course": "[[Análisis II]]",
-      "Created": "2024-05-29 13:55",
-      "Tema": "1",
-      "modified": "2024-06-18T16:00:19+02:00",
-      "Status": "🟥",
-      "Semester": 4
-    },
-    "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
-        "heading": "Notes",
-        "level": 2
-      },
-      {
-        "heading": "Concepto fin de siècle",
-        "level": 3
-      },
-      {
-        "heading": "Fin de siècle en Francia",
-        "level": 3
-      },
-      {
-        "heading": "Debussy: Arabesque n ° 1",
-        "level": 4
-      },
-      {
-        "heading": "Satie: Gymnopédie n ° 1",
-        "level": 4
-      },
-      {
-        "heading": "Ravel: Jeux d'eaux",
-        "level": 4
-      },
-      {
-        "heading": "Ravel: Le tombe",
-        "level": 4
-      },
-      {
-        "heading": "Fin de siècle en Rusia",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "My Lectures",
-        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
-      }
-    ]
-  },
-  {
-    "fileName": "El análisis de la música a partir de 1850 - Brahms y Wagner - L",
-    "relativePath": "Spaces/My School/My Lectures/El análisis de la música a partir de 1850 - Brahms y Wagner - L.md",
-    "tags": [
-      "lecture",
-      "analisis2"
-    ],
-    "frontmatter": {
-      "Course": "[[Análisis II]]",
-      "Created": "2024-05-22 14:04",
-      "Tema": "9",
-      "modified": "2024-05-22T16:45:07+02:00",
-      "Status": "🟥",
-      "Semester": 4
-    },
-    "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
-        "heading": "Notes",
-        "level": 2
-      },
-      {
-        "heading": "Análisis de la música de Brahms: la tradición",
-        "level": 3
-      },
-      {
-        "heading": "Análisis de la música de Wagner: la revolución",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "My Lectures",
-        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
-      }
-    ]
-  },
-  {
-    "fileName": "El análisis de la forma sonata en Mozart - L",
-    "relativePath": "Spaces/My School/My Lectures/El análisis de la forma sonata en Mozart - L.md",
-    "tags": [
-      "lecture",
-      "analisis2"
-    ],
-    "frontmatter": {
-      "Course": "[[Análisis II]]",
-      "Created": "2024-04-17 13:00",
-      "Tema": "4",
-      "modified": "2024-04-17T17:32:27+02:00",
-      "Status": "🟥",
-      "Semester": 4
-    },
-    "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
-        "heading": "Notes",
-        "level": 2
-      },
-      {
-        "heading": "La sonata en Mozart",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "My Lectures",
-        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
-      }
-    ]
-  },
-  {
-    "fileName": "El análisis de la forma sonata en Haydn - L",
-    "relativePath": "Spaces/My School/My Lectures/El análisis de la forma sonata en Haydn - L.md",
-    "tags": [
-      "lecture",
-      "analisis2"
-    ],
-    "frontmatter": {
-      "Course": "[[Análisis II]]",
-      "Created": "2024-04-12 14:47",
-      "Tema": "3",
-      "modified": "2024-04-14T18:22:57+02:00",
-      "Status": "🟨",
-      "Semester": 4
-    },
-    "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
-        "heading": "Notes",
-        "level": 2
-      },
-      {
-        "heading": "La sonata en Haydn",
-        "level": 3
-      },
-      {
-        "heading": "La sinfonía en Haydn",
-        "level": 3
-      },
-      {
-        "heading": "El cuarteto en Haydn",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "My Lectures",
-        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
-      }
-    ]
-  },
-  {
-    "fileName": "El análisis de la forma sonata en Beethoven - L",
-    "relativePath": "Spaces/My School/My Lectures/El análisis de la forma sonata en Beethoven - L.md",
-    "tags": [
-      "lecture",
-      "analisis2"
-    ],
-    "frontmatter": {
-      "Course": "[[Análisis II]]",
-      "Created": "2024-05-01 12:50",
-      "Tema": "5",
-      "modified": "2024-06-23T13:59:24+02:00",
-      "Status": "🟥",
-      "Semester": 4
-    },
-    "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
-        "heading": "Notes",
-        "level": 2
-      },
-      {
-        "heading": "La sonata en Beethoven",
-        "level": 3
-      },
-      {
-        "heading": "La sinfonía en Beethoven",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "My Lectures",
-        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
-      }
-    ]
-  },
-  {
-    "fileName": "El Stile Antico - L",
-    "relativePath": "Spaces/My School/My Lectures/El Stile Antico - L.md",
-    "tags": [
-      "lecture",
-      "🟨"
-    ],
-    "frontmatter": {
-      "Semester": 3,
-      "Course": "[[Análisis I]]",
-      "Created": "2023-11-09 17:37",
-      "Tema": "4",
-      "modified": "2024-03-01T13:57:20+01:00",
-      "Status": "#🟨"
-    },
-    "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
-        "heading": "Notes",
-        "level": 2
-      },
-      {
-        "heading": "El Concilio de Trento",
-        "level": 3
-      },
-      {
-        "heading": "Palestrina",
-        "level": 3
-      },
-      {
-        "heading": "Tomás de Victoria",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "My Lectures",
-        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
-      },
-      {
-        "link": "Notación cuadrada - L#El motete",
-        "cleanLink": "Notación cuadrada - L",
-        "displayText": "motete",
-        "relativePath": "Spaces/My School/My Lectures/Notación cuadrada - L.md"
       }
     ]
   },
@@ -4777,6 +4475,196 @@
     ]
   },
   {
+    "fileName": "El análisis de la música a partir de 1850 - Brahms y Wagner - L",
+    "relativePath": "Spaces/My School/My Lectures/El análisis de la música a partir de 1850 - Brahms y Wagner - L.md",
+    "tags": [
+      "lecture",
+      "analisis2"
+    ],
+    "frontmatter": {
+      "Course": "[[Análisis II]]",
+      "Created": "2024-05-22 14:04",
+      "Tema": "9",
+      "modified": "2024-05-22T16:45:07+02:00",
+      "Status": "🟥",
+      "Semester": 4
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      },
+      {
+        "heading": "Análisis de la música de Brahms: la tradición",
+        "level": 3
+      },
+      {
+        "heading": "Análisis de la música de Wagner: la revolución",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
+      }
+    ]
+  },
+  {
+    "fileName": "El análisis de la forma sonata en Mozart - L",
+    "relativePath": "Spaces/My School/My Lectures/El análisis de la forma sonata en Mozart - L.md",
+    "tags": [
+      "lecture",
+      "analisis2"
+    ],
+    "frontmatter": {
+      "Course": "[[Análisis II]]",
+      "Created": "2024-04-17 13:00",
+      "Tema": "4",
+      "modified": "2024-04-17T17:32:27+02:00",
+      "Status": "🟥",
+      "Semester": 4
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      },
+      {
+        "heading": "La sonata en Mozart",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
+      }
+    ]
+  },
+  {
+    "fileName": "El análisis de la forma sonata en Haydn - L",
+    "relativePath": "Spaces/My School/My Lectures/El análisis de la forma sonata en Haydn - L.md",
+    "tags": [
+      "lecture",
+      "analisis2"
+    ],
+    "frontmatter": {
+      "Course": "[[Análisis II]]",
+      "Created": "2024-04-12 14:47",
+      "Tema": "3",
+      "modified": "2024-04-14T18:22:57+02:00",
+      "Status": "🟨",
+      "Semester": 4
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      },
+      {
+        "heading": "La sonata en Haydn",
+        "level": 3
+      },
+      {
+        "heading": "La sinfonía en Haydn",
+        "level": 3
+      },
+      {
+        "heading": "El cuarteto en Haydn",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
+      }
+    ]
+  },
+  {
+    "fileName": "El análisis de la forma sonata en Beethoven - L",
+    "relativePath": "Spaces/My School/My Lectures/El análisis de la forma sonata en Beethoven - L.md",
+    "tags": [
+      "lecture",
+      "analisis2"
+    ],
+    "frontmatter": {
+      "Course": "[[Análisis II]]",
+      "Created": "2024-05-01 12:50",
+      "Tema": "5",
+      "modified": "2024-06-23T13:59:24+02:00",
+      "Status": "🟥",
+      "Semester": 4
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      },
+      {
+        "heading": "La sonata en Beethoven",
+        "level": 3
+      },
+      {
+        "heading": "La sinfonía en Beethoven",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
+      }
+    ]
+  },
+  {
+    "fileName": "El Stile Antico - L",
+    "relativePath": "Spaces/My School/My Lectures/El Stile Antico - L.md",
+    "tags": [
+      "lecture",
+      "🟨"
+    ],
+    "frontmatter": {
+      "Semester": 3,
+      "Course": "[[Análisis I]]",
+      "Created": "2023-11-09 17:37",
+      "Tema": "4",
+      "modified": "2024-03-01T13:57:20+01:00",
+      "Status": "#🟨"
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      },
+      {
+        "heading": "El Concilio de Trento",
+        "level": 3
+      },
+      {
+        "heading": "Palestrina",
+        "level": 3
+      },
+      {
+        "heading": "Tomás de Victoria",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
+      },
+      {
+        "link": "Notación cuadrada - L#El motete",
+        "cleanLink": "Notación cuadrada - L",
+        "displayText": "motete",
+        "relativePath": "Spaces/My School/My Lectures/Notación cuadrada - L.md"
+      }
+    ]
+  },
+  {
     "fileName": "El Romanticismo musical - L",
     "relativePath": "Spaces/My School/My Lectures/El Romanticismo musical - L.md",
     "tags": [
@@ -4791,10 +4679,6 @@
       "Status": "#🟨"
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -4831,14 +4715,10 @@
       "Course": "[[Historia de la Música II]]",
       "Created": "2023-11-15 15:43",
       "Tema": "4",
-      "modified": "2024-08-08T16:37:28+02:00",
+      "modified": "2024-12-09T15:18:06+01:00",
       "Status": "#🟨"
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -4892,6 +4772,34 @@
     ]
   },
   {
+    "fileName": "Contrapunto riguroso II - generalidades y normas (continuación) - L",
+    "relativePath": "Spaces/My School/My Lectures/Contrapunto riguroso II - generalidades y normas (continuación) - L.md",
+    "tags": [
+      "lecture",
+      "contrapunto"
+    ],
+    "frontmatter": {
+      "Course": "[[Contrapunto]]",
+      "Created": "2024-03-14 09:49",
+      "Tema": "2",
+      "modified": "2024-04-14T18:24:20+02:00",
+      "Status": "🟥",
+      "Semester": 4
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
+      }
+    ]
+  },
+  {
     "fileName": "El Análisis Musical - L",
     "relativePath": "Spaces/My School/My Lectures/El Análisis Musical - L.md",
     "tags": [
@@ -4903,13 +4811,9 @@
       "Course": "[[Análisis I]]",
       "Created": "2023-10-19 14:33",
       "Tema": 1,
-      "modified": "2024-03-01T13:58:13+01:00"
+      "modified": "2024-12-17T12:10:08+01:00"
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -4951,42 +4855,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
-        "heading": "Notes",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "My Lectures",
-        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Del comienzo de los tiempos al futuro - la voz humana e instrumentos digitales - L",
-    "relativePath": "Spaces/My School/My Lectures/Del comienzo de los tiempos al futuro - la voz humana e instrumentos digitales - L.md",
-    "tags": [
-      "lecture",
-      "acustica"
-    ],
-    "frontmatter": {
-      "Course": "[[Acústica Musical y Organología]]",
-      "Created": "2024-06-18 15:58",
-      "Tema": "14",
-      "modified": "2024-06-18T16:56:02+02:00",
-      "Status": "🟥",
-      "Semester": 4
-    },
-    "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       }
@@ -5014,10 +4882,6 @@
       "Status": "#🟨"
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -5054,10 +4918,6 @@
       "Semester": 4
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -5139,10 +4999,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       }
@@ -5171,48 +5027,12 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       },
       {
         "heading": "Segunda especie a tres voces",
         "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "My Lectures",
-        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Contrapunto riguroso II - generalidades y normas (continuación) - L",
-    "relativePath": "Spaces/My School/My Lectures/Contrapunto riguroso II - generalidades y normas (continuación) - L.md",
-    "tags": [
-      "lecture",
-      "contrapunto"
-    ],
-    "frontmatter": {
-      "Course": "[[Contrapunto]]",
-      "Created": "2024-03-14 09:49",
-      "Tema": "2",
-      "modified": "2024-04-14T18:24:20+02:00",
-      "Status": "🟥",
-      "Semester": 4
-    },
-    "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
-        "heading": "Notes",
-        "level": 2
       }
     ],
     "links": [
@@ -5238,10 +5058,6 @@
       "Semester": 4
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -5270,10 +5086,6 @@
       "Semester": 4
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -5394,10 +5206,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       }
@@ -5424,10 +5232,6 @@
       "Status": "#🟨"
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -5460,10 +5264,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       },
@@ -5494,10 +5294,6 @@
       "Status": "#🟨"
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -5534,10 +5330,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       },
@@ -5547,6 +5339,45 @@
       },
       {
         "heading": "Desarrollo temático",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Composicion de un minuetto - L",
+    "relativePath": "Spaces/My School/My Lectures/Composicion de un minuetto - L.md",
+    "tags": [
+      "lecture"
+    ],
+    "frontmatter": {
+      "Semester": 3,
+      "Course": "[[Fundamentos de Composición]]",
+      "Created": "2023-11-19 16:51",
+      "Tema": "5",
+      "modified": "2024-03-01T13:57:00+01:00",
+      "Status": "#🟨"
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      },
+      {
+        "heading": "El minueto",
+        "level": 3
+      },
+      {
+        "heading": "El Trío",
+        "level": 3
+      },
+      {
+        "heading": "El Scherzo",
         "level": 3
       }
     ],
@@ -5572,10 +5403,6 @@
       "Status": "#🟨"
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -5617,38 +5444,39 @@
     ]
   },
   {
-    "fileName": "Composicion de un minuetto - L",
-    "relativePath": "Spaces/My School/My Lectures/Composicion de un minuetto - L.md",
+    "fileName": " Instrumentos de viento metal - L",
+    "relativePath": "Spaces/My School/My Lectures/ Instrumentos de viento metal - L.md",
     "tags": [
-      "lecture"
+      "lecture",
+      "orquestacion"
     ],
     "frontmatter": {
-      "Semester": 3,
-      "Course": "[[Fundamentos de Composición]]",
-      "Created": "2023-11-19 16:51",
-      "Tema": "5",
-      "modified": "2024-03-01T13:57:00+01:00",
-      "Status": "#🟨"
+      "Course": "[[Instrumentación y Orquestación]]",
+      "Created": "2024-12-12 14:42",
+      "Tema": "6",
+      "modified": "2024-12-12T14:43:38+01:00",
+      "Status": "🟥",
+      "Semester": 4
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
       },
       {
-        "heading": "El minueto",
+        "heading": "Trompa",
         "level": 3
       },
       {
-        "heading": "El Trío",
+        "heading": "Trompeta",
         "level": 3
       },
       {
-        "heading": "El Scherzo",
+        "heading": "Trombón",
+        "level": 3
+      },
+      {
+        "heading": "Tuba",
         "level": 3
       }
     ],
@@ -5716,10 +5544,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       }
@@ -5747,10 +5571,6 @@
       "Semester": 4
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -5794,6 +5614,34 @@
       {
         "heading": "Modalidad",
         "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Atonalidad - L",
+    "relativePath": "Spaces/My School/My Lectures/Atonalidad - L.md",
+    "tags": [
+      "lecture",
+      "composicion"
+    ],
+    "frontmatter": {
+      "Course": "[[Composición I]]",
+      "Created": "2024-12-14 12:16",
+      "Tema": "6",
+      "modified": "2024-12-17T11:57:21+01:00",
+      "Status": "🟥",
+      "Semester": 4
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
       }
     ],
     "links": [
@@ -5896,9 +5744,33 @@
     },
     "headings": [
       {
-        "heading": "Summary",
+        "heading": "Notes",
         "level": 2
-      },
+      }
+    ],
+    "links": [
+      {
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
+      }
+    ]
+  },
+  {
+    "fileName": " El siglo XX y las revoluciones de la escena. - L",
+    "relativePath": "Spaces/My School/My Lectures/ El siglo XX y las revoluciones de la escena. - L.md",
+    "tags": [
+      "lecture",
+      "escena"
+    ],
+    "frontmatter": {
+      "Course": "[[Música Para la Escena ]]",
+      "Created": "2024-12-05 14:08",
+      "Tema": "4",
+      "modified": "2024-12-05T14:08:38+01:00",
+      "Status": "🟥",
+      "Semester": 4
+    },
+    "headings": [
       {
         "heading": "Notes",
         "level": 2
@@ -5968,6 +5840,64 @@
     ]
   },
   {
+    "fileName": "Síntesis por modulación de frecuencia (FM)",
+    "relativePath": "Spaces/My School/My Inputs/Síntesis por modulación de frecuencia (FM).md",
+    "tags": [
+      "i/unir",
+      "sintesis"
+    ],
+    "frontmatter": {
+      "Course": "[[Síntesis de sonido]]",
+      "Source": "UNIR",
+      "Status": "🟥",
+      "Links": [
+        "[[My Inputs]]"
+      ],
+      "Created": "2024-12-05 17:20",
+      "Tema": "6",
+      "modified": "2024-12-05T17:21:13+01:00",
+      "Semester": 4
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Semana de Repaso",
+    "relativePath": "Spaces/My School/My Inputs/Semana de Repaso.md",
+    "tags": [
+      "i/unir",
+      "analisis"
+    ],
+    "frontmatter": {
+      "Semester": 3,
+      "Course": "[[Análisis I]]",
+      "tags": null,
+      "Created": "2023-12-07 17:58",
+      "modified": "2024-03-01T14:05:34+01:00",
+      "Status": "🟨"
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      },
+      {
+        "heading": "Cifrado armónico",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
+      }
+    ]
+  },
+  {
     "fileName": "Sonido y teatro. Bases para una dramaturgia conjunta",
     "relativePath": "Spaces/My School/My Inputs/Sonido y teatro. Bases para una dramaturgia conjunta.md",
     "tags": [
@@ -5983,7 +5913,7 @@
       ],
       "Created": "2024-10-28 18:06",
       "Tema": "1",
-      "modified": "2024-10-29T18:30:07+01:00",
+      "modified": "2024-12-16T15:18:46+01:00",
       "Semester": 4
     },
     "headings": [
@@ -6013,10 +5943,6 @@
       "Semester": 4
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -6090,42 +6016,6 @@
     ]
   },
   {
-    "fileName": "Semana de Repaso",
-    "relativePath": "Spaces/My School/My Inputs/Semana de Repaso.md",
-    "tags": [
-      "i/unir",
-      "analisis"
-    ],
-    "frontmatter": {
-      "Semester": 3,
-      "Course": "[[Análisis I]]",
-      "tags": null,
-      "Created": "2023-12-07 17:58",
-      "modified": "2024-03-01T14:05:34+01:00",
-      "Status": "🟨"
-    },
-    "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
-        "heading": "Notes",
-        "level": 2
-      },
-      {
-        "heading": "Cifrado armónico",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "My Lectures",
-        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
-      }
-    ]
-  },
-  {
     "fileName": "Presupuesto de gastos",
     "relativePath": "Spaces/My School/My Inputs/Presupuesto de gastos.md",
     "tags": [
@@ -6146,9 +6036,31 @@
     },
     "headings": [
       {
-        "heading": "Summary",
+        "heading": "Notes",
         "level": 2
-      },
+      }
+    ]
+  },
+  {
+    "fileName": "Pasando a la acción II -  composición para un anuncio televisivo ",
+    "relativePath": "Spaces/My School/My Inputs/Pasando a la acción II -  composición para un anuncio televisivo .md",
+    "tags": [
+      "i/unir",
+      "escena"
+    ],
+    "frontmatter": {
+      "Course": "[[Música Para la Escena ]]",
+      "Source": "UNIR",
+      "Status": "🟥",
+      "Links": [
+        "[[My Inputs]]"
+      ],
+      "Created": "2024-12-05 14:09",
+      "Tema": "12",
+      "modified": "2024-12-05T14:10:07+01:00",
+      "Semester": 4
+    },
+    "headings": [
       {
         "heading": "Notes",
         "level": 2
@@ -6175,10 +6087,6 @@
       "Semester": 4
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -6230,10 +6138,6 @@
       "modified": "2024-11-07T18:29:58+01:00"
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -6322,10 +6226,6 @@
       "modified": "2024-03-01T14:05:21+01:00"
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -6557,10 +6457,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       }
@@ -6597,10 +6493,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       }
@@ -6628,12 +6520,61 @@
     },
     "headings": [
       {
-        "heading": "Summary",
+        "heading": "Notes",
         "level": 2
-      },
+      }
+    ]
+  },
+  {
+    "fileName": "La transición del Clasicismo al Romanticismo",
+    "relativePath": "Spaces/My School/My Inputs/La transición del Clasicismo al Romanticismo.md",
+    "tags": [
+      "i/unir",
+      "historia",
+      "🟨"
+    ],
+    "frontmatter": {
+      "Semester": 3,
+      "Course": "[[Historia de la Música II]]",
+      "Source": "UNIR",
+      "Status": "🟨",
+      "Links": [
+        "[[My Inputs]]"
+      ],
+      "Created": "2023-11-22 18:34",
+      "Tema": "5",
+      "modified": "2024-08-21T15:14:29+02:00"
+    },
+    "headings": [
       {
         "heading": "Notes",
         "level": 2
+      },
+      {
+        "heading": "Beethoven",
+        "level": 3
+      },
+      {
+        "heading": "Primer período creativo",
+        "level": 4
+      },
+      {
+        "heading": "Segundo período creativo",
+        "level": 4
+      },
+      {
+        "heading": "Tercer período creativo",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "My Inputs",
+        "relativePath": "Spaces/My School/My Inputs/My Inputs.md"
+      },
+      {
+        "link": "El fin del mecenazgo musical",
+        "relativePath": "Spaces/My School/My Concepts/El fin del mecenazgo musical.md"
       }
     ]
   },
@@ -6680,63 +6621,6 @@
     ]
   },
   {
-    "fileName": "La transición del Clasicismo al Romanticismo",
-    "relativePath": "Spaces/My School/My Inputs/La transición del Clasicismo al Romanticismo.md",
-    "tags": [
-      "i/unir",
-      "historia",
-      "🟨"
-    ],
-    "frontmatter": {
-      "Semester": 3,
-      "Course": "[[Historia de la Música II]]",
-      "Source": "UNIR",
-      "Status": "🟨",
-      "Links": [
-        "[[My Inputs]]"
-      ],
-      "Created": "2023-11-22 18:34",
-      "Tema": "5",
-      "modified": "2024-08-21T15:14:29+02:00"
-    },
-    "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
-        "heading": "Notes",
-        "level": 2
-      },
-      {
-        "heading": "Beethoven",
-        "level": 3
-      },
-      {
-        "heading": "Primer período creativo",
-        "level": 4
-      },
-      {
-        "heading": "Segundo período creativo",
-        "level": 4
-      },
-      {
-        "heading": "Tercer período creativo",
-        "level": 4
-      }
-    ],
-    "links": [
-      {
-        "link": "My Inputs",
-        "relativePath": "Spaces/My School/My Inputs/My Inputs.md"
-      },
-      {
-        "link": "El fin del mecenazgo musical",
-        "relativePath": "Spaces/My School/My Concepts/El fin del mecenazgo musical.md"
-      }
-    ]
-  },
-  {
     "fileName": "La percepción humana del sonido",
     "relativePath": "Spaces/My School/My Inputs/La percepción humana del sonido.md",
     "tags": [
@@ -6756,10 +6640,6 @@
       "Semester": 4
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -6802,10 +6682,6 @@
       "Semester": 4
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -6982,10 +6858,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       },
@@ -7025,10 +6897,6 @@
       "Semester": 4
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -7111,14 +6979,10 @@
       ],
       "Created": "2024-05-03 12:05",
       "Tema": "4",
-      "modified": "2024-05-03T14:42:11+02:00",
+      "modified": "2024-12-17T12:12:47+01:00",
       "Semester": 4
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -7169,14 +7033,10 @@
       ],
       "Created": "2024-04-13 13:57",
       "Tema": "3",
-      "modified": "2024-04-21T18:37:40+02:00",
+      "modified": "2024-12-17T12:10:58+01:00",
       "Semester": 4
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -7235,10 +7095,6 @@
       "Semester": 4
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -7380,10 +7236,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       }
@@ -7468,10 +7320,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       }
@@ -7507,10 +7355,6 @@
       "Semester": 4
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -7600,6 +7444,60 @@
     ]
   },
   {
+    "fileName": "El lied y la ópera romántica hasta la primera mitad del siglo XIX",
+    "relativePath": "Spaces/My School/My Inputs/El lied y la ópera romántica hasta la primera mitad del siglo XIX.md",
+    "tags": [
+      "i/unir",
+      "historia"
+    ],
+    "frontmatter": {
+      "Semester": 3,
+      "Course": "[[Historia de la Música II]]",
+      "Source": "UNIR",
+      "Status": "🟨",
+      "Links": [
+        "[[My Inputs]]"
+      ],
+      "Created": "2024-01-10 11:43",
+      "Tema": "7",
+      "modified": "2024-08-14T13:12:36+02:00"
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      },
+      {
+        "heading": "El lied y la ópera alemana: Franz Schubert, Carl Maria von Weber y otros",
+        "level": 3
+      },
+      {
+        "heading": "La ópera alemana",
+        "level": 4
+      },
+      {
+        "heading": "La ópera italiana: Gioachino Rossini, Gaetano Donizetti, Vincenzo Bellini y otros",
+        "level": 4
+      },
+      {
+        "heading": "La ópera en Francia: Giacomo Meyerbeer y otros",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "My Inputs",
+        "relativePath": "Spaces/My School/My Inputs/My Inputs.md"
+      },
+      {
+        "link": "La ópera del barroco - L#La Ópera",
+        "cleanLink": "La ópera del barroco - L",
+        "displayText": "La ópera",
+        "relativePath": "Spaces/My School/My Lectures/La ópera del barroco - L.md"
+      }
+    ]
+  },
+  {
     "fileName": "Historia de la música occidental",
     "relativePath": "Spaces/My School/My Inputs/Historia de la música occidental.md",
     "tags": [
@@ -7619,10 +7517,6 @@
       "Semester": 4
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -7700,10 +7594,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       },
@@ -7726,60 +7616,6 @@
     ]
   },
   {
-    "fileName": "El lied y la ópera romántica hasta la primera mitad del siglo XIX",
-    "relativePath": "Spaces/My School/My Inputs/El lied y la ópera romántica hasta la primera mitad del siglo XIX.md",
-    "tags": [
-      "i/unir",
-      "historia"
-    ],
-    "frontmatter": {
-      "Semester": 3,
-      "Course": "[[Historia de la Música II]]",
-      "Source": "UNIR",
-      "Status": "🟨",
-      "Links": [
-        "[[My Inputs]]"
-      ],
-      "Created": "2024-01-10 11:43",
-      "Tema": "7",
-      "modified": "2024-08-14T13:12:36+02:00"
-    },
-    "headings": [
-      {
-        "heading": "Notes",
-        "level": 2
-      },
-      {
-        "heading": "El lied y la ópera alemana: Franz Schubert, Carl Maria von Weber y otros",
-        "level": 3
-      },
-      {
-        "heading": "La ópera alemana",
-        "level": 4
-      },
-      {
-        "heading": "La ópera italiana: Gioachino Rossini, Gaetano Donizetti, Vincenzo Bellini y otros",
-        "level": 4
-      },
-      {
-        "heading": "La ópera en Francia: Giacomo Meyerbeer y otros",
-        "level": 4
-      }
-    ],
-    "links": [
-      {
-        "link": "My Inputs",
-        "relativePath": "Spaces/My School/My Inputs/My Inputs.md"
-      },
-      {
-        "link": "La ópera del barroco - L#La Ópera",
-        "cleanLink": "La ópera del barroco - L",
-        "displayText": "La ópera",
-        "relativePath": "Spaces/My School/My Lectures/La ópera del barroco - L.md"
-      }
-    ]
-  },
-  {
     "fileName": "El estilo galante",
     "relativePath": "Spaces/My School/My Inputs/El estilo galante.md",
     "tags": [
@@ -7798,10 +7634,6 @@
       "Source": "UNIR"
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -7865,10 +7697,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       },
@@ -7918,10 +7746,6 @@
       "Semester": 4
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -7980,10 +7804,6 @@
       "Semester": 4
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -8085,10 +7905,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       },
@@ -8135,10 +7951,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       },
@@ -8176,10 +7988,6 @@
       "Semester": 4
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -8271,11 +8079,6 @@
         "relativePath": "Spaces/My School/My Concepts/Haydn - Sinfonía n o 1 Hob. I - 1, I.md"
       },
       {
-        "fileName": "Haydn - Cuarteto Op. 20 n o 4, IV",
-        "link": "El análisis de la forma sonata en Haydn",
-        "relativePath": "Spaces/My School/My Concepts/Haydn - Cuarteto Op. 20 n o 4, IV.md"
-      },
-      {
         "fileName": "Haydn - Cuarteto Op. 33 n o 3, I",
         "link": "El análisis de la forma sonata en Haydn",
         "relativePath": "Spaces/My School/My Concepts/Haydn - Cuarteto Op. 33 n o 3, I.md"
@@ -8284,6 +8087,11 @@
         "fileName": "Haydn - Cuarteto Op. 33 n o 2 «La broma», IV",
         "link": "El análisis de la forma sonata en Haydn",
         "relativePath": "Spaces/My School/My Concepts/Haydn - Cuarteto Op. 33 n o 2 «La broma», IV.md"
+      },
+      {
+        "fileName": "Haydn - Cuarteto Op. 20 n o 4, IV",
+        "link": "El análisis de la forma sonata en Haydn",
+        "relativePath": "Spaces/My School/My Concepts/Haydn - Cuarteto Op. 20 n o 4, IV.md"
       },
       {
         "fileName": "Haydn - Cuarteto Op. 20 n o 4, III",
@@ -8318,10 +8126,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       }
@@ -8347,10 +8151,6 @@
       "modified": "2024-03-01T14:04:51+01:00"
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -8497,10 +8297,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       },
@@ -8559,7 +8355,7 @@
       ],
       "Created": "2023-11-15 15:33",
       "Tema": "4",
-      "modified": "2024-08-13T12:53:33+02:00"
+      "modified": "2024-12-09T15:01:39+01:00"
     },
     "headings": [
       {
@@ -8622,10 +8418,6 @@
       "modified": "2024-03-01T14:05:30+01:00"
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -8731,10 +8523,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       },
@@ -8776,10 +8564,6 @@
       "Semester": 4
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -8869,10 +8653,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       },
@@ -8929,10 +8709,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       },
@@ -8988,10 +8764,6 @@
       "Semester": 4
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -9060,10 +8832,6 @@
       "Semester": 4
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -9155,10 +8923,6 @@
       "Semester": 4
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -9388,10 +9152,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       },
@@ -9458,10 +9218,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       },
@@ -9509,10 +9265,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       },
@@ -9555,10 +9307,6 @@
       "Semester": 4
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -9603,10 +9351,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       },
@@ -9649,10 +9393,6 @@
       "Semester": 4
     },
     "headings": [
-      {
-        "heading": "Summary",
-        "level": 2
-      },
       {
         "heading": "Notes",
         "level": 2
@@ -9983,10 +9723,6 @@
     },
     "headings": [
       {
-        "heading": "Summary",
-        "level": 2
-      },
-      {
         "heading": "Notes",
         "level": 2
       },
@@ -10005,6 +9741,32 @@
     ]
   },
   {
+    "fileName": " El siglo XX y las revoluciones de la escena.",
+    "relativePath": "Spaces/My School/My Inputs/ El siglo XX y las revoluciones de la escena..md",
+    "tags": [
+      "i/unir",
+      "escena"
+    ],
+    "frontmatter": {
+      "Course": "[[Música Para la Escena ]]",
+      "Source": "UNIR",
+      "Status": "🟥",
+      "Links": [
+        "[[My Inputs]]"
+      ],
+      "Created": "2024-12-05 14:08",
+      "Tema": "5",
+      "modified": "2024-12-05T14:08:54+01:00",
+      "Semester": 4
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      }
+    ]
+  },
+  {
     "fileName": "Síntesis de sonido",
     "relativePath": "Spaces/My School/My Courses/Síntesis de sonido.md",
     "tags": [
@@ -10018,9 +9780,8 @@
       "Professor": "Alejandro Rodríguez Antolín",
       "Semester": 1,
       "Year": 3,
-      "Summary": null,
       "Created": "2024-10-11 14:56",
-      "modified": "2024-12-01T13:15:45+01:00"
+      "modified": "2024-12-17T12:18:19+01:00"
     },
     "headings": [
       {
@@ -10052,9 +9813,8 @@
       "Professor": "Eva Esteve Roldan",
       "Semester": 1,
       "Year": 2,
-      "Summary": "Notacion",
       "Created": "2023-10-04 22:39",
-      "modified": "2024-06-04T19:38:41+02:00"
+      "modified": "2024-12-17T12:17:27+01:00"
     },
     "headings": [
       {
@@ -10118,9 +9878,8 @@
       "Professor": "Carolina Fontecha",
       "Semester": 1,
       "Year": 3,
-      "Summary": null,
       "Created": "2024-10-11 14:57",
-      "modified": "2024-11-24T14:16:33+01:00"
+      "modified": "2024-12-17T12:17:22+01:00"
     },
     "headings": [
       {
@@ -10272,9 +10031,8 @@
       "Professor": "Marta Vela González",
       "Semester": 1,
       "Year": 3,
-      "Summary": null,
       "Created": "2024-10-11 14:54",
-      "modified": "2024-11-19T16:36:33+01:00"
+      "modified": "2024-12-17T12:17:53+01:00"
     },
     "headings": [
       {
@@ -10307,9 +10065,8 @@
       "Professor": "Sara Escuel Salcedo",
       "Semester": 2,
       "Year": 2,
-      "Summary": null,
       "Created": "2024-03-07 09:58",
-      "modified": "2024-06-19T15:49:31+02:00"
+      "modified": "2024-12-17T12:17:15+01:00"
     },
     "headings": [
       {
@@ -10342,9 +10099,8 @@
       "Professor": "Juan González-Castelao",
       "Semester": 1,
       "Year": 3,
-      "Summary": "Historia",
       "Created": "2023-10-13 15:56",
-      "modified": "2024-10-28T14:34:37+01:00"
+      "modified": "2024-12-17T12:16:55+01:00"
     },
     "headings": [
       {
@@ -10392,9 +10148,8 @@
       "Professor": "Javier Ares Yebra",
       "Semester": 2,
       "Year": 2,
-      "Summary": null,
       "Created": "2024-03-15 14:53",
-      "modified": "2024-06-04T19:27:49+02:00"
+      "modified": "2024-12-17T12:17:40+01:00"
     },
     "headings": [
       {
@@ -10425,9 +10180,8 @@
       "Professor": "José Luis Centeno",
       "Semester": 1,
       "Year": 2,
-      "Summary": "Composición",
       "Created": "2023-10-16 11:42",
-      "modified": "2024-06-04T19:27:40+02:00"
+      "modified": "2024-12-17T12:17:33+01:00"
     },
     "headings": [
       {
@@ -10476,9 +10230,8 @@
       "Professor": "Juan González-Castelao",
       "Semester": 1,
       "Year": 2,
-      "Summary": "Hablar mucho sin decir nada",
       "Created": "2023-10-11 15:28",
-      "modified": "2024-08-12T17:23:02+02:00"
+      "modified": "2024-12-17T12:17:46+01:00"
     },
     "headings": [
       {
@@ -10518,9 +10271,8 @@
       "Professor": " Rafael Guzmán Barrios",
       "Semester": 2,
       "Year": 2,
-      "Summary": null,
       "Created": "2024-03-06 13:36",
-      "modified": "2024-06-20T17:59:18+02:00"
+      "modified": "2024-12-17T12:19:20+01:00"
     },
     "headings": [
       {
@@ -10553,9 +10305,8 @@
       "Professor": "Ana Vázquez Silva Silva",
       "Semester": 1,
       "Year": 3,
-      "Summary": "Composición",
       "Created": "2024-10-11 14:52",
-      "modified": "2024-10-31T11:29:34+01:00"
+      "modified": "2024-12-17T12:19:15+01:00"
     },
     "headings": [
       {
@@ -10584,8 +10335,7 @@
       "Professor": "Manuel Martínez",
       "Semester": 1,
       "Year": 2,
-      "Summary": "Armonía",
-      "modified": "2024-06-04T19:26:20+02:00"
+      "modified": "2024-12-17T12:19:04+01:00"
     },
     "headings": [
       {
@@ -10620,9 +10370,8 @@
       "Professor": "Manuel Martínez",
       "Semester": 2,
       "Year": 1,
-      "Summary": "Principios de armonía",
       "Created": "2023-10-11 19:02",
-      "modified": "2024-06-04T19:26:12+02:00"
+      "modified": "2024-12-17T12:18:57+01:00"
     },
     "headings": [
       {
@@ -10697,9 +10446,8 @@
       "Professor": "Marta Vela González",
       "Semester": 2,
       "Year": 2,
-      "Summary": null,
       "Created": "2024-03-04 17:22",
-      "modified": "2024-06-04T19:26:02+02:00"
+      "modified": "2024-12-17T12:18:52+01:00"
     },
     "headings": [
       {
@@ -10730,9 +10478,8 @@
       "Professor": "Marta Vela González",
       "Semester": 1,
       "Year": 2,
-      "Summary": "Análisis",
       "Created": "2023-10-04 19:59",
-      "modified": "2024-08-12T17:22:37+02:00"
+      "modified": "2024-12-17T12:18:47+01:00"
     },
     "headings": [
       {
@@ -10795,9 +10542,8 @@
       "Professor": "Alberto Rodríguez Molina",
       "Semester": 2,
       "Year": 2,
-      "Summary": null,
       "Created": "2024-03-04 14:15",
-      "modified": "2024-06-04T19:25:42+02:00"
+      "modified": "2024-12-17T12:18:36+01:00"
     },
     "headings": [
       {
@@ -11085,31 +10831,6 @@
     ]
   },
   {
-    "fileName": "Haydn - Cuarteto Op. 20 n o 4, IV",
-    "relativePath": "Spaces/My School/My Concepts/Haydn - Cuarteto Op. 20 n o 4, IV.md",
-    "tags": [
-      "concept",
-      "analisis2"
-    ],
-    "frontmatter": {
-      "Created": "2024-04-12 14:28",
-      "modified": "2024-04-12T14:32:30+02:00"
-    },
-    "links": [
-      {
-        "link": "El análisis de la forma sonata en Haydn",
-        "relativePath": "Spaces/My School/My Inputs/El análisis de la forma sonata en Haydn.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "El análisis de la forma sonata en Haydn",
-        "link": "Haydn - Cuarteto Op. 20 n o 4, IV",
-        "relativePath": "Spaces/My School/My Inputs/El análisis de la forma sonata en Haydn.md"
-      }
-    ]
-  },
-  {
     "fileName": "Haydn - Sinfonía n o  49 Hob. I - 49, I",
     "relativePath": "Spaces/My School/My Concepts/Haydn - Sinfonía n o  49 Hob. I - 49, I.md",
     "frontmatter": {
@@ -11162,6 +10883,31 @@
       {
         "fileName": "El análisis de la forma sonata en Haydn",
         "link": "Haydn - Cuarteto Op. 33 n o 2 «La broma», IV",
+        "relativePath": "Spaces/My School/My Inputs/El análisis de la forma sonata en Haydn.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Haydn - Cuarteto Op. 20 n o 4, IV",
+    "relativePath": "Spaces/My School/My Concepts/Haydn - Cuarteto Op. 20 n o 4, IV.md",
+    "tags": [
+      "concept",
+      "analisis2"
+    ],
+    "frontmatter": {
+      "Created": "2024-04-12 14:28",
+      "modified": "2024-04-12T14:32:30+02:00"
+    },
+    "links": [
+      {
+        "link": "El análisis de la forma sonata en Haydn",
+        "relativePath": "Spaces/My School/My Inputs/El análisis de la forma sonata en Haydn.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "El análisis de la forma sonata en Haydn",
+        "link": "Haydn - Cuarteto Op. 20 n o 4, IV",
         "relativePath": "Spaces/My School/My Inputs/El análisis de la forma sonata en Haydn.md"
       }
     ]
@@ -11247,58 +10993,6 @@
     "frontmatter": {
       "Created": "2023-12-21 11:56",
       "modified": "2024-10-10T22:02:37+02:00"
-    }
-  },
-  {
-    "fileName": "El fin del mecenazgo musical",
-    "relativePath": "Spaces/My School/My Concepts/El fin del mecenazgo musical.md",
-    "tags": [
-      "concept"
-    ],
-    "frontmatter": {
-      "Created": "2024-01-31 14:53",
-      "modified": "2024-01-31T15:13:21+01:00"
-    },
-    "backlinks": [
-      {
-        "fileName": "La transición del Clasicismo al Romanticismo",
-        "link": "El fin del mecenazgo musical",
-        "relativePath": "Spaces/My School/My Inputs/La transición del Clasicismo al Romanticismo.md"
-      },
-      {
-        "fileName": "El estilo galante",
-        "link": "El fin del mecenazgo musical",
-        "relativePath": "Spaces/My School/My Inputs/El estilo galante.md"
-      },
-      {
-        "fileName": "El estilo galante",
-        "link": "El fin del mecenazgo musical",
-        "relativePath": "Spaces/My School/My Inputs/El estilo galante.md",
-        "displayText": "la música de la corte decayó"
-      },
-      {
-        "fileName": "El Romanticismo musical ",
-        "link": "El fin del mecenazgo musical",
-        "relativePath": "Spaces/My School/My Inputs/El Romanticismo musical .md"
-      },
-      {
-        "fileName": "El Romanticismo musical ",
-        "link": "El fin del mecenazgo musical",
-        "relativePath": "Spaces/My School/My Inputs/El Romanticismo musical .md",
-        "displayText": "depender del mercado musical"
-      }
-    ]
-  },
-  {
-    "fileName": "Examen (notación)",
-    "relativePath": "Spaces/My School/My Concepts/Examen (notación).md",
-    "tags": [
-      "concept"
-    ],
-    "frontmatter": {
-      "Created": "2023-12-20 13:03",
-      "modified": "2024-01-18T18:14:12+01:00",
-      "Course": "[[Notación y Transcripción]]"
     }
   },
   {
@@ -11393,29 +11087,56 @@
     ]
   },
   {
-    "fileName": "Beethoven -  Sonatina en Fa mayor Ahn 5, II",
-    "relativePath": "Spaces/My School/My Concepts/Beethoven -  Sonatina en Fa mayor Ahn 5, II.md",
+    "fileName": "El fin del mecenazgo musical",
+    "relativePath": "Spaces/My School/My Concepts/El fin del mecenazgo musical.md",
     "tags": [
-      "concept",
-      "analisis2"
+      "concept"
     ],
     "frontmatter": {
-      "Created": "2024-03-10 14:32",
-      "modified": "2024-03-10T15:06:24+01:00"
+      "Created": "2024-01-31 14:53",
+      "modified": "2024-01-31T15:13:21+01:00"
     },
-    "links": [
-      {
-        "link": "El análisis de la música del clasicismo",
-        "relativePath": "Spaces/My School/My Inputs/El análisis de la música del clasicismo.md"
-      }
-    ],
     "backlinks": [
       {
-        "fileName": "El análisis de la música del clasicismo",
-        "link": "Beethoven -  Sonatina en Fa mayor Ahn 5, II",
-        "relativePath": "Spaces/My School/My Inputs/El análisis de la música del clasicismo.md"
+        "fileName": "La transición del Clasicismo al Romanticismo",
+        "link": "El fin del mecenazgo musical",
+        "relativePath": "Spaces/My School/My Inputs/La transición del Clasicismo al Romanticismo.md"
+      },
+      {
+        "fileName": "El estilo galante",
+        "link": "El fin del mecenazgo musical",
+        "relativePath": "Spaces/My School/My Inputs/El estilo galante.md"
+      },
+      {
+        "fileName": "El estilo galante",
+        "link": "El fin del mecenazgo musical",
+        "relativePath": "Spaces/My School/My Inputs/El estilo galante.md",
+        "displayText": "la música de la corte decayó"
+      },
+      {
+        "fileName": "El Romanticismo musical ",
+        "link": "El fin del mecenazgo musical",
+        "relativePath": "Spaces/My School/My Inputs/El Romanticismo musical .md"
+      },
+      {
+        "fileName": "El Romanticismo musical ",
+        "link": "El fin del mecenazgo musical",
+        "relativePath": "Spaces/My School/My Inputs/El Romanticismo musical .md",
+        "displayText": "depender del mercado musical"
       }
     ]
+  },
+  {
+    "fileName": "Examen (notación)",
+    "relativePath": "Spaces/My School/My Concepts/Examen (notación).md",
+    "tags": [
+      "concept"
+    ],
+    "frontmatter": {
+      "Created": "2023-12-20 13:03",
+      "modified": "2024-01-18T18:14:12+01:00",
+      "Course": "[[Notación y Transcripción]]"
+    }
   },
   {
     "fileName": "Capítulo VIII  - Técnica de Contrapunto pp.54",
@@ -11454,6 +11175,31 @@
     ]
   },
   {
+    "fileName": "Beethoven -  Sonatina en Fa mayor Ahn 5, II",
+    "relativePath": "Spaces/My School/My Concepts/Beethoven -  Sonatina en Fa mayor Ahn 5, II.md",
+    "tags": [
+      "concept",
+      "analisis2"
+    ],
+    "frontmatter": {
+      "Created": "2024-03-10 14:32",
+      "modified": "2024-03-10T15:06:24+01:00"
+    },
+    "links": [
+      {
+        "link": "El análisis de la música del clasicismo",
+        "relativePath": "Spaces/My School/My Inputs/El análisis de la música del clasicismo.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "El análisis de la música del clasicismo",
+        "link": "Beethoven -  Sonatina en Fa mayor Ahn 5, II",
+        "relativePath": "Spaces/My School/My Inputs/El análisis de la música del clasicismo.md"
+      }
+    ]
+  },
+  {
     "fileName": "Dataview",
     "relativePath": "Spaces/My School/My Concepts/Dataview.md",
     "tags": [
@@ -11461,6 +11207,17 @@
     ],
     "frontmatter": {
       "Created": "2023-10-02 18:42"
+    }
+  },
+  {
+    "fileName": "Build Your Knowledge Portfolio",
+    "relativePath": "Spaces/My School/My Concepts/Build Your Knowledge Portfolio.md",
+    "tags": [
+      "concept"
+    ],
+    "frontmatter": {
+      "Links": null,
+      "Created": "2023-10-11 17:56"
     }
   },
   {
@@ -11487,17 +11244,6 @@
         "relativePath": "Spaces/My School/My Inputs/El análisis de la música del clasicismo.md"
       }
     ]
-  },
-  {
-    "fileName": "Build Your Knowledge Portfolio",
-    "relativePath": "Spaces/My School/My Concepts/Build Your Knowledge Portfolio.md",
-    "tags": [
-      "concept"
-    ],
-    "frontmatter": {
-      "Links": null,
-      "Created": "2023-10-11 17:56"
-    }
   },
   {
     "fileName": "Beethoven  Sonata Op. 27, quasi una fantasia, II",
@@ -11544,6 +11290,19 @@
       "Created": "2024-02-09 11:15",
       "modified": "2024-02-09T11:16:07+01:00"
     }
+  },
+  {
+    "fileName": "README",
+    "relativePath": "README.md",
+    "frontmatter": {
+      "modified": "2024-12-03T14:49:17+01:00"
+    },
+    "headings": [
+      {
+        "heading": "obsidian-university",
+        "level": 1
+      }
+    ]
   },
   {
     "fileName": "Técnicas al usar melodías",
@@ -11795,39 +11554,6 @@
     ]
   },
   {
-    "fileName": "Course Template",
-    "relativePath": "Extras/Templates/School/Course Template.md",
-    "tags": [
-      "course"
-    ],
-    "frontmatter": {
-      "Links": "[[My Courses]]",
-      "Tags": "#course",
-      "Professor": null,
-      "Semester": null,
-      "Year": null,
-      "Summary": null,
-      "Created": "<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>",
-      "modified": "2024-10-11T14:56:18+02:00"
-    },
-    "headings": [
-      {
-        "heading": "Inputs",
-        "level": 2
-      },
-      {
-        "heading": "Lectures",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "My Courses",
-        "relativePath": "Spaces/My School/My Courses/My Courses.md"
-      }
-    ]
-  },
-  {
     "fileName": "Essay Template Addon",
     "relativePath": "Extras/Templates/School/Essay Template Addon.md",
     "headings": [
@@ -11870,6 +11596,38 @@
       {
         "heading": "Good Copy",
         "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Course Template",
+    "relativePath": "Extras/Templates/School/Course Template.md",
+    "tags": [
+      "course"
+    ],
+    "frontmatter": {
+      "Links": "[[My Courses]]",
+      "Tags": "#course",
+      "Professor": null,
+      "Semester": null,
+      "Year": null,
+      "Created": "<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>",
+      "modified": "2024-12-17T12:18:08+01:00"
+    },
+    "headings": [
+      {
+        "heading": "Inputs",
+        "level": 2
+      },
+      {
+        "heading": "Lectures",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "My Courses",
+        "relativePath": "Spaces/My School/My Courses/My Courses.md"
       }
     ]
   },
@@ -11946,6 +11704,9 @@
     "tags": [
       "dailynote"
     ],
+    "frontmatter": {
+      "modified": "2024-12-17T12:18:02+01:00"
+    },
     "headings": [
       {
         "heading": "Tasks",
@@ -11981,31 +11742,6 @@
     ]
   },
   {
-    "fileName": "Input Template",
-    "relativePath": "Extras/Templates/Notes/Input Template.md",
-    "tags": [
-      "i/unir"
-    ],
-    "frontmatter": {
-      "Course": null,
-      "Source": "UNIR",
-      "Status": "🟥",
-      "Links": [
-        "[[My Inputs]]"
-      ],
-      "Created": "<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>",
-      "Tema": null,
-      "modified": "2024-08-10T16:09:00+02:00",
-      "Semester": 4
-    },
-    "headings": [
-      {
-        "heading": "Notes",
-        "level": 2
-      }
-    ]
-  },
-  {
     "fileName": "Note Template",
     "relativePath": "Extras/Templates/Notes/Note Template.md",
     "tags": [
@@ -12035,6 +11771,31 @@
       {
         "link": "Atlas",
         "displayText": "🌎 My Atlas"
+      }
+    ]
+  },
+  {
+    "fileName": "Input Template",
+    "relativePath": "Extras/Templates/Notes/Input Template.md",
+    "tags": [
+      "i/unir"
+    ],
+    "frontmatter": {
+      "Course": null,
+      "Source": "UNIR",
+      "Status": "🟥",
+      "Links": [
+        "[[My Inputs]]"
+      ],
+      "Created": "<% tp.date.now(\"YYYY-MM-DD HH:mm\") %>",
+      "Tema": null,
+      "modified": "2024-08-10T16:09:00+02:00",
+      "Semester": 4
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
       }
     ]
   },
@@ -12193,6 +11954,112 @@
     ]
   },
   {
+    "fileName": "examen musica para escena",
+    "relativePath": "1.Inbox/examen musica para escena.md",
+    "tags": [
+      "concept"
+    ],
+    "frontmatter": {
+      "Created": "2024-12-16 11:51",
+      "modified": "2024-12-16T11:52:15+01:00"
+    }
+  },
+  {
+    "fileName": "Texto Composicion Coro",
+    "relativePath": "1.Inbox/Texto Composicion Coro.md",
+    "tags": [
+      "concept"
+    ],
+    "frontmatter": {
+      "Created": "2024-12-13 10:23",
+      "modified": "2024-12-13T10:41:06+01:00"
+    }
+  },
+  {
+    "fileName": "El análisis de la música de Fin de siècle I - L 1",
+    "relativePath": "1.Inbox/El análisis de la música de Fin de siècle I - L 1.md",
+    "tags": [
+      "lecture",
+      "analisis2"
+    ],
+    "frontmatter": {
+      "Course": "[[Análisis II]]",
+      "Created": "2024-05-29 13:55",
+      "Tema": "1",
+      "modified": "2024-12-16T23:47:05+01:00",
+      "Status": "🟥",
+      "Semester": 4
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      },
+      {
+        "heading": "Concepto fin de siècle",
+        "level": 3
+      },
+      {
+        "heading": "Fin de siècle en Francia",
+        "level": 3
+      },
+      {
+        "heading": "Debussy: Arabesque n ° 1",
+        "level": 4
+      },
+      {
+        "heading": "Satie: Gymnopédie n ° 1",
+        "level": 4
+      },
+      {
+        "heading": "Ravel: Jeux d'eaux",
+        "level": 4
+      },
+      {
+        "heading": "Ravel: Le tombe",
+        "level": 4
+      },
+      {
+        "heading": "Fin de siècle en Rusia",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Del comienzo de los tiempos al futuro - la voz humana e instrumentos digitales - L",
+    "relativePath": "1.Inbox/Del comienzo de los tiempos al futuro - la voz humana e instrumentos digitales - L.md",
+    "tags": [
+      "lecture",
+      "acustica"
+    ],
+    "frontmatter": {
+      "Course": "[[Acústica Musical y Organología]]",
+      "Created": "2024-06-18 15:58",
+      "Tema": "14",
+      "modified": "2024-06-18T16:56:02+02:00",
+      "Status": "🟥",
+      "Semester": 4
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "My Lectures",
+        "relativePath": "Spaces/My School/My Lectures/My Lectures.md"
+      }
+    ]
+  },
+  {
     "fileName": "Audición de HM2",
     "relativePath": "1.Inbox/Audición de HM2.md",
     "tags": [
@@ -12211,6 +12078,43 @@
       {
         "link": "Historia de la Música II",
         "relativePath": "Spaces/My School/My Courses/Historia de la Música II.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Audicion Beethoven",
+    "relativePath": "1.Inbox/Audicion Beethoven.md",
+    "tags": [
+      "concept"
+    ],
+    "frontmatter": {
+      "Created": "2024-12-10 13:55",
+      "modified": "2024-12-10T17:02:33+01:00"
+    },
+    "headings": [
+      {
+        "heading": "Cuartetos de Cuerda",
+        "level": 2
+      },
+      {
+        "heading": "Cuarteto de cuerda no 9",
+        "level": 4
+      },
+      {
+        "heading": "Cuarteto de de cuerda no 12",
+        "level": 4
+      },
+      {
+        "heading": "Sonatas",
+        "level": 3
+      },
+      {
+        "heading": "Sonata para piano op 23",
+        "level": 4
+      },
+      {
+        "heading": "Sonata no 29.",
+        "level": 4
       }
     ]
   },
