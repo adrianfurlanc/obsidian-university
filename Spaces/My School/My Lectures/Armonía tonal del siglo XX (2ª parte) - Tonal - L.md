@@ -5,9 +5,9 @@ tags:
   - composicion
 Created: 2024-11-15 13:57
 Tema: "3"
-modified: 2024-11-15T15:43:10+01:00
+modified: 2024-12-19T17:25:44+01:00
 Status: 🟥
-Semester: 4
+Semester: 5
 ---
 Links:: [[My Lectures]]
 ___

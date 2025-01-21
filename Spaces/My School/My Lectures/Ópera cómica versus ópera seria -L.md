@@ -5,8 +5,8 @@ tags:
   - "#lecture"
 Created: 2023-11-08 20:56
 Tema: "3"
-modified: 2024-11-14T16:37:15+01:00
-Status: "#🟨"
+modified: 2025-01-15T14:43:19+01:00
+Status: 🟨
 ---
 \_Status:: #🟨  
 \_Tags::  #lecture 

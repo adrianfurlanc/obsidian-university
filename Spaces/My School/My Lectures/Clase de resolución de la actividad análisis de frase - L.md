@@ -5,7 +5,7 @@ tags:
   - analisis2
 Created: 2024-04-21 14:35
 Tema: "4"
-modified: 2024-04-21T17:00:56+02:00
+modified: 2025-01-21T13:09:57+01:00
 Status: 🟥
 Semester: 4
 ---
@@ -32,7 +32,7 @@ Lab, Do, Mi, Fa# (Alemana)
 Lab, Do, Fa# (Italiana)
 Lab, Do, Re, Fa# (Francesa)
 
-> [!hint]
+> [!info]
 > Con las cuatro notas: Alemana
 > Con 3 notas (le quitamos la quinta): Italiana
 > Si se baja medio tono a la quinta: Francesa

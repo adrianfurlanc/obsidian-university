@@ -8,9 +8,9 @@ Professor: Alejandro Rodríguez Antolín
 Semester: 1
 Year: 3
 Created: 2024-10-11 14:56
-modified: 2024-12-17T12:18:19+01:00
+modified: 2025-01-15T17:44:53+01:00
 ---
-\_Links::  [[My Courses]]
+Links::  [[My Courses]]
 ___
 
 ## Inputs

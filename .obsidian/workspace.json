@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8eca33ce145372c0",
+        "id": "934b1f6b98e34aa0",
         "type": "tabs",
         "children": [
           {
-            "id": "5e689daaf2275650",
+            "id": "7e0ba46516b02075",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/My School/My Lectures/Dodecafonismo serial - L.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Dodecafonismo serial - L"
+              "title": "New tab"
             }
           }
         ]
@@ -54,8 +50,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "03195c1cb51b65ce",
@@ -67,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "summary",
+                "query": "hint",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,20 +175,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Spaces/My School/My Lectures/Dodecafonismo serial - L.md"
+                "file": "Spaces/My School/My Courses/Instrumentación y Orquestación.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Dodecafonismo serial - L"
-            }
-          },
-          {
-            "id": "a18985ad6ebb158b",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "File properties for Instrumentación y Orquestación"
             }
           }
         ],
@@ -209,10 +194,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/My School/My Lectures/Dodecafonismo serial - L.md"
+                "file": "Spaces/My School/My Courses/Instrumentación y Orquestación.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Dodecafonismo serial - L"
+              "title": "Outline of Instrumentación y Orquestación"
             }
           },
           {
@@ -256,7 +241,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.5
+    "width": 395.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -271,49 +257,48 @@
       "cmdr:Open another vault": false
     }
   },
-  "active": "5e689daaf2275650",
+  "active": "7e0ba46516b02075",
   "lastOpenFiles": [
-    "Extras/Templates/Periodic/Weekly Review Template.md",
-    "Spaces/My School/My Courses/Filosofía.md",
-    "Extras/FileClass/course.md",
-    "🎓 Obsidian University MOC.md",
-    "Spaces/My School/My Lectures/Dodecafonismo serial - L.md",
-    "Spaces/My School/My Lectures/Atonalidad - L.md",
-    "Spaces/My School/My Courses/Composición I.md",
-    "Spaces/My School/My Inputs/Armonía del siglo XX (1ª parte) - Tonal.md",
-    "Spaces/My School/My Courses/Contrapunto.md",
-    "Spaces/My School/My Courses/Armonía I.md",
-    "Spaces/My School/My Courses/Armonía II.md",
-    "Spaces/My School/My Courses/Análisis II.md",
-    "Spaces/My School/My Courses/Análisis I.md",
-    "Spaces/My School/My Courses/Acústica Musical y Organología.md",
-    "Spaces/My School/My Courses/Síntesis de sonido.md",
-    "Extras/Templates/School/Course Template.md",
-    "Extras/Templates/Periodic/Daily Note Template.md",
+    "Spaces/My School/My Lectures/Arpa y Tecla - L.md",
+    "Extras/Images/2025-0-2_16.36.21.png",
+    "Spaces/My School/My Lectures/Instrumentos de percusión - L.md",
     "Spaces/My School/My Courses/Instrumentación y Orquestación.md",
-    "Spaces/My School/My Courses/Gestión de Empresas.md",
-    "Spaces/My School/My Courses/Fundamentos de Composición.md",
-    "Spaces/My School/My Courses/Notación y Transcripción.md",
-    "Spaces/My School/My Courses/Música Para la Escena .md",
-    "Spaces/My School/My Courses/Historia de la Música siglo XX y XXI.md",
-    "Spaces/My School/My Courses/Historia de la Música II.md",
-    "Spaces/My School/My Inputs/La música después de la Segunda Guerra Mundial hasta 1960/La música después de la Segunda Guerra Mundial hasta 1960-1970 (parte II).md",
     "Spaces/My School/My Courses/My Courses.md",
+    "Spaces/My School/My Inputs/Pasando a la acción II -  composición para un anuncio televisivo .md",
+    "Spaces/My School/My Courses/Música Para la Escena .md",
+    "Spaces/My School/My Lectures/Contrapunto antitonal (II) - L.md",
+    "1.Inbox/Compositores del Romanticismo.md",
+    "Spaces/My School/My Lectures/Clase de resolución de la actividad análisis de frase - L.md",
+    "Spaces/My School/My Lectures/La síntesis granular - L.md",
+    "Spaces/My School/My Lectures/Contrapunto antitonal (I) - L.md",
+    "Spaces/My School/My Lectures/La composición musical para videojuegos - L.md",
+    "Spaces/My School/My Courses/Composición I.md",
+    "Spaces/My School/My Lectures/Pasando a la acción II -  composición para un anuncio televisivo - L.md",
+    "Spaces/My School/My Inputs/Pasando a la acción I. Composición para un corto de animación.md",
+    "Spaces/My School/My Inputs/El siglo XX y las revoluciones de la escena.md",
+    "Spaces/My School/My Lectures/El siglo xx y las revoluciones de las escenas - L.md",
+    "Spaces/My School/My Lectures/Pasando a la acción I. Composición para un corto de animación - L.md",
+    "1.Inbox/Música Para la Escena.md",
+    "Spaces/My School/My Inputs/Medios técnicos para la composición II .md",
+    "Spaces/My School/My Inputs/Medios técnicos actuales en la composición para la imagen I.md",
+    "Spaces/My School/My Lectures/Medios técnicos para la composición II - L.md",
+    "Extras/Images/2024-10-0_16.16.16.png",
+    "Spaces/My School/My Lectures/Medios técnicos actuales en la composición para la imagen I - L.md",
+    "Spaces/My School/My Courses/Síntesis de sonido.md",
+    "Spaces/My School/My Inputs/La síntesis granular.md",
+    "Extras/Images/2025-0-4_12.58.14.png",
+    "Extras/Images/2025-0-4_12.57.11.png",
+    "Extras/Images/2025-0-3_17.39.37.png",
+    "Extras/Images/2024-11-0_14.54.15.png",
+    "Extras/Images/2024-11-0_14.47.20.png",
+    "Extras/Images/2025-0-3_12.16.49.png",
+    "Extras/Images/2025-0-2_17.31.24.png",
+    "Extras/Images/2025-0-2_17.30.19.png",
     "Spaces/My School/My Inputs/deleteSummary.zsh",
     "Spaces/My School/deleteSummary.zsh",
     "deleteSummary.zsh",
-    "Extras/Images/2024-11-5_10.33.10.png",
-    "Extras/Images/2024-11-4_18.50.28.png",
-    "Extras/Images/2024-11-2_12.58.36.png",
     "y.pub",
     "y",
-    "Extras/Images/2024-11-0_13.20.18.png",
-    "Extras/Images/2024-11-0_14.47.20.png",
-    "Extras/Images/2024-11-0_14.18.57.png",
-    "Extras/Images/2024-11-0_14.20.5.png",
-    "Extras/Images/2024-11-0_14.54.15.png",
-    "Extras/Images/2024-10-0_16.16.16.png",
-    "Extras/Images/2024-10-5_16.39.11.png",
     "1.Inbox",
     "Note-Making Station.canvas",
     "sync",

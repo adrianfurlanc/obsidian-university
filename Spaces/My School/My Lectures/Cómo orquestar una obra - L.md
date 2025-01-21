@@ -5,9 +5,9 @@ tags:
   - orquestacion
 Created: 2024-11-07 11:18
 Tema: "2"
-modified: 2024-11-07T14:03:14+01:00
+modified: 2024-12-19T17:48:38+01:00
 Status: 🟥
-Semester: 4
+Semester: 5
 ---
 Links:: [[My Lectures]]
 ___

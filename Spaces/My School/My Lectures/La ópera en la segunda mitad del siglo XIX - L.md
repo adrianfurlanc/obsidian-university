@@ -5,7 +5,7 @@ tags:
   - "#lecture"
 Created: 2024-01-17 17:08
 Tema: "9"
-modified: 2024-08-19T16:16:44+02:00
+modified: 2025-01-14T19:28:07+01:00
 Status: "#🟥"
 ---
 
@@ -14,6 +14,13 @@ Links:: [[My Lectures]]
 ___
 
 ## Notes
+
+1:12:00 Jan 10 (tema 9) Habla del examen
+
+### Giuseppe Verdi
+
+Usa madrigalismos. 
+
 
 ### La Ópera en Francia
 
@@ -37,6 +44,8 @@ Escribió sus propios libretos
 
 ##### Primer período (hasta 1842)
 
+Die Feen (1833), Das Liebesverbot (1836), Rienzi (1840)
+
 
 
 ##### Período Medio (1843-1851)
@@ -47,6 +56,7 @@ Posee un mayor fluidez en el desarrollo temático musical. Quería crear un dram
 
 Sustituye la obertura por una especie de preludio que es un resumen ó sinopsis musical de toda la ópera. Da una mayor continuidad a la obra aumentado el protagonismo de la orquesta
 
+Der fliegende Holländer (1841), Tannhäuser (1845) y Lohengrin (1848).
 ##### Último Período
 
 Uso de leit motif. Usa una orquesta enorme. 
@@ -58,6 +68,8 @@ Compone el Anillo del Nubelungo
 ### La ópera y la zarzuela en España
 
 La ópera y la zarzuela decayeron, ésto debido a la predilección por la música italiana
+
+Género chico son obras pequeñas con mucho diálogos basados en la actualidad. que tuviesen gracia y tratar an temas de actualidad.
 
 - [ ] España. Audiciones
 

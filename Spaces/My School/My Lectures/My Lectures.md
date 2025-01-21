@@ -2,7 +2,7 @@
 semester: 4
 tags:
   - "#🔍"
-modified: 2024-10-31T10:02:43+01:00
+modified: 2024-12-19T18:00:16+01:00
 ---
 \_Tags::  #🔍 
 Links:: [[My School|🏫 My School]]
@@ -21,8 +21,8 @@ action QuickAdd: Create Lecture Note
 ```dataview
 table Course, Tema, Status
 from #lecture AND !"Extras" 
-where semester = 4 AND Status = "🟥"
-sort Tema DESC
+where semester = 5 AND Status = "🟥"
+sort Course DESC
 ```
 
 ### In Progress 🟨
@@ -30,7 +30,7 @@ sort Tema DESC
 ```dataview
 table Course, Tema, Status
 from #lecture AND !"Extras" 
-where semester = 4 AND Status = "🟨"
+where semester = 5 AND Status = "🟨"
 sort Created desc, Tema desc
 ```
 

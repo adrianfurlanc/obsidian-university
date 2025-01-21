@@ -1,7 +1,7 @@
 ---
 Course: "[[Música Para la Escena ]]"
 Source: UNIR
-Status: 🟥
+Status: 🟨
 Links:
   - "[[My Inputs]]"
 tags:
@@ -9,8 +9,8 @@ tags:
   - escena
 Created: 2024-11-24 14:16
 Tema: "3"
-modified: 2024-11-24T14:38:47+01:00
-Semester: 4
+modified: 2025-01-15T18:40:24+01:00
+Semester: 5
 ---
 ## Notes
 

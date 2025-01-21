@@ -4,10 +4,10 @@ tags:
   - "#lecture"
   - escena
 Created: 2024-11-15 11:31
-Tema: "10"
-modified: 2024-11-24T16:21:38+01:00
+Tema: a10
+modified: 2024-12-20T11:47:56+01:00
 Status: 🟥
-Semester: 4
+Semester: 5
 ---
 Links:: [[My Lectures]]
 ___

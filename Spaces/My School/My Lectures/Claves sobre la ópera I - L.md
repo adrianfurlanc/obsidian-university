@@ -5,9 +5,9 @@ tags:
   - escena
 Created: 2024-11-15 11:12
 Tema: "2"
-modified: 2024-11-16T16:15:43+01:00
+modified: 2024-12-19T17:41:37+01:00
 Status: 🟥
-Semester: 4
+Semester: 5
 ---
 Links:: [[My Lectures]]
 ___

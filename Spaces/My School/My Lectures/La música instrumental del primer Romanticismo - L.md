@@ -1,12 +1,12 @@
 ---
-Semester: 3
+Semester: 4
 Course: "[[Historia de la Música II]]"
 tags:
   - "#lecture"
   - historia
 Created: 2024-01-16 12:25
 Tema: "8"
-modified: 2024-08-14T15:43:32+02:00
+modified: 2025-01-10T16:28:23+01:00
 Status: "#🟨"
 ---
 
@@ -58,6 +58,8 @@ Debido a una enfermedad que le impidió el uso de la mano izquierda, se dedicó 
 Buscaba inspiración en la poesía.
 
 Tiene una orquestación un tanto pesada. Y no dominaba bien el desarrollo temático
+
+
 
 Una de sus obras más conocidas es *Escenas del Bosque*.
 

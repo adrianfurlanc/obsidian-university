@@ -5,9 +5,9 @@ tags:
   - sintesis
 Created: 2024-11-22 15:26
 Tema: "4"
-modified: 2024-11-22T17:31:00+01:00
-Status: 🟥
-Semester: 4
+modified: 2025-01-16T12:11:41+01:00
+Status: 🟨
+Semester: 5
 ---
 Links:: [[My Lectures]]
 ___

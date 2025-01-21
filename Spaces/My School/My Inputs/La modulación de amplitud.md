@@ -1,7 +1,7 @@
 ---
 Course: "[[Síntesis de sonido]]"
 Source: UNIR
-Status: 🟥
+Status: 🟨
 Links:
   - "[[My Inputs]]"
 tags:
@@ -9,10 +9,10 @@ tags:
   - sintesis
 Created: 2024-12-01 13:13
 Tema: "5"
-modified: 2024-12-01T13:24:08+01:00
+modified: 2025-01-15T15:17:19+01:00
 Semester: 4
 ---
-## Notes
+ ## Notes
 
 ### Definición
 
@@ -44,7 +44,7 @@ La diferencia entre la modulación en anillo y la modulación de amplitud es q
 
 ### Experiencias de interés
 
-Supongamos que utilizamos un teclado que controla la frecuencia de la forma de o n d a portadora y que tenemos la moduladora de misma amplitud pero de frecuencia fija, digamos de 100 Hz.
+Supongamos que utilizamos un teclado que controla la frecuencia de la forma de onda portadora y que tenemos la moduladora de misma amplitud pero de frecuencia fija, digamos de 100 Hz.
 
 - ▸  Cuando la portadora tiene una frecuencia igualmente de 100 Hz: las tres frecuencias resultantes son 100 Hz (frecuencia de la portadora), 0 Hz (resta de la frecuencia de la moduladora y de la frecuencia de la portadora, en este caso son iguales) y 200 Hz (suma de las dos frecuencias). Podríamos pensar que la frecuencia de 0 Hz no tiene ningún efecto; pero sin embargo, hay que tener en cuenta que tiene una amplitud igual a la mitad de la de la portadora. Al ser una frecuencia de 0 Hz, es decir con una fase que no evoluciona, genera un efecto DC offset (del inglés direct current) que modifica la forma de onda resultante.
     

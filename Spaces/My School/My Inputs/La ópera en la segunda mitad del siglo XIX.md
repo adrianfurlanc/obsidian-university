@@ -9,8 +9,8 @@ tags:
   - historia
 Created: 2024-08-14 16:26
 Tema: "9"
-modified: 2024-08-29T12:52:11+02:00
-Semester: 4
+modified: 2025-01-10T16:51:27+01:00
+Semester: 5
 ---
 ## Notes
 
@@ -26,7 +26,7 @@ En este contexto surge la figura de Giuseppe Verdi (1813-1901), un compositor qu
 
 Su primera época está marcada por la influencia de Donizetti. Tras el éxito de su primera obra, Oberto (1839), sus óperas adoptan temas políticos, históricos y clásicos
 
-Un cambio de época, marcado también por tres grandes títulos: Rigolett, Ill trovatore (1853) y La Traviata (1853). Poco a poco va empleando la forma de utilizar la música para subrayar la personalidad de los personajes y la relación entre ellos (incluso como representantes de grupos sociales o naciones enteras), así como argumentos de cierta grandiosidad en la línea de Meyerbeer y la grand opéra francesa
+Un cambio de época, marcado también por tres grandes títulos: Rigoletto, Ill trovatore (1853) y La Traviata (1853). Poco a poco va empleando la forma de utilizar la música para subrayar la personalidad de los personajes y la relación entre ellos (incluso como representantes de grupos sociales o naciones enteras), así como argumentos de cierta grandiosidad en la línea de Meyerbeer y la grand opéra francesa.
 
 Lo cierto es que su acompañamiento orquestal se hace cada vez más rico e integrado en el drama, al igual que sus recitativos. De esta época cabe destacar también Un ballo in maschera (1859).
 

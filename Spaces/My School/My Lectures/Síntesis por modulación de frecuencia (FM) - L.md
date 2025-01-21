@@ -5,9 +5,9 @@ tags:
   - sintesis
 Created: 2024-12-05 17:20
 Tema: "6"
-modified: 2024-12-05T19:07:57+01:00
-Status: 🟥
-Semester: 4
+modified: 2025-01-16T12:40:18+01:00
+Status: 🟨
+Semester: 5
 ---
 Links:: [[My Lectures]]
 ___
@@ -25,7 +25,7 @@ cambia la frecuencia de la portadora
 
 #### Aplicaciones
 
-El coeficente de armonicidad es la cociente entre las frecuencia portante y la modulante. Si es un número entero el coeficiente indica que estamos ante un sonido que va a tener n espectro armónico. Si la diferencia de los osciladores es muy pequeña se generan parciales y da un sonido más natural
+El coeficente de armonicidad es la cociente entre las frecuencia portante y la modulante. Si es un número entero el coeficiente indica que estamos ante un sonido que va a tener un espectro armónico. Si la diferencia de los osciladores es muy pequeña se generan parciales y da un sonido más natural
 
 Índice de modulación: cociente entre la desviación de frecuencia (amplitud de la modulante) y la frecuencia modulante. Si cambia, modifica la amplitud de las bandas laterales. Mientras más alto más brillante será el sonido resultante. Puden modificarse en el tiempo.
 

@@ -1,7 +1,7 @@
 ---
 Course: "[[Música Para la Escena ]]"
 Source: UNIR
-Status: 🟥
+Status: 🟨
 Links:
   - "[[My Inputs]]"
 tags:
@@ -9,8 +9,8 @@ tags:
   - escena
 Created: 2024-11-15 11:32
 Tema: "2"
-modified: 2024-11-24T17:43:47+01:00
-Semester: 4
+modified: 2025-01-15T18:40:14+01:00
+Semester: 5
 ---
 ## Notes
 
@@ -99,6 +99,7 @@ Musicalmente hablando, hay una serie de elementos que van a ir modificándose. 
 El bajo continuo y el contrapunto van dejando paso a melodías expresivas que van a potenciar los sentimientos de los protagonistas. Las arias, por tanto, van a convertirse en el momento de máxima atención.
 
 ### La guerra Gluck-Piccini
+
 **Gluck**
 
 Gluck (1714-1787) fue un compositor alemán que renovó la ópera inspirado en sus orígenes griegos. 

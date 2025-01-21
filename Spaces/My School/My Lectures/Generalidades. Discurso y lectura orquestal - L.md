@@ -4,9 +4,9 @@ tags:
   - "#lecture"
 Created: 2024-10-24 11:31
 Tema: "1"
-modified: 2024-11-07T11:56:37+01:00
+modified: 2024-12-19T17:48:32+01:00
 Status: 🟥
-Semester: 4
+Semester: 5
 ---
 Links:: [[My Lectures]]
 ___

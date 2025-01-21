@@ -1,11 +1,11 @@
 ---
-Semester: 3
+Semester: 4
 Course: "[[Historia de la Música II]]"
 tags:
   - "#lecture"
 Created: 2024-01-10 13:48
 Tema: "7"
-modified: 2024-08-14T14:15:44+02:00
+modified: 2024-12-19T17:31:59+01:00
 Status: "#🟨"
 ---
 

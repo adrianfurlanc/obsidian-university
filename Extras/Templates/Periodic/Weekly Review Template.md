@@ -1,8 +1,6 @@
 ---
-Summary:
-  - - <%tp.file.title%>
 Created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
-modified: 2024-12-17T12:30:36+01:00
+modified: 2024-12-17T12:38:13+01:00
 ---
 Tags:: #reviews/weekly
 Links:: [[My Periodic Reviews]]

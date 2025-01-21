@@ -7,9 +7,9 @@ tagNames:
 excludes: 
 extends: 
 version: 2
+modified: 2024-12-17T12:38:28+01:00
 ---
 Status:: {"type":"Select","options":{"valuesList":{"1":"#🟥","2":"#🟨","3":"#🟩"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 
-Summary::  {"type":"Input","options":{}}
 Year:: {"type":"Number","options":{}}
 Semester:: {"type":"Number","options":{}}
